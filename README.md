@@ -1,0 +1,2 @@
+# obsidianFloder
+Some notes.
