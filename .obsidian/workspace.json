@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5096be6a7736c239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "- Wins.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "d617641bf9e41eb7",
             "type": "leaf",
             "state": {
@@ -135,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "- Wins.md"
+                "file": "Hanoi.md"
               }
             }
           }
@@ -152,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "- Wins.md",
+                "file": "Hanoi.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "- Wins.md",
+                "file": "Hanoi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,8 +182,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "9ee614a2cd88763c",
+  "active": "a54afdda6f9b32ec",
   "lastOpenFiles": [
+    "- Wins.md",
     "新建 文本文档.txt",
     "新建文件夹",
     "逻辑学导论.md",
@@ -230,7 +218,6 @@
     "Untitled",
     "阈限测定实验.md",
     "模块化程序设计.md",
-    "- Wins.md",
     "2023-03-15.md",
     "The 6 Most Important Keys to Typing in Markdown.md",
     "The 7 Most Important Hotkeys in Obsidian.md",
