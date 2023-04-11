@@ -1,0 +1,14 @@
+# Some Tools
+-   [calibre - E-book management](https://sspai.com/link?target=https%3A%2F%2Fcalibre-ebook.com%2Fdownload)：将其他格式的电子书转换为 `pdf`
+-   [acrobat pro](https://sspai.com/link?target=https%3A%2F%2Fwww.adobe.com%2Fhk_en%2Facrobat%2Ffree-trial-download.html)：专业版的能对 pdf 进行 ocr 识别并使字体能被选中
+-   [quicker](https://sspai.com/link?target=https%3A%2F%2Fgetquicker.net%2FDownload)：可以为常用动作设置脚本
+-   [沙拉查词](https://sspai.com/link?target=https%3A%2F%2Fsaladict.crimx.com%2F)：支持显示多个翻译平台的翻译结果，并且结合 `quicker` 可以在浏览器外划词翻译
+-   [RSSHub-Radar](https://sspai.com/link?target=https%3A%2F%2Fgithub.com%2FDIYgod%2FRSSHub-Radar)：可以快速发现和订阅当前 RSS 和 RSSHub
+-   [feedly](https://sspai.com/link?target=https%3A%2F%2Ffeedly.com%2F)：一款 RSS 阅读器，可以查看你 RSS 订阅的内容
+-   [简悦](https://sspai.com/link?target=http%3A%2F%2Fksria.com%2Fsimpread%2F)：可以将网络网络文章剪藏为 `Markdown`
+-   [Language Reactor](https://sspai.com/link?target=https%3A%2F%2Fwww.languagereactor.com%2F) ：可以实时显示英文视频的中文字幕
+-   [cubox](https://sspai.com/link?target=https%3A%2F%2Fcubox.pro%2F)：一站式收集和阅读信息的平台
+-   [obsidian](https://sspai.com/link?target=https%3A%2F%2Fobsidian.md%2F)：支持双链、所见即所得的 `Markdown` 笔记软件，拥有海量开源插件且用户社群活跃
+-   [anki](https://sspai.com/link?target=https%3A%2F%2Fapps.ankiweb.net%2F)：使用间隔重复算法安排复习计划
+-   [PicGo](https://sspai.com/link?target=https%3A%2F%2Fgithub.com%2FMolunerfinn%2FPicGo%2Freleases)：快速上传图片到图床并且获取图片 url 链接
+-   [网易有道词典](https://sspai.com/link?target=https%3A%2F%2Fcidian.youdao.com%2F%23%2F)：有道词典现在往学术方向发展，支持各种翻译（截图、图片、视频翻译），以及可以搜索论文文献
