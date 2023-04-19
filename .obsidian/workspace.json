@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8345aaeeca2b67b2",
+            "id": "128c938c2aea0063",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "逻辑学导论.md",
+                "file": "Quest.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "逻辑学导论.md"
+                "file": "Quest.md"
               }
             }
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "逻辑学导论.md",
+                "file": "Quest.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "逻辑学导论.md",
+                "file": "Quest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,14 +182,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "8345aaeeca2b67b2",
+  "active": "128c938c2aea0063",
   "lastOpenFiles": [
+    "逻辑学导论.md",
+    "Quest.md",
     "Pasted image 20230411211436.png",
     "Pasted image 20230323180752.png",
     "Pasted image 20230409210349.png",
     "Pasted image 20230323180707.png",
     "逻辑学导论P1.png",
-    "逻辑学导论.md",
     "模块化程序设计.md",
     "理想国.md",
     "程序设计专题.md",
