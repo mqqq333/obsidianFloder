@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -148,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "逻辑学导论.md"
+              }
             }
           }
         ],
@@ -164,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "逻辑学导论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "逻辑学导论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,7 +208,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a391d204c25a48ea",
+  "active": "6394f4cb6b67c57a",
   "lastOpenFiles": [
     "离散数学.md",
     "逻辑学导论.md",
