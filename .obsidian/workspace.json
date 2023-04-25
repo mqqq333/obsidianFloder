@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physio-psychological.md",
+                "file": "逻辑学导论.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physio-psychological.md"
+                "file": "逻辑学导论.md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physio-psychological.md",
+                "file": "逻辑学导论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physio-psychological.md",
+                "file": "逻辑学导论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,17 +198,21 @@
   },
   "active": "6394f4cb6b67c57a",
   "lastOpenFiles": [
-    "Quest.md",
-    "Physio-psychological.md",
+    "模块化程序设计.md",
+    "文件进阶.md",
+    "图形程序设计基础.md",
+    "2023-W11.md",
+    "程序设计专题.md",
+    "实验心理学.md",
     "逻辑学导论.md",
+    "Physio-psychological.md",
+    "Quest.md",
     "Pasted image 20230411211436.png",
     "Pasted image 20230323180752.png",
     "Pasted image 20230409210349.png",
     "Pasted image 20230323180707.png",
     "逻辑学导论P1.png",
-    "模块化程序设计.md",
     "理想国.md",
-    "程序设计专题.md",
     "TomMitchellBook-MachineLearning.pdf",
     "2ZITDO3VZP@_(1Y3GR~MTCE.jpg",
     "WorkflowConfig.md",
@@ -231,12 +235,8 @@
     "The 8 Most Important Settings in Obsidian.md",
     "My_CS_LearningSchedule.md",
     "cprogramming_mistake.md",
-    "NoteStar.md",
     "Z8Y%WMBN3}KIQ{AZJKB_O)0.png",
-    "2023-W11.md",
-    "实验心理学.md",
     "Untitled",
-    "阈限测定实验.md",
     "未命名.canvas"
   ]
 }
