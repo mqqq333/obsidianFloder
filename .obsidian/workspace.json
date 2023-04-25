@@ -32,9 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c0aeefdb10a3b9e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "离散数学.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -135,13 +148,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "逻辑学导论.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "0401f5e0dbb87aac",
@@ -153,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "逻辑学导论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,14 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "逻辑学导论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,15 +204,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6394f4cb6b67c57a",
+  "active": "a391d204c25a48ea",
   "lastOpenFiles": [
+    "离散数学.md",
+    "逻辑学导论.md",
     "模块化程序设计.md",
+    "程序设计专题.md",
+    "maqi_3210104896_4.md",
+    "maqi_3210104896_4.pdf",
     "文件进阶.md",
     "图形程序设计基础.md",
     "2023-W11.md",
-    "程序设计专题.md",
     "实验心理学.md",
-    "逻辑学导论.md",
     "Physio-psychological.md",
     "Quest.md",
     "Pasted image 20230411211436.png",
@@ -221,8 +232,6 @@
     "- Wins.md",
     "新建 文本文档.txt",
     "新建文件夹",
-    "maqi_3210104896_4.md",
-    "maqi_3210104896_4.pdf",
     "T0_dolist.md",
     "2023-03-30.md",
     "2023-03-16.md",
@@ -233,8 +242,6 @@
     "ptaRecursion.md",
     "linear_algebra_review.md",
     "The 8 Most Important Settings in Obsidian.md",
-    "My_CS_LearningSchedule.md",
-    "cprogramming_mistake.md",
     "Z8Y%WMBN3}KIQ{AZJKB_O)0.png",
     "Untitled",
     "未命名.canvas"
