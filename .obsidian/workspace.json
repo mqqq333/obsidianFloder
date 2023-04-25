@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15a4b2f8a8aa171f",
+        "id": "a423f3d786b78cee",
         "type": "tabs",
         "children": [
           {
-            "id": "128c938c2aea0063",
+            "id": "3c290d33324c61db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quest.md",
+                "file": "程序设计专题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "6394f4cb6b67c57a",
+            "id": "6f2be4d53b5854a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "逻辑学导论.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c0aeefdb10a3b9e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "离散数学.md",
+                "file": "递归函数.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -149,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "逻辑学导论.md"
+                "file": "递归函数.md"
               }
             }
           }
@@ -166,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "逻辑学导论.md",
+                "file": "递归函数.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "逻辑学导论.md",
+                "file": "递归函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,20 +195,27 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6394f4cb6b67c57a",
+  "active": "6f2be4d53b5854a5",
   "lastOpenFiles": [
+    "程序设计专题.md",
+    "递归函数.md",
+    "Hanoi.md",
+    "CS246.md",
+    "指针进阶.md",
+    "cprogramming_mistake.md",
+    "阈限测定实验.md",
+    "图形程序设计基础.md",
+    "实验心理学.md",
+    "模块化程序设计.md",
     "离散数学.md",
     "逻辑学导论.md",
-    "模块化程序设计.md",
-    "程序设计专题.md",
+    "ptaRecursion.md",
+    "Quest.md",
     "maqi_3210104896_4.md",
     "maqi_3210104896_4.pdf",
     "文件进阶.md",
-    "图形程序设计基础.md",
     "2023-W11.md",
-    "实验心理学.md",
     "Physio-psychological.md",
-    "Quest.md",
     "Pasted image 20230411211436.png",
     "Pasted image 20230323180752.png",
     "Pasted image 20230409210349.png",
@@ -232,7 +226,6 @@
     "2ZITDO3VZP@_(1Y3GR~MTCE.jpg",
     "WorkflowConfig.md",
     "weeklyNoteTemplate.md",
-    "Hanoi.md",
     "- Wins.md",
     "新建 文本文档.txt",
     "新建文件夹",
@@ -240,12 +233,7 @@
     "2023-03-30.md",
     "2023-03-16.md",
     "2023-03-14.md",
-    "2023-W14.md",
     "Page 1.png",
-    "CS246.md",
-    "ptaRecursion.md",
-    "linear_algebra_review.md",
-    "The 8 Most Important Settings in Obsidian.md",
     "Z8Y%WMBN3}KIQ{AZJKB_O)0.png",
     "Untitled",
     "未命名.canvas"
