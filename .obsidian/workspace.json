@@ -4,55 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a423f3d786b78cee",
+        "id": "f2a717960a935bc2",
         "type": "tabs",
         "children": [
           {
-            "id": "3c290d33324c61db",
+            "id": "0dc8b936f5b56e4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序设计专题.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a4ad25a952f0f0e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程序设计专题.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "108fbe7a006f1d6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataMining.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6f2be4d53b5854a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实验心理学.md",
+                "file": "逻辑学导论.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -60,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -162,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataMining.md"
+                "file": "逻辑学导论.md"
               }
             }
           }
@@ -179,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataMining.md",
+                "file": "逻辑学导论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataMining.md",
+                "file": "逻辑学导论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -221,17 +181,17 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "108fbe7a006f1d6b",
+  "active": "0dc8b936f5b56e4c",
   "lastOpenFiles": [
-    "程序设计专题.md",
-    "DataMining.md",
-    "逻辑学导论.md",
-    "预处理命令.md",
-    "递归函数.md",
-    "理想国.md",
     "实验心理学.md",
+    "逻辑学导论.md",
     "链表.md",
     "离散数学.md",
+    "理想国.md",
+    "DataMining.md",
+    "程序设计专题.md",
+    "预处理命令.md",
+    "递归函数.md",
     "模块化程序设计.md",
     "图形程序设计基础.md",
     "Pasted image 20230425224743.png",
