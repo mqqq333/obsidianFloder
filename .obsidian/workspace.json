@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "离散数学.md",
+                "file": "逻辑学导论.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "离散数学.md"
+                "file": "逻辑学导论.md"
               }
             }
           }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "离散数学.md",
+                "file": "逻辑学导论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "离散数学.md",
+                "file": "逻辑学导论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,9 +183,9 @@
   },
   "active": "f20ef6daaa7ba88e",
   "lastOpenFiles": [
+    "离散数学.md",
     "basic_truevar_table.jpg",
     "cprogramming_mistake.md",
-    "离散数学.md",
     "Pasted image 20230503145930.png",
     "Pasted image 20230503145912.png",
     "discrete-math-1.md",
