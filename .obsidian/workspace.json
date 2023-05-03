@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2a717960a935bc2",
+        "id": "1371b8ad43ce0677",
         "type": "tabs",
         "children": [
           {
-            "id": "0dc8b936f5b56e4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "逻辑学导论.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "59b6bae1b56b19d0",
+            "id": "f20ef6daaa7ba88e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -141,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "0401f5e0dbb87aac",
@@ -195,13 +181,25 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "59b6bae1b56b19d0",
+  "active": "f20ef6daaa7ba88e",
   "lastOpenFiles": [
+    "basic_truevar_table.jpg",
+    "cprogramming_mistake.md",
+    "离散数学.md",
+    "Pasted image 20230503145930.png",
+    "Pasted image 20230503145912.png",
+    "discrete-math-1.md",
+    "未命名 1.md",
     "未命名.md",
+    "1.jpg",
+    "4.jpg",
+    "3.jpg",
+    "2ZITDO3VZP@_(1Y3GR~MTCE.jpg",
+    "5.jpg",
+    "2.jpg",
     "逻辑学导论.md",
     "实验心理学.md",
     "链表.md",
-    "离散数学.md",
     "理想国.md",
     "DataMining.md",
     "程序设计专题.md",
@@ -210,11 +208,9 @@
     "模块化程序设计.md",
     "图形程序设计基础.md",
     "Pasted image 20230425224743.png",
-    "Pasted image 20230425214257.png",
     "Hanoi.md",
     "CS246.md",
     "指针进阶.md",
-    "cprogramming_mistake.md",
     "阈限测定实验.md",
     "ptaRecursion.md",
     "Quest.md",
@@ -223,20 +219,9 @@
     "文件进阶.md",
     "2023-W11.md",
     "Physio-psychological.md",
-    "Pasted image 20230411211436.png",
-    "Pasted image 20230323180752.png",
-    "Pasted image 20230409210349.png",
-    "Pasted image 20230323180707.png",
-    "逻辑学导论P1.png",
     "TomMitchellBook-MachineLearning.pdf",
-    "2ZITDO3VZP@_(1Y3GR~MTCE.jpg",
-    "WorkflowConfig.md",
-    "weeklyNoteTemplate.md",
-    "- Wins.md",
     "新建 文本文档.txt",
     "新建文件夹",
-    "Page 1.png",
-    "Z8Y%WMBN3}KIQ{AZJKB_O)0.png",
     "Untitled",
     "未命名.canvas"
   ]
