@@ -19,19 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "c57e3bafa7bd87d0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -200,7 +189,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c57e3bafa7bd87d0",
+  "active": "f20ef6daaa7ba88e",
   "lastOpenFiles": [
     "逻辑学导论.md",
     "离散数学.md",
