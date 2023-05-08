@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "discrete-math-2.md"
+                "file": "discrete-math-1.md"
               }
             }
           }
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discrete-math-2.md",
+                "file": "discrete-math-1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "discrete-math-2.md",
+                "file": "discrete-math-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -203,8 +202,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "e55a65f1a65deb41",
+  "active": "f20ef6daaa7ba88e",
   "lastOpenFiles": [
+    "discrete-math-2.md",
     "dis-2-17.jpg",
     "dis-2-16.jpg",
     "dis-2-15.jpg",
@@ -215,8 +215,6 @@
     "dis-2-10.jpg",
     "dis-2-9.jpg",
     "dis-2-8.jpg",
-    "dis-2-7.jpg",
-    "discrete-math-2.md",
     "discrete-math-1.md",
     "逻辑学导论.md",
     "ode-1.md",
