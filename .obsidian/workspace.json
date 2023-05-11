@@ -4,42 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1371b8ad43ce0677",
+        "id": "824cdf0242e8a4c2",
         "type": "tabs",
         "children": [
           {
-            "id": "f20ef6daaa7ba88e",
+            "id": "881c0ff0ac1a8d57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "discrete-math-2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "637a08d05f24e8e5",
+            "id": "a504535cec5fa515",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "discrete-math-3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e55a65f1a65deb41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "discrete-math-2.md",
+                "file": "ode-2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -157,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "discrete-math-3.md"
+                "file": "ode-2.md"
               }
             }
           }
@@ -174,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discrete-math-3.md",
+                "file": "ode-2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "discrete-math-3.md",
+                "file": "ode-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -216,22 +198,23 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "637a08d05f24e8e5",
+  "active": "a504535cec5fa515",
   "lastOpenFiles": [
-    "dis-3-1.jpg",
-    "dis-3-2.jpg",
+    "0de-2-7.jpg",
+    "0de-2-6.jpg",
+    "0de-2-5.jpg",
+    "0de-2-4.jpg",
+    "0de-2-3.jpg",
+    "0de-2-2.jpg",
+    "0de-2-1.jpg",
+    "ode-2.md",
     "discrete-math-2.md",
     "discrete-math-3.md",
+    "dis-3-1.jpg",
+    "dis-3-2.jpg",
     "discrete-math-1.md",
     "dis-2-17.jpg",
     "dis-2-16.jpg",
-    "dis-2-15.jpg",
-    "dis-2-14.jpg",
-    "dis-2-13.jpg",
-    "dis-2-12.jpg",
-    "dis-2-11.jpg",
-    "dis-2-10.jpg",
-    "dis-2-9.jpg",
     "逻辑学导论.md",
     "ode-1.md",
     "离散数学.md",
@@ -253,7 +236,6 @@
     "阈限测定实验.md",
     "ptaRecursion.md",
     "Quest.md",
-    "maqi_3210104896_4.md",
     "maqi_3210104896_4.pdf",
     "TomMitchellBook-MachineLearning.pdf",
     "新建 文本文档.txt",
