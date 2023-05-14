@@ -11,32 +11,16 @@
             "id": "881c0ff0ac1a8d57",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a504535cec5fa515",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TomMitchellBook-MachineLearning.pdf"
-              }
-            }
-          },
-          {
-            "id": "0fab33b48b02c32b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
+                "file": "链表.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -145,13 +129,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TomMitchellBook-MachineLearning.pdf"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "0401f5e0dbb87aac",
@@ -163,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TomMitchellBook-MachineLearning.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TomMitchellBook-MachineLearning.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,8 +185,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0fab33b48b02c32b",
+  "active": "a391d204c25a48ea",
   "lastOpenFiles": [
+    "链表.md",
+    "理想国.md",
+    "逻辑学导论.md",
+    "实验心理学.md",
+    "预处理命令.md",
+    "递归函数.md",
+    "程序设计专题.md",
+    "图形程序设计基础.md",
+    "模块化程序设计.md",
+    "TomMitchellBook-MachineLearning.pdf",
     "ode-2.md",
     "0de-2-7.jpg",
     "0de-2-6.jpg",
@@ -221,21 +211,12 @@
     "dis-3-2.jpg",
     "discrete-math-1.md",
     "dis-2-17.jpg",
-    "逻辑学导论.md",
     "ode-1.md",
     "离散数学.md",
     "cprogramming_mistake.md",
     "未命名 1.md",
     "未命名.md",
-    "实验心理学.md",
-    "链表.md",
-    "理想国.md",
     "DataMining.md",
-    "程序设计专题.md",
-    "预处理命令.md",
-    "递归函数.md",
-    "模块化程序设计.md",
-    "图形程序设计基础.md",
     "Hanoi.md",
     "CS246.md",
     "指针进阶.md",
@@ -243,7 +224,6 @@
     "ptaRecursion.md",
     "Quest.md",
     "maqi_3210104896_4.pdf",
-    "TomMitchellBook-MachineLearning.pdf",
     "新建 文本文档.txt",
     "新建文件夹",
     "Untitled",
