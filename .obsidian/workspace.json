@@ -19,17 +19,24 @@
             "id": "a504535cec5fa515",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ode-2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "TomMitchellBook-MachineLearning.pdf"
+              }
+            }
+          },
+          {
+            "id": "0fab33b48b02c32b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
               }
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -139,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ode-2.md"
+                "file": "TomMitchellBook-MachineLearning.pdf"
               }
             }
           }
@@ -156,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ode-2.md",
+                "file": "TomMitchellBook-MachineLearning.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ode-2.md",
+                "file": "TomMitchellBook-MachineLearning.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,8 +205,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a504535cec5fa515",
+  "active": "0fab33b48b02c32b",
   "lastOpenFiles": [
+    "ode-2.md",
     "0de-2-7.jpg",
     "0de-2-6.jpg",
     "0de-2-5.jpg",
@@ -207,14 +215,12 @@
     "0de-2-3.jpg",
     "0de-2-2.jpg",
     "0de-2-1.jpg",
-    "ode-2.md",
     "discrete-math-2.md",
     "discrete-math-3.md",
     "dis-3-1.jpg",
     "dis-3-2.jpg",
     "discrete-math-1.md",
     "dis-2-17.jpg",
-    "dis-2-16.jpg",
     "逻辑学导论.md",
     "ode-1.md",
     "离散数学.md",
