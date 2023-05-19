@@ -4,16 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "097c6ea8d5626620",
+        "id": "e92fdb2c17d957f8",
         "type": "tabs",
         "children": [
           {
-            "id": "5b4111fdf3a62b04",
+            "id": "5fa4cdad848c31a2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "24a0137724aa6a2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "链表.md",
+                "file": "ode-3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,6 +29,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -79,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "371c6e27066d2e21",
@@ -131,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "链表.md"
+                "file": "ode-3.md"
               }
             }
           }
@@ -148,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "链表.md",
+                "file": "ode-3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "链表.md",
+                "file": "ode-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,8 +198,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5b4111fdf3a62b04",
+  "active": "24a0137724aa6a2f",
   "lastOpenFiles": [
+    "0de-3-4.jpg",
+    "0de-3-3.jpg",
+    "0de-3-2.jpg",
+    "0de-3-1.jpg",
+    "ode-3.md",
+    "链表.md",
     "Pasted image 20230518203120.png",
     "Pasted image 20230518203054.png",
     "Pasted image 20230518202903.png",
@@ -199,14 +213,9 @@
     "Pasted image 20230518201255.png",
     "Pasted image 20230518201242.png",
     "Pasted image 20230518200114.png",
-    "链表.md",
-    "Pasted image 20230518184545.png",
-    "Pasted image 20230518184538.png",
-    "Pasted image 20230518184532.png",
     "程序设计专题.md",
     "discrete-math-4.md",
     "discrete-math-5.md",
-    "dis-5-3.jpg",
     "discrete-math-3.md",
     "理想国.md",
     "逻辑学导论.md",
@@ -228,7 +237,6 @@
     "Hanoi.md",
     "CS246.md",
     "指针进阶.md",
-    "阈限测定实验.md",
     "maqi_3210104896_4.pdf",
     "新建 文本文档.txt",
     "新建文件夹",
