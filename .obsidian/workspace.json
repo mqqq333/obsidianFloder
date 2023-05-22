@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ExpDesgin.md"
+                "file": "预处理命令.md"
               }
             }
           }
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ExpDesgin.md",
+                "file": "预处理命令.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ExpDesgin.md",
+                "file": "预处理命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -203,10 +202,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d176412582b5ac9c",
+  "active": "77d09651506c73d3",
   "lastOpenFiles": [
-    "预处理命令.md",
     "ExpDesgin.md",
+    "预处理命令.md",
     "阈限测定实验.md",
     "程序设计专题.md",
     "链表.md",
