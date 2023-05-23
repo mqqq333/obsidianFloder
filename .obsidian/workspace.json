@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "30c14248d8122bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "心统Ⅱ展示.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "0f2f206ea1de299d",
             "type": "leaf",
             "state": {
@@ -34,6 +47,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -143,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ExpDesgin.md"
+                "file": "The 6 Most Important Keys to Typing in Markdown.md"
               }
             }
           }
@@ -160,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ExpDesgin.md",
+                "file": "The 6 Most Important Keys to Typing in Markdown.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ExpDesgin.md",
+                "file": "The 6 Most Important Keys to Typing in Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -202,11 +216,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "5a2988d038c7f7bc",
+  "active": "0f2f206ea1de299d",
   "lastOpenFiles": [
+    "心统Ⅱ展示.md",
+    "The 6 Most Important Keys to Typing in Markdown.md",
+    "ExpDesgin.md",
     "discrete-math-6.md",
     "未命名.md",
-    "The 6 Most Important Keys to Typing in Markdown.md",
     "The 8 Most Important Settings in Obsidian.md",
     "weeklyNoteTemplate.md",
     "TomMitchellBook-MachineLearning.pdf",
@@ -230,7 +246,6 @@
     "阈限测定实验.md",
     "指针进阶.md",
     "cprogramming_mistake.md",
-    "ExpDesgin.md",
     "预处理命令.md",
     "链表.md",
     "ode-3.md",
@@ -240,7 +255,6 @@
     "0de-3-1.jpg",
     "Pasted image 20230518203120.png",
     "Pasted image 20230518203054.png",
-    "discrete-math-4.md",
     "maqi_3210104896_4.pdf",
     "新建 文本文档.txt",
     "新建文件夹",
