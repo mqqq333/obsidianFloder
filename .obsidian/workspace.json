@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ba0bcd211f512310",
+        "id": "a2c1555b81760b6b",
         "type": "tabs",
         "children": [
           {
-            "id": "5a2988d038c7f7bc",
+            "id": "1d044da22e754283",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ExpDesgin.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "30c14248d8122bcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "心统Ⅱ展示.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0f2f206ea1de299d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The 6 Most Important Keys to Typing in Markdown.md",
+                "file": "杨辉三角.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -157,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The 6 Most Important Keys to Typing in Markdown.md"
+                "file": "杨辉三角.md"
               }
             }
           }
@@ -174,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The 6 Most Important Keys to Typing in Markdown.md",
+                "file": "杨辉三角.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The 6 Most Important Keys to Typing in Markdown.md",
+                "file": "杨辉三角.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -216,10 +189,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0f2f206ea1de299d",
+  "active": "1d044da22e754283",
   "lastOpenFiles": [
-    "心统Ⅱ展示.md",
+    "杨辉三角.md",
     "The 6 Most Important Keys to Typing in Markdown.md",
+    "心统Ⅱ展示.md",
     "ExpDesgin.md",
     "discrete-math-6.md",
     "未命名.md",
@@ -248,7 +222,6 @@
     "cprogramming_mistake.md",
     "预处理命令.md",
     "链表.md",
-    "ode-3.md",
     "0de-3-4.jpg",
     "0de-3-3.jpg",
     "0de-3-2.jpg",
