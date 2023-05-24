@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杨辉三角.md",
+                "file": "ExpDesgin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -203,13 +202,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "34dc49983e84c45e",
+  "active": "24988cd2e64f640a",
   "lastOpenFiles": [
-    "discrete-math-6.md",
+    "Pasted image 20230518203054.png",
+    "杨辉三角.md",
     "ExpDesgin.md",
+    "discrete-math-6.md",
     "3.jpg",
     "杨辉三角-1.md",
-    "杨辉三角.md",
     "Pasted image 20230524115535.png",
     "Fibonacci_in_Pascal_triangle 1.png",
     "Fibonacci_in_Pascal_triangle.png",
