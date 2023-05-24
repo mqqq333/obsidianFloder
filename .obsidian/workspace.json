@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杨辉三角-1.md",
-                "mode": "preview",
+                "file": "ExpDesgin.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杨辉三角-1.md"
+                "file": "ExpDesgin.md"
               }
             }
           }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "杨辉三角-1.md",
+                "file": "ExpDesgin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "杨辉三角-1.md",
+                "file": "ExpDesgin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,8 +205,11 @@
   },
   "active": "34dc49983e84c45e",
   "lastOpenFiles": [
-    "杨辉三角.md",
+    "discrete-math-6.md",
+    "ExpDesgin.md",
+    "3.jpg",
     "杨辉三角-1.md",
+    "杨辉三角.md",
     "Pasted image 20230524115535.png",
     "Fibonacci_in_Pascal_triangle 1.png",
     "Fibonacci_in_Pascal_triangle.png",
@@ -218,8 +221,6 @@
     "Pasted image 20230524111715.png",
     "The 6 Most Important Keys to Typing in Markdown.md",
     "心统Ⅱ展示.md",
-    "ExpDesgin.md",
-    "discrete-math-6.md",
     "未命名.md",
     "The 8 Most Important Settings in Obsidian.md",
     "weeklyNoteTemplate.md",
@@ -236,7 +237,6 @@
     "Physio-psychological.md",
     "discrete-math-1.md",
     "SinalDetection.md",
-    "dis-6-3.jpg",
     "图形程序设计基础.md",
     "阈限测定实验.md",
     "指针进阶.md",
