@@ -32,9 +32,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "252401c39db5c2cd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -203,7 +213,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d0367280aa92cc3e",
+  "active": "252401c39db5c2cd",
   "lastOpenFiles": [
     "心统Ⅱ展示.md",
     "引言讲稿.md",
