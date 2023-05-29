@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "607e5876f179023c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论自由意志卷1.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ExpDesgin.md"
+                "file": "论自由意志卷1.md"
               }
             }
           }
@@ -147,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ExpDesgin.md",
+                "file": "论自由意志卷1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ExpDesgin.md",
+                "file": "论自由意志卷1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,26 +203,28 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "0979a8fc7290c7df",
+  "active": "607e5876f179023c",
   "lastOpenFiles": [
+    "2023-05-24_20-25-09__01-37-46 1.jpg",
+    "2023-05-24_20-25-05__01-37-42 1.jpg",
+    "2023-05-24_20-24-46__01-37-24 1.jpg",
+    "2023-05-24_19-16-42__00-29-19 1.jpg",
+    "2023-05-24_19-15-40__00-28-18 1.jpg",
+    "2023-05-24_19-15-18__00-27-55 1.jpg",
+    "2023-05-24_19-11-49__00-24-26 1.jpg",
+    "2023-05-24_19-10-48__00-23-25 1.jpg",
+    "2023-05-24_19-10-27__00-23-04 1.jpg",
+    "2023-05-24_19-09-17__00-21-54 1.jpg",
+    "2023-05-24_19-08-02__00-20-39 1.jpg",
+    "ExpDesgin.md",
+    "论自由意志卷1.md",
     "心统Ⅱ展示.md",
     "引言讲稿.md",
     "ode-4.md",
-    "0de-4-3.jpg",
-    "0de-4-2.jpg",
-    "0de-4-1.jpg",
-    "0de-4-4.jpg",
-    "Pasted image 20230524225417.png",
-    "Pasted image 20230524225408.png",
-    "Pasted image 20230524224747.png",
-    "Pasted image 20230524224350.png",
-    "Pasted image 20230524214638.png",
-    "Pasted image 20230524214621.png",
     "杨辉三角.md",
     "Physio-psychological.md",
     "discrete-math-7.md",
     "discrete-math-6.md",
-    "ExpDesgin.md",
     "杨辉三角-1.md",
     "The 6 Most Important Keys to Typing in Markdown.md",
     "未命名.md",
@@ -226,7 +242,6 @@
     "程序设计专题.md",
     "discrete-math-1.md",
     "SinalDetection.md",
-    "图形程序设计基础.md",
     "maqi_3210104896_4.pdf",
     "新建 文本文档.txt",
     "新建文件夹",
