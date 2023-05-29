@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 2.md"
+                "file": "论自由意志卷1.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 2.md",
+                "file": "论自由意志卷1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 2.md",
+                "file": "论自由意志卷1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -216,21 +216,22 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b6b8d8a56aaf968c",
+  "active": "607e5876f179023c",
   "lastOpenFiles": [
-    "论自由意志卷1.md",
     "未命名 2.md",
+    "discrete-math-8.md",
+    "dis-8-5.jpg",
+    "dis-8-4.jpg",
+    "dis-8-3.jpg",
+    "dis-8-2.jpg",
+    "dis-8-1.jpg",
+    "ExpDesgin.md",
+    "论自由意志卷1.md",
     "2023-05-24_20-25-09__01-37-46 1.jpg",
     "2023-05-24_20-25-05__01-37-42 1.jpg",
     "2023-05-24_20-24-46__01-37-24 1.jpg",
     "2023-05-24_19-16-42__00-29-19 1.jpg",
     "2023-05-24_19-15-40__00-28-18 1.jpg",
-    "2023-05-24_19-15-18__00-27-55 1.jpg",
-    "2023-05-24_19-11-49__00-24-26 1.jpg",
-    "2023-05-24_19-10-48__00-23-25 1.jpg",
-    "2023-05-24_19-10-27__00-23-04 1.jpg",
-    "2023-05-24_19-09-17__00-21-54 1.jpg",
-    "ExpDesgin.md",
     "心统Ⅱ展示.md",
     "引言讲稿.md",
     "ode-4.md",
@@ -253,8 +254,6 @@
     "递归函数.md",
     "理想国.md",
     "程序设计专题.md",
-    "discrete-math-1.md",
-    "SinalDetection.md",
     "maqi_3210104896_4.pdf",
     "新建 文本文档.txt",
     "新建文件夹",
