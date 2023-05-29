@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论自由意志卷1.md"
+                "file": "未命名 2.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论自由意志卷1.md",
+                "file": "未命名 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论自由意志卷1.md",
+                "file": "未命名 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -216,8 +216,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "607e5876f179023c",
+  "active": "b6b8d8a56aaf968c",
   "lastOpenFiles": [
+    "论自由意志卷1.md",
     "未命名 2.md",
     "discrete-math-8.md",
     "dis-8-5.jpg",
@@ -226,7 +227,6 @@
     "dis-8-2.jpg",
     "dis-8-1.jpg",
     "ExpDesgin.md",
-    "论自由意志卷1.md",
     "2023-05-24_20-25-09__01-37-46 1.jpg",
     "2023-05-24_20-25-05__01-37-42 1.jpg",
     "2023-05-24_20-24-46__01-37-24 1.jpg",
