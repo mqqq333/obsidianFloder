@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "282d9d2fecdd8324",
+        "id": "f1f2e516aa02dfff",
         "type": "tabs",
         "children": [
           {
-            "id": "0979a8fc7290c7df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ExpDesgin.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "607e5876f179023c",
+            "id": "9701dbbecc35d6f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +21,7 @@
             }
           },
           {
-            "id": "b6b8d8a56aaf968c",
+            "id": "5b7e892b745e4039",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -77,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#递归，预处理，全局变量",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,10 +203,19 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b6b8d8a56aaf968c",
+  "active": "5b7e892b745e4039",
   "lastOpenFiles": [
     "论自由意志卷1.md",
     "未命名 2.md",
+    "心统Ⅱ展示.md",
+    "杨辉三角.md",
+    "杨辉三角-1.md",
+    "引言讲稿.md",
+    "指针进阶.md",
+    "cprogramming_mistake.md",
+    "CS246.md",
+    "DataMining.md",
+    "discrete-math-2.md",
     "discrete-math-8.md",
     "dis-8-5.jpg",
     "dis-8-4.jpg",
@@ -232,14 +228,10 @@
     "2023-05-24_20-24-46__01-37-24 1.jpg",
     "2023-05-24_19-16-42__00-29-19 1.jpg",
     "2023-05-24_19-15-40__00-28-18 1.jpg",
-    "心统Ⅱ展示.md",
-    "引言讲稿.md",
     "ode-4.md",
-    "杨辉三角.md",
     "Physio-psychological.md",
     "discrete-math-7.md",
     "discrete-math-6.md",
-    "杨辉三角-1.md",
     "The 6 Most Important Keys to Typing in Markdown.md",
     "未命名.md",
     "The 8 Most Important Settings in Obsidian.md",
@@ -250,10 +242,6 @@
     "文件进阶.md",
     "模块化程序设计.md",
     "逻辑学导论.md",
-    "实验心理学.md",
-    "递归函数.md",
-    "理想国.md",
-    "程序设计专题.md",
     "maqi_3210104896_4.pdf",
     "新建 文本文档.txt",
     "新建文件夹",
