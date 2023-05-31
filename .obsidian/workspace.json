@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 2.md",
-                "mode": "source",
+                "file": "论自由意志卷1.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 2.md"
+                "file": "论自由意志卷1.md"
               }
             }
           }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 2.md",
+                "file": "论自由意志卷1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 2.md",
+                "file": "论自由意志卷1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,8 +192,8 @@
   },
   "active": "5b7e892b745e4039",
   "lastOpenFiles": [
-    "论自由意志卷1.md",
     "未命名 2.md",
+    "论自由意志卷1.md",
     "心统Ⅱ展示.md",
     "杨辉三角.md",
     "杨辉三角-1.md",
