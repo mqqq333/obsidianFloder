@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91ab48b6828a50c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "discrete-math-9.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ab38aeb8440792ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ode-4.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "a76ee6298651d2ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ode-5.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
