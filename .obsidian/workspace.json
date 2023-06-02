@@ -11,8 +11,13 @@
             "id": "b396e21500f8e6d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "脑机接口.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ],
@@ -124,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "脑机接口.md"
+              }
             }
           }
         ],
@@ -140,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "脑机接口.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "脑机接口.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
