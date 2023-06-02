@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "929b3341cb1c1060",
+        "id": "db060adbd5ccf759",
         "type": "tabs",
         "children": [
           {
-            "id": "a76ee6298651d2ce",
+            "id": "b396e21500f8e6d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ode-5.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -129,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ode-5.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ode-5.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ode-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,8 +180,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a76ee6298651d2ce",
+  "active": "b396e21500f8e6d6",
   "lastOpenFiles": [
+    "ode-5.md",
     "0de-5-6.jpg",
     "0de-5-5.jpg",
     "0de-5-4.jpg",
@@ -198,13 +190,11 @@
     "0de-5-2.jpg",
     "0de-5-1.jpg",
     "ode-4.md",
-    "ode-5.md",
     "脑机接口.md",
     "2023-04-17_12-25-05__02-28-46.jpg",
     "2023-04-17_12-19-24__02-23-05.jpg",
     "2023-04-17_12-16-09__02-19-49.jpg",
     "2023-04-17_12-07-05__02-10-46.jpg",
-    "2023-04-17_12-03-03__02-06-43.jpg",
     "discrete-math-9.md",
     "程序设计专题.md",
     "ExpDesgin.md",
