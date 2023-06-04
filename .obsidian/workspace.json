@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信号检测实验.md",
+                "file": "ExpDesgin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "371c6e27066d2e21",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "信号检测实验.md"
+                "file": "ExpDesgin.md"
               }
             }
           }
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "信号检测实验.md",
+                "file": "ExpDesgin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "信号检测实验.md",
+                "file": "ExpDesgin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,8 +191,8 @@
   },
   "active": "93361a2084677007",
   "lastOpenFiles": [
-    "脑机接口.md",
     "信号检测实验.md",
+    "脑机接口.md",
     "ode-5.md",
     "0de-5-6.jpg",
     "0de-5-5.jpg",
