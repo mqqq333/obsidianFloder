@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ExpDesgin.md",
+                "file": "信号检测实验.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ExpDesgin.md"
+                "file": "信号检测实验.md"
               }
             }
           }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ExpDesgin.md",
+                "file": "信号检测实验.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ExpDesgin.md",
+                "file": "信号检测实验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,6 +191,8 @@
   },
   "active": "93361a2084677007",
   "lastOpenFiles": [
+    "SinalDetection.md",
+    "ExpDesgin.md",
     "信号检测实验.md",
     "脑机接口.md",
     "ode-5.md",
@@ -207,7 +209,6 @@
     "2023-04-17_12-07-05__02-10-46.jpg",
     "discrete-math-9.md",
     "程序设计专题.md",
-    "ExpDesgin.md",
     "论自由意志卷1.md",
     "未命名 2.md",
     "心统Ⅱ展示.md",
@@ -226,7 +227,6 @@
     "The 6 Most Important Keys to Typing in Markdown.md",
     "未命名.md",
     "The 8 Most Important Settings in Obsidian.md",
-    "weeklyNoteTemplate.md",
     "TomMitchellBook-MachineLearning.pdf",
     "maqi_3210104896_4.pdf",
     "新建 文本文档.txt",
