@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "19fea4acbbaf16b6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -189,7 +200,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "93361a2084677007",
+  "active": "19fea4acbbaf16b6",
   "lastOpenFiles": [
     "SinalDetection.md",
     "ExpDesgin.md",
