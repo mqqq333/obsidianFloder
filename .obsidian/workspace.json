@@ -27,9 +27,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3b461ff8a95cc6fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "discrete-math-12.md"
+                "file": "lab.md"
               }
             }
           }
@@ -156,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discrete-math-12.md",
+                "file": "lab.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "discrete-math-12.md",
+                "file": "lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -198,13 +211,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "d5198460125ea5cc",
+  "active": "3b461ff8a95cc6fa",
   "lastOpenFiles": [
+    "discrete-math-12.md",
+    "lab.md",
     "dis-12-4.jpg",
     "dis-12-3.jpg",
     "dis-12-2.jpg",
     "dis-12-1.jpg",
-    "discrete-math-12.md",
     "离散数学.md",
     "discrete-math-11.md",
     "2023-05-24_20-25-09__01-37-46.jpg",
@@ -219,7 +233,6 @@
     "信号检测实验.md",
     "脑机接口.md",
     "ode-5.md",
-    "0de-5-6.jpg",
     "ode-4.md",
     "discrete-math-9.md",
     "程序设计专题.md",
