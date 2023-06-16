@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ode-6.md",
+                "file": "程序设计专题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ode-6.md"
+                "file": "程序设计专题.md"
               }
             }
           }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ode-6.md",
+                "file": "程序设计专题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ode-6.md",
+                "file": "程序设计专题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,13 +191,13 @@
   },
   "active": "3e289af95c1d9f95",
   "lastOpenFiles": [
+    "ode-6.md",
     "0de-6-6.jpg",
     "0de-6-5.jpg",
     "0de-6-4.jpg",
     "0de-6-3.jpg",
     "0de-6-2.jpg",
     "0de-6-1.jpg",
-    "ode-6.md",
     "lab.md",
     "算法分析基础.md",
     "discrete-math-12.md",
@@ -207,7 +207,6 @@
     "dis-12-1.jpg",
     "离散数学.md",
     "discrete-math-11.md",
-    "2023-05-24_20-25-09__01-37-46.jpg",
     "libgraphics.md",
     "SinalDetection.md",
     "ExpDesgin.md",
