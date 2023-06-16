@@ -1,4 +1,4 @@
-~~~c
+ 2~~~c
 /*
  * File: graphics.h
  * Version: 1.0
