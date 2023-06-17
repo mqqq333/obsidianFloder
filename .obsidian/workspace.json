@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程序设计专题.md",
+                "file": "code.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -203,7 +202,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "026e06c55b969628",
+  "active": "3e289af95c1d9f95",
   "lastOpenFiles": [
     "程序设计专题.md",
     "code.md",
