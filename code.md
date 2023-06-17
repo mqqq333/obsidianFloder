@@ -2130,3 +2130,344 @@ int editBlock;
 
 #endif
 ~~~
+
+
+~~~c
+
+ /*迷宫游戏 */
+/*
+vc++ 6.0 编译成功
+本程序参照网上一个特殊算法随机生成迷宫
+该算法优点：
+效率高，从入口到出口只有唯一路径，入口出口自己设定，迷宫大小自己设定 
+该算法缺点：
+宽度高度都必须为奇数，只能生成n*m矩阵迷宫
+*/
+#include <stdio.h>
+#include <conio.h>
+#include <windows.h>
+#include <time.h>
+#define Height 25 //迷宫的高度，必须为奇数
+#define Width 25 //迷宫的宽度，必须为奇数
+#define Wall 1
+#define Road 0
+#define Start 2
+#define End 3
+#define Esc 5
+#define Up 1
+#define Down 2
+#define Left 3
+#define Right 4
+int map[Height+2][Width+2];
+void gotoxy(int x,int y) //移动坐标
+{
+	COORD coord;
+	coord.X=x;
+	coord.Y=y;
+	SetConsoleCursorPosition( GetStdHandle( STD_OUTPUT_HANDLE ), coord );
+}
+void hidden()//隐藏光标
+{
+	HANDLE hOut = GetStdHandle(STD_OUTPUT_HANDLE);
+	CONSOLE_CURSOR_INFO cci;
+	GetConsoleCursorInfo(hOut,&cci);
+	cci.bVisible=0;//赋1为显示，赋0为隐藏
+	SetConsoleCursorInfo(hOut,&cci);
+}
+void create(int x,int y) //随机生成迷宫
+{
+	int c[4][2]={0,1,1,0,0,-1,-1,0}; //四个方向
+	int i,j,t;
+		//将方向打乱
+	for(i=0;i<4;i++)
+	{
+		j=rand()%4;
+		t=c[i][0];c[i][0]=c[j][0];c[j][0]=t;
+		t=c[i][1];c[i][1]=c[j][1];c[j][1]=t;
+	}
+	map[x][y]=Road;
+	for(i=0;i<4;i++)
+	if(map[x+2*c[i][0]][y+2*c[i][1]]==Wall)
+	{
+		map[x+c[i][0]][y+c[i][1]]=Road;
+		create(x+2*c[i][0],y+2*c[i][1]);
+	}
+}
+int get_key() //接收按键
+{
+	char c;
+	while(c=getch())
+	{
+		if(c==27) return Esc; //Esc
+		if(c!=-32)continue;
+		c=getch();
+		if(c==72) return Up; //上
+		if(c==80) return Down; //下
+		if(c==75) return Left; //左
+		if(c==77) return Right; //右
+	}
+	return 0;
+}
+void paint(int x,int y) //画迷宫
+{
+	gotoxy(2*y-2,x-1);
+	switch(map[x][y])
+	{
+		case Start:
+		printf("入");break; //画入口
+		case End:
+		printf("出");break; //画出口
+		case Wall:
+		printf("▇");break; //画墙
+		case Road:
+		printf(" ");break; //画路
+	}
+}
+void game()
+{
+	int x=2,y=1; //玩家当前位置，刚开始在入口处
+	int c; //用来接收按键
+	while(1)
+	{
+		gotoxy(2*y-2,x-1);
+		printf("●"); //画出玩家当前位置
+		if(map[x][y]==End) //判断是否到达出口
+		{
+			gotoxy(30,24);
+			printf("到达终点，按任意键结束");
+			getch();
+			break;
+		}
+		c=get_key();
+		if(c==Esc)
+		{
+			gotoxy(0,24);
+			break;
+		}
+		switch(c)
+		{
+				case Up: //向上走
+				if(map[x-1][y]!=Wall)
+				{
+					paint(x,y);
+					x--;
+				}
+			break;
+			case Down: //向下走
+			if(map[x+1][y]!=Wall)
+			{
+				paint(x,y);
+				x++;
+			}
+			break;
+			case Left: //向左走
+			if(map[x][y-1]!=Wall)
+			{
+				paint(x,y);
+				y--;
+			}
+			break;
+			case Right: //向右走
+			if(map[x][y+1]!=Wall)
+			{
+				paint(x,y);
+				y++;
+			}
+			break;
+		}
+	}
+}
+int main()
+{
+	int i,j;
+	srand((unsigned)time(NULL)); //初始化随即种子
+	hidden(); //隐藏光标
+	for(i=0;i<=Height+1;i++)
+	for(j=0;j<=Width+1;j++)
+	if(i==0||i==Height+1||j==0||j==Width+1) //初始化迷宫
+	map[i][j]=Road;
+	else map[i][j]=Wall;
+	
+	create(2*(rand()%(Height/2)+1),2*(rand()%(Width/2)+1)); //从随机一个点开始生成迷宫，该点行列都为偶数
+	for(i=0;i<=Height+1;i++) //边界处理	
+	{
+		map[i][0]=Wall;
+		map[i][Width+1]=Wall;
+	}
+
+	for(j=0;j<=Width+1;j++) //边界处理
+	{
+		map[0][j]=Wall;
+		map[Height+1][j]=Wall;
+	}
+	map[2][1]=Start; //给定入口
+	map[Height-1][Width]=End; //给定出口
+	for(i=1;i<=Height;i++)
+	for(j=1;j<=Width;j++) //画出迷宫
+	paint(i,j);
+	game(); //开始游戏
+	getch();
+	return 0;
+}
+~~~
+
+
+~~~c
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+#include <Windows.h>
+// 枚举一些关键常量,可以根据迷宫的不同而修改
+enum state
+{
+    start='P', end = '*', road = ' ', wall = '0', visited = '1', successPath = '#', currentPosition = '@'
+}State;
+//路径操作符枚举
+enum operate {
+    up = 'w', right = 'd', down = 's', left = 'a'
+}Operate;
+//保存路径
+struct
+{
+    int len = 0;
+    unsigned char arr[1000] = { 0 };
+}Path;
+//输入路径
+void inputPath(unsigned char op)
+{
+    Path.arr[Path.len] = op;
+    Path.len++;
+}
+//输出路径
+void printPath()
+{
+    printf("\nPath:");
+    while (Path.len > 0)
+    {
+        Path.len--;
+        putchar(Path.arr[Path.len]);
+    }
+    printf("\n");
+}
+//判断是否在迷宫范围内以及是否可以走这一步
+bool isLegal(int x,int y,int row,int col, unsigned char* p) 
+{
+    if (x >= 0 && y >= 0)
+        if (x < row  && y < col)
+            return (p[x * col + y ] ==road||p[x*col+y]==end);
+    return false;
+}
+//输入迷宫图
+//支持以矩阵形式输入,也可以输入一整行,自动处理换行符,直到读取到整个迷宫图为止
+void inputMaze(unsigned char* p, int row, int col)
+{
+    unsigned char ch;
+    printf("请输入迷宫图:\n");    
+    for (int i = 0; i < row * col; i++)
+    {
+        if ((ch = getchar()) != '\n')
+            p[i] = ch;
+        else
+            --i;
+    }
+
+}
+//打印迷宫图
+void printMaze(unsigned char* p, int row, int col) {
+    printf("\n迷宫图如下:\n");
+    for (int i = 0; i < row; i++)
+    {
+        for (int j = 0; j < col; j++)
+            printf("%c", p[i * col + j]);
+        printf("\n");
+    }
+
+}
+//走迷宫
+//递归查询,这里由于递归是倒序输出路径,所以需要一个倒序操作
+bool walkMaze(int row,int col, unsigned char* p,int x,int y)
+{
+    int pos =x * col + y;   //当前位置
+    if (p[pos] == end)      //到达终点
+        return true;
+    if (isLegal(x - 1, y, row, col,p))  //上
+    {
+        //printMaze(p,row,col); //如果需要可以逐步输出迷宫图
+        p[pos] = visited;   //设置访问标识,防止无限递归
+        if (walkMaze(row, col, p, x - 1, y))    //该路径可行,输出操作符
+        {
+            inputPath(up);
+            p[pos] = successPath;           //用于显示该路径
+            return true;
+        }
+    }
+    if (isLegal(x, y + 1, row, col, p)) //右
+    {
+        //printMaze(p,row,col);
+        p[pos] = visited;
+        if (walkMaze(row, col, p, x , y+1))
+        {
+            inputPath(right);
+            p[pos] = successPath;
+            return  true;
+        }
+    }
+    if (isLegal(x + 1, y, row, col, p)) //下
+    {
+        //printMaze(p,row,col);
+        p[pos] = visited;
+        if (walkMaze(row, col, p, x +1, y))
+        {
+            inputPath(down);
+            p[x * col + y] = successPath;
+            return true;
+        }
+    }
+    if (isLegal(x, y - 1, row, col, p)) //左
+    {
+        //printMaze(p,row,col);
+        p[pos] = visited;
+        if (walkMaze(row, col, p, x , y-1))
+        {
+            inputPath(left);
+            p[pos] = successPath;
+            return  true;
+        }
+    }
+    p[pos] = visited;
+    return false;   //无路可走,该条路径不行
+}
+
+//自动寻找起点,可以自行选择是否调用
+void findStart(unsigned char* p,int row,int col,int* x,int* y)
+{
+    for (int i = 0; i < row; i++)
+    {
+        for (int j = 0; j < col; j++)
+        {
+            if (p[i * col + j] == start)
+            {
+                *x = i;
+                *y = j;
+                return;
+            }
+        }
+    }
+}
+
+int main()
+{
+    int row=21, col=21,x=15,y=0;    //行和列,起点坐标
+    unsigned char* Maze =(unsigned char*)malloc(row*col);   //分配空间
+    inputMaze(Maze, row, col );     //输入迷宫
+    printMaze(Maze, row, col);      //打印迷宫
+    walkMaze(row,col,Maze,x,y);     //走迷宫
+    Maze[x * col + y] = start;      //矫正起点字符
+    printMaze(Maze, row, col);      //打印迷宫
+    printPath();                    //打印路径
+    free(Maze);                     //释放空间
+    system("pause");
+    return 0;
+}
+~~~
