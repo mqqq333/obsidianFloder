@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "离散数学课程总结.md",
+                "file": "程序设计专题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "离散数学课程总结.md"
+                "file": "程序设计专题.md"
               }
             }
           }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "离散数学课程总结.md",
+                "file": "程序设计专题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "离散数学课程总结.md",
+                "file": "程序设计专题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -231,8 +231,8 @@
   },
   "active": "37521e832afe82e1",
   "lastOpenFiles": [
-    "心统2.md",
     "离散数学课程总结.md",
+    "心统2.md",
     "Pasted image 20230618223005.png",
     "Pasted image 20230618222953.png",
     "code.md",
