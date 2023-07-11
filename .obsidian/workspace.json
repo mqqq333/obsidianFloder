@@ -16,33 +16,12 @@
             }
           },
           {
-            "id": "521a19c826fdb421",
+            "id": "f83b3f6903c7d1e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JupyteHotKey.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9e97dd0bd2b380f7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b20d148d414b5975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NMA-CN.md",
+                "file": "project_idea.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -160,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JupyteHotKey.md"
+                "file": "project_idea.md"
               }
             }
           }
@@ -177,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JupyteHotKey.md",
+                "file": "project_idea.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JupyteHotKey.md",
+                "file": "project_idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -219,8 +198,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "521a19c826fdb421",
+  "active": "f83b3f6903c7d1e8",
   "lastOpenFiles": [
+    "project_idea.md",
     "JupyteHotKey.md",
     "NMA-CN.md",
     "Pasted image 20230707072312.png",
@@ -258,7 +238,6 @@
     "脑机接口.md",
     "ode-5.md",
     "ode-4.md",
-    "discrete-math-9.md",
     "TomMitchellBook-MachineLearning.pdf",
     "maqi_3210104896_4.pdf",
     "新建 文本文档.txt",
