@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "dfa9635fca2e9e4a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -191,7 +202,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "877ec84bc31c98ff",
+  "active": "dfa9635fca2e9e4a",
   "lastOpenFiles": [
     "WorkflowConfig.md",
     "实践报告.md",
