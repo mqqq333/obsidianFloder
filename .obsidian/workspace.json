@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1f694862f0d414be",
+        "id": "40fa4cf719955db4",
         "type": "tabs",
         "children": [
           {
-            "id": "877ec84bc31c98ff",
+            "id": "edda62e8dd91cd53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实践报告.md",
+                "file": "uthash-c.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "371c6e27066d2e21",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实践报告.md"
+                "file": "uthash-c.md"
               }
             }
           }
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实践报告.md",
+                "file": "uthash-c.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实践报告.md",
+                "file": "uthash-c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,10 +190,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "877ec84bc31c98ff",
+  "active": "edda62e8dd91cd53",
   "lastOpenFiles": [
-    "WorkflowConfig.md",
+    "未命名 5.md",
+    "uthash-c.md",
     "实践报告.md",
+    "WorkflowConfig.md",
     "project_idea.md",
     "未命名 4.md",
     "JupyteHotKey.md",
@@ -229,8 +230,6 @@
     "discrete-math-11.md",
     "libgraphics.md",
     "SinalDetection.md",
-    "ExpDesgin.md",
-    "信号检测实验.md",
     "TomMitchellBook-MachineLearning.pdf",
     "maqi_3210104896_4.pdf",
     "新建 文本文档.txt",
