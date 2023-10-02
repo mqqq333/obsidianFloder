@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edda62e8dd91cd53",
+            "id": "cab40e731a2baf1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uthash-c.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c02cdf004ed702b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "搜书网站集合.md",
+                "file": "NumAnaly-hm1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "搜书网站集合.md"
+                "file": "NumAnaly-hm1.md"
               }
             }
           }
@@ -161,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "搜书网站集合.md",
+                "file": "NumAnaly-hm1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "搜书网站集合.md",
+                "file": "NumAnaly-hm1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,9 +190,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c02cdf004ed702b9",
+  "active": "cab40e731a2baf1c",
   "lastOpenFiles": [
+    "Pasted image 20231002234601.png",
     "uthash-c.md",
+    "NumAnaly-hm1.md",
     "搜书网站集合.md",
     "未命名 5.md",
     "实践报告.md",
@@ -242,8 +230,6 @@
     "算法分析基础.md",
     "discrete-math-12.md",
     "离散数学.md",
-    "discrete-math-11.md",
-    "libgraphics.md",
     "TomMitchellBook-MachineLearning.pdf",
     "maqi_3210104896_4.pdf",
     "新建 文本文档.txt",
