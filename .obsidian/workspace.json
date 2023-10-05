@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a61d23c8a548bb49",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -190,7 +201,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "cab40e731a2baf1c",
+  "active": "a61d23c8a548bb49",
   "lastOpenFiles": [
     "Pasted image 20231002234601.png",
     "uthash-c.md",
