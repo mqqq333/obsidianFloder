@@ -51,3 +51,7 @@ relative error is $5cot10\times10^{-5}$
 *solution*
 **a**
 i.
+
+## Proble 4
+![[Pasted image 20231006235515.png]]
+*solution*
