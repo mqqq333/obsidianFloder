@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "40fa4cf719955db4",
+        "id": "b17e6672836319ca",
         "type": "tabs",
         "children": [
           {
-            "id": "035d640cbe9720c0",
+            "id": "49c3d71b568106cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs-ai-plan.md",
+                "file": "NumAnaly-hm1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs-ai-plan.md"
+                "file": "NumAnaly-hm1.md"
               }
             }
           }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs-ai-plan.md",
+                "file": "NumAnaly-hm1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs-ai-plan.md",
+                "file": "NumAnaly-hm1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,11 +190,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "035d640cbe9720c0",
+  "active": "49c3d71b568106cd",
   "lastOpenFiles": [
-    "Pasted image 20231005211647.png",
+    "Pasted image 20231006200006.png",
     "NumAnaly-hm1.md",
+    "ptaRecursion.md",
+    "Physio-psychological.md",
     "cs-ai-plan.md",
+    "Pasted image 20231005211647.png",
     "Pasted image 20231002234601.png",
     "uthash-c.md",
     "搜书网站集合.md",
@@ -219,7 +222,6 @@
     "Pasted image 20230701125022.png",
     "Pasted image 20230701125001.png",
     "Pasted image 20230701124948.png",
-    "Pasted image 20230701124946.png",
     "心统2.md",
     "未命名 3.md",
     "code.md",
@@ -228,8 +230,6 @@
     "离散数学课程总结.md",
     "ode-6.md",
     "lab.md",
-    "算法分析基础.md",
-    "discrete-math-12.md",
     "TomMitchellBook-MachineLearning.pdf",
     "maqi_3210104896_4.pdf",
     "新建 文本文档.txt",
