@@ -48,3 +48,6 @@ so absolute error is $5cos10\times10^{-5}$
 relative error is $5cot10\times10^{-5}$
 ## Problem 3
 ![[Pasted image 20231006210615.png]]
+*solution*
+**a**
+i.
