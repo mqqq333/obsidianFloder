@@ -49,9 +49,27 @@ relative error is $5cot10\times10^{-5}$
 ## Problem 3
 ![[Pasted image 20231006210615.png]]
 *solution*
-**a**
-i.
+We have
+|     |  a  |  b  |
+|:---:|:---:|:---:|
+|Exact    |${17}\over{15}$     |${301}\over{660}$     |
+|3-digit chopping     |    1.13 |0.445     |
+|Relative error     |   0.003  | 0.00233    |
+|3-digit rounding     |    1.13 |    0.456 |
+|Relative error     |   0.003  |   0.000133  |
 
 ## Proble 4
 ![[Pasted image 20231006235515.png]]
 *solution*
+**a.**
+$F(x) = c_1F_1(x)+c_2F_2(x)=c_1L_1+c_1O(x^{\alpha})+c_2L_2+c_2O(x^{\beta})$
+because $\gamma=min\{{\alpha,\beta}\}$
+so $c_1O({x}^{\alpha})+c_2O({x}^{\beta})=O({x}^{\gamma})+o({x}^{\gamma})$ 
+when $x\rightarrow0, o({x}^{\gamma})=0$
+hence $$F(x)=c_1L_1+c_2L_2+O({x}^{\gamma})$$
+**b.**
+$G(x)=F_1(c_1x)+F_2(c_2x)=L_1+L_2+O(c_1^{\alpha}x^{\alpha})+O(c_2^{\beta}x^{\beta})$
+The same as **a.**,$O(c_1^{\alpha}x^{\alpha})+O(c_2^{\beta}x^{\beta})=O({x}^{\gamma})+o({x}^{\gamma})$ 
+so $$G(x)=L_1+L_2+O(x^{\gamma})$$
+
+## Problem 5
