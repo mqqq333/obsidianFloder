@@ -144,8 +144,8 @@ so x=1.256622314
 ~~~matlab
 fun1 = @(x) exp(x)-x^2+3*x-2;
 fun2 = @(x) x*cos(x)-2*x^2+3*x-1;
-tol = 1E-5;
-maxIt = 40;
+tol = 1E-5; %
+maxIt = 40; %  Max iteration time
 [p, flag] = bisect(fun1, 0, 1, tol, maxIt);
 
 [p, flag] = bisect(fun2, 0.2, 0.3, tol, maxIt);
