@@ -185,3 +185,68 @@ end
 ## Problem 6
 ![[Pasted image 20231007181457.png]]
 *solution*
+**a.**
+$x=$${1}\over{\pi}$$\times{arcsin（{-{1}\over{2}}}\times{x}）+2$
+
+| n  |   p            |   f(p_n)         |
+|:----:|:----------------:|:------------------:|
+| 0  | 1.000000000    | 1.833333333      |
+| 1  | 1.833333333    | 1.630869246      |
+| 2  | 1.630869246    | 1.696498005      |
+| 3  | 1.696498005    | 1.677657062      |
+| 4  | 1.677657062    | 1.683240993      |
+| 5  | 1.683240993    | 1.681602013      |
+so x = 1.683240993
+
+**b.**
+$x=ln(3\times{x^2})$
+
+|  n  |      p      |   f(p_n)    |
+|:---:|:-----------:|:-----------:|
+|  0  | 3.000000000 | 3.295836866 |
+|  1  | 3.295836866 | 3.483932521 |
+|  2  | 3.483932521 | 3.594935670 |
+|  3  | 3.594935670 | 3.657664482 |
+|  4  | 3.657664482 | 3.692261937 |
+|  5  | 3.692261937 | 3.711090811 |
+|  6  | 3.711090811 | 3.721263994 |
+|  7  | 3.721263994 | 3.726739076 |
+|  8  | 3.726739076 | 3.729679507 |
+so x= 3.726739076
+~~~matlab
+fun1 =@(x) (1/pi)*asin((-1/2)*x)+2
+fun2 = @(x) log(3*x^2)
+tol  = 1E-2;
+maxIt = 40;
+[p, flag] = fixedpoint(fun1, 1, tol, maxIt);
+[p, flag] = fixedpoint(fun2, 3, tol, maxIt);
+function [p, flag] = fixedpoint(fun, p0, tol, maxIt)
+n = 1;
+flag = 0;
+disp('Fixed Pointed Iteration')
+disp('----------------------------------')
+disp(' n          p           f(p_n)')
+disp('----------------------------------')
+formatSpec = '%2d    %.9f    %.9f    \n';
+fprintf(formatSpec, [n-1, p0, fun(p0)])
+while n <= maxIt
+    p = fun(p0);
+    fprintf(formatSpec, [n, p, fun(p)])
+    if abs(p-p0) < tol
+        flag = 1;
+        break;
+    else
+        n = n+1;
+        p0 = p;
+    end
+end
+end
+
+~~~
+
+## Problem 7
+![[Pasted image 20231007193253.png]]
+*solution*
+$|p_1-p|=|g(p_0)-g(p)|=|p_0-p||g'(\xi)|,\ \xi{\in}(p_0,p)$
+cause $|g'(p)|>1$, that $\exists{\delta}>0, when \ 0<|p_0-p|<\delta, \ that|g'(\xi)|>1$
+so $\exists{\delta}>0, when \ 0<|p_0-p|<\delta, \ that \ |p_1-p|=|p_0-p||g'(\xi)|>|p_0-p|$

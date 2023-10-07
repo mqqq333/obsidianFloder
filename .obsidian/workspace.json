@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b17e6672836319ca",
+        "id": "170802a8581fd77f",
         "type": "tabs",
         "children": [
           {
-            "id": "49c3d71b568106cd",
+            "id": "288f7d2ed7291c2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -190,11 +190,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "49c3d71b568106cd",
+  "active": "288f7d2ed7291c2e",
   "lastOpenFiles": [
+    "NumAnaly-hm1.md",
+    "Pasted image 20231007193253.png",
     "Pasted image 20231007181457.png",
     "Pasted image 20231007175207.png",
-    "NumAnaly-hm1.md",
     "Pasted image 20231006235515.png",
     "Pasted image 20231006210615.png",
     "Pasted image 20231006200006.png",
@@ -220,8 +221,6 @@
     "1.7z",
     "obsidianFolder.7z",
     "Pasted image 20230701125144.png",
-    "Pasted image 20230701125103.png",
-    "Pasted image 20230701125050.png",
     "心统2.md",
     "未命名 3.md",
     "code.md",
