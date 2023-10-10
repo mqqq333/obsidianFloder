@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "170802a8581fd77f",
+        "id": "dd480a5fced6b6ab",
         "type": "tabs",
         "children": [
           {
-            "id": "f160815a1f5d30c7",
+            "id": "662d93caa98b863a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 6.md",
+                "file": "NumAnaly-hm1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bcdb98128bd39466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumAnaly-hm2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 6.md"
+                "file": "NumAnaly-hm2.md"
               }
             }
           }
@@ -147,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 6.md",
+                "file": "NumAnaly-hm2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 6.md",
+                "file": "NumAnaly-hm2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,10 +204,16 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f160815a1f5d30c7",
+  "active": "bcdb98128bd39466",
   "lastOpenFiles": [
-    "未命名 6.md",
+    "Pasted image 20231010105707.png",
+    "Pasted image 20231010105658.png",
+    "Pasted image 20231010105652.png",
+    "Pasted image 20231010105645.png",
+    "Pasted image 20231010105639.png",
     "NumAnaly-hm1.md",
+    "NumAnaly-hm2.md",
+    "未命名 6.md",
     "Pasted image 20231007193253.png",
     "Pasted image 20231007181457.png",
     "Pasted image 20231007175207.png",
@@ -203,8 +223,6 @@
     "ptaRecursion.md",
     "Physio-psychological.md",
     "cs-ai-plan.md",
-    "Pasted image 20231005211647.png",
-    "Pasted image 20231002234601.png",
     "uthash-c.md",
     "搜书网站集合.md",
     "未命名 5.md",
@@ -214,22 +232,18 @@
     "未命名 4.md",
     "JupyteHotKey.md",
     "NMA-CN.md",
-    "Pasted image 20230707072312.png",
     "生理心理学.md",
     "文件进阶.md",
     "论如何与cst相处.md",
     "实验心理学慕课.md",
     "1.7z",
     "obsidianFolder.7z",
-    "Pasted image 20230701125144.png",
     "心统2.md",
     "未命名 3.md",
     "code.md",
     "程序设计专题.md",
     "生理心理学10.md",
     "离散数学课程总结.md",
-    "ode-6.md",
-    "lab.md",
     "TomMitchellBook-MachineLearning.pdf",
     "maqi_3210104896_4.pdf",
     "新建 文本文档.txt",
