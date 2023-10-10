@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4129d11148f0be59",
+        "id": "e9ce6b14d1c0ad33",
         "type": "tabs",
         "children": [
           {
-            "id": "2920ccac64d29c9e",
+            "id": "7fcfd11eca1f293f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "心理测量文献简介.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -129,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "心理测量文献简介.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "心理测量文献简介.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "心理测量文献简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,7 +181,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "2920ccac64d29c9e",
+  "active": "7fcfd11eca1f293f",
   "lastOpenFiles": [
     "心理测量文献简介.md",
     "NumAnaly-hm2.md",
