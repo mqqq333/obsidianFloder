@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dd480a5fced6b6ab",
+        "id": "4129d11148f0be59",
         "type": "tabs",
         "children": [
           {
-            "id": "662d93caa98b863a",
+            "id": "2920ccac64d29c9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumAnaly-hm1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bcdb98128bd39466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumAnaly-hm2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a81acafcdb2e1d74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 7.md",
+                "file": "心理测量文献简介.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -47,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -157,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 7.md"
+                "file": "心理测量文献简介.md"
               }
             }
           }
@@ -174,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 7.md",
+                "file": "心理测量文献简介.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 7.md",
+                "file": "心理测量文献简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -217,8 +190,9 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "a81acafcdb2e1d74",
+  "active": "2920ccac64d29c9e",
   "lastOpenFiles": [
+    "心理测量文献简介.md",
     "NumAnaly-hm2.md",
     "未命名 7.md",
     "Pasted image 20231010105707.png",
@@ -256,7 +230,6 @@
     "code.md",
     "程序设计专题.md",
     "生理心理学10.md",
-    "离散数学课程总结.md",
     "TomMitchellBook-MachineLearning.pdf",
     "maqi_3210104896_4.pdf",
     "新建 文本文档.txt",
