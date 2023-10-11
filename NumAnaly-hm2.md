@@ -18,9 +18,12 @@ hence $x_{k+1}=x_k-{{f(x_k)}\over{f(x_{k+1})}}=2x_k-bx^2_k$
 so $|{\epsilon_{k+1}}|=|1-b(2x_k-bx^2_k)|=(1-bx_k)^2={\epsilon}^2_k$
 **(ii)**
 $x_{k+1}=2x_k-bx^2_k$
-$x_{k+1}-{{1}\over{b}}=2x_k-bx^2_k-{{1}\over{b}}=-b(x_k-{{1}\over{b}})^2$
+$cause\quad x_{k+1}-{{1}\over{b}}=2x_k-bx^2_k-{{1}\over{b}}=-b(x_k-{{1}\over{b}})^2=-b^{2k+1}(x_0-{{1}\over{b}})^{2k+2} \quad converge$
+$so |bx_0-1|<1 \rightarrow 0<x_0<{{2}\over{b}}$
 ## Problem 3
 ![[Pasted image 20231010105652.png]]
+*solution*
+
 ## Problem 4
 ![[Pasted image 20231010105658.png]]
 ## Problem 5
