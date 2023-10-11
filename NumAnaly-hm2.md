@@ -18,7 +18,7 @@ hence $x_{k+1}=x_k-{{f(x_k)}\over{f(x_{k+1})}}=2x_k-bx^2_k$
 so $|{\epsilon_{k+1}}|=|1-b(2x_k-bx^2_k)|=(1-bx_k)^2={\epsilon}^2_k$
 **(ii)**
 $x_{k+1}=2x_k-bx^2_k$
-$x_{k+1}-{{1}\over{b}}=-b(x_k-{{1}\over{b}})$
+$x_{k+1}-{{1}\over{b}}=2x_k-bx^2_k-{{1}\over{b}}=-b(x_k-{{1}\over{b}})^2$
 ## Problem 3
 ![[Pasted image 20231010105652.png]]
 ## Problem 4
