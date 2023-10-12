@@ -11,12 +11,9 @@
             "id": "acabf7cfad31c77a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "NumAnaly-hm2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "cs-ai/王道25考研如何入门915.pdf"
               }
             }
           }
@@ -50,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +72,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumAnaly-hm2.md"
+                "file": "cs-ai/王道25考研如何入门915.pdf"
               }
             }
           }
@@ -148,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumAnaly-hm2.md",
+                "file": "cs-ai/王道25考研如何入门915.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumAnaly-hm2.md",
+                "file": "cs-ai/王道25考研如何入门915.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -193,9 +189,19 @@
   },
   "active": "acabf7cfad31c77a",
   "lastOpenFiles": [
-    "未命名 8.md",
     "NumAnaly-hm2.md",
-    "TomMitchellBook-MachineLearning.pdf",
+    "cs-ai/cognitive/视觉搜索不对称/万绿丛中一点红.jpg",
+    "cs-ai/cognitive/视觉搜索不对称/视觉搜索不对称实验/补充阅读材料/视觉搜索的非对称性研究综述.pdf",
+    "未命名 8.md",
+    "cs-ai/cognitive/视觉搜索不对称/视觉搜索不对称实验/补充阅读材料/Pre-Attentive Processing.pdf",
+    "cs-ai/数值分析方法/Numerical Analysis-Burden Faires 9th.pdf",
+    "cs-ai/数值分析方法/NA-Ch5-Student.pdf",
+    "cs-ai/数值分析方法/NA-Ch4-Student.pdf",
+    "cs-ai/数值分析方法/NA-Ch3-Student.pdf",
+    "cs-ai/数值分析方法/NA-Ch2-Student.pdf",
+    "cs-ai/数值分析方法/NA-Ch1-Student.pdf",
+    "cs-ai/数值分析方法/Lec13.pdf",
+    "cs-ai/数值分析方法/Lec12.pdf",
     "SinalDetection.md",
     "Quest.md",
     "Physio-psychological.md",
@@ -215,7 +221,6 @@
     "Pasted image 20231007181457.png",
     "Pasted image 20231007175207.png",
     "Pasted image 20231006235515.png",
-    "Pasted image 20231006210615.png",
     "cs-ai-plan.md",
     "uthash-c.md",
     "搜书网站集合.md",
@@ -229,12 +234,6 @@
     "文件进阶.md",
     "论如何与cst相处.md",
     "实验心理学慕课.md",
-    "1.7z",
-    "obsidianFolder.7z",
-    "maqi_3210104896_4.pdf",
-    "新建 文本文档.txt",
-    "新建文件夹",
-    "Untitled",
     "未命名.canvas"
   ]
 }
