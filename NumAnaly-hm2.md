@@ -34,7 +34,15 @@ $g_3(x_1,x_2,x_3)=-{{1}\over{20}}e^{-x_1x_2}-{{10\pi-3}\over{60}}.$
 $x_1^{(k)} = {{1}\over{3}}cos(x_2^{(k-1)}x_3^{(k-1)})+{{1}\over{6}},$
 $x_2^{(k)}={{1}\over{9}}\sqrt{(x_1^{(k)})^2+sinx_3^{(k-1)}+1.06}-0.1,$
 $x_3^{(k)}=-{{1}\over{20}}e^{-x_1^{(k)}x_2^{(k)}}-{{10\pi-3}\over{60}}.$
-so $X^{(2)}=\begin{matrix} a & b \ c & d \end{matrix}$
+so $X^{(2)}=\begin{pmatrix}0.500167\\0.250804\\-0.517387\end{pmatrix}$
+**b.**
+$x_1=\sqrt{-x_2+37}$
+$x_2=\sqrt{x_1-5}$
+$x_3=-x_1-x_2+3$
+$g_1(x_1,x_2,x_3)=\sqrt{-x_2+37}$
+$g_2(x_1,x_2,x_3)=\sqrt{x_1-5}$
+$g_3(x_1,x_2,x_3)=-x_1-x_2+3$
+so $X^{(2)}=\begin{pmatrix}4.350877\\18.491228\\-19.842105\end{pmatrix}$
 ## Problem 4
 ![[Pasted image 20231010105658.png]]
 ## Problem 5
