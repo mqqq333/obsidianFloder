@@ -23,6 +23,9 @@ $so |bx_0-1|<1 \rightarrow 0<x_0<{{2}\over{b}}$
 ## Problem 3
 ![[Pasted image 20231010105652.png]]
 *solution*
+**a.**
+
+$x_1 = {{1}\{}}$
 
 ## Problem 4
 ![[Pasted image 20231010105658.png]]

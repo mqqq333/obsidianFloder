@@ -11,9 +11,12 @@
             "id": "acabf7cfad31c77a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "cs-ai/王道25考研如何入门915.pdf"
+                "file": "NumAnaly-hm2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -127,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs-ai/王道25考研如何入门915.pdf"
+                "file": "NumAnaly-hm2.md"
               }
             }
           }
@@ -144,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs-ai/王道25考研如何入门915.pdf",
+                "file": "NumAnaly-hm2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs-ai/王道25考研如何入门915.pdf",
+                "file": "NumAnaly-hm2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -189,7 +192,10 @@
   },
   "active": "acabf7cfad31c77a",
   "lastOpenFiles": [
+    "NumAnaly-hm1.md",
     "NumAnaly-hm2.md",
+    "ode-1.md",
+    "cs-ai/王道25考研如何入门915.pdf",
     "cs-ai/cognitive/视觉搜索不对称/万绿丛中一点红.jpg",
     "cs-ai/cognitive/视觉搜索不对称/视觉搜索不对称实验/补充阅读材料/视觉搜索的非对称性研究综述.pdf",
     "未命名 8.md",
@@ -201,7 +207,6 @@
     "cs-ai/数值分析方法/NA-Ch2-Student.pdf",
     "cs-ai/数值分析方法/NA-Ch1-Student.pdf",
     "cs-ai/数值分析方法/Lec13.pdf",
-    "cs-ai/数值分析方法/Lec12.pdf",
     "SinalDetection.md",
     "Quest.md",
     "Physio-psychological.md",
@@ -215,7 +220,6 @@
     "Pasted image 20231010105652.png",
     "Pasted image 20231010105645.png",
     "Pasted image 20231010105639.png",
-    "NumAnaly-hm1.md",
     "未命名 6.md",
     "Pasted image 20231007193253.png",
     "Pasted image 20231007181457.png",
