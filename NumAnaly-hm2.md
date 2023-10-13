@@ -25,8 +25,12 @@ $so |bx_0-1|<1 \rightarrow 0<x_0<{{2}\over{b}}$
 *solution*
 **a.**
 
-$x_1 = {{13{}}$
-
+$x_1 = {{1}\over{3}}cos(x_2x_3)+{{1}\over{6}},$
+$x_2={{1}\over{9}}\sqrt{x_1^2+sinx_3+1.06}-0.1,$
+$x_3=-{{1}\over{20}}e^{-x_1x_2}-{{10\pi-3}\over{60}}.$
+$g_1(x_1, x_2, x_3)={{1}\over{3}}cos(x_2x_3)+{{1}\over{6}},$
+$g_2(x_1,x_2,x_3)={{1}\over{9}}\sqrt{x_1^2+sinx_3+1.06}-0.1,$
+$g_3(x_1,x_2,x_3)=-{{1}\over{20}}e^{-x_1x_2}-{{10\pi-3}\over{60}}.$
 ## Problem 4
 ![[Pasted image 20231010105658.png]]
 ## Problem 5
