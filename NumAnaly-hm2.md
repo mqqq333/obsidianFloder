@@ -25,7 +25,7 @@ $so |bx_0-1|<1 \rightarrow 0<x_0<{{2}\over{b}}$
 *solution*
 **a.**
 
-$x_1 = {{1}\{}}$
+$x_1 = {{13{}}$
 
 ## Problem 4
 ![[Pasted image 20231010105658.png]]
