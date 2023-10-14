@@ -46,6 +46,8 @@ $g_3(x_1,x_2,x_3)=-x_1-x_2+3$
 so $X^{(2)}=\begin{pmatrix}4.350877\\18.491228\\-19.842105\end{pmatrix}$
 ## Problem 4
 ![[Pasted image 20231010105658.png]]
+*solution*
+**a**
 $$f_1=15x_1+x_2^2-4x_3-13=0$$
 $$f_2=x_1^2+10x_2-x_3-11=0$$
 $$f_3=x_2^3-25x_3+22=0;$$
@@ -81,6 +83,31 @@ $$x^{(2)}=\begin{pmatrix}-0.064646\\-0.10208\\0.049779\end{pmatrix}+\begin{pmatr
 $$x^{(2)}=\begin{pmatrix}1.0367\\1.0859\\0.92978\end{pmatrix}$$
 After Two Iterations the solution is
 $$x^{(2)}=\begin{pmatrix}1.0367\\1.0859\\0.92978\end{pmatrix}$$
+**b**
+$$f_1=10x_1-2x_2^2+x_2-2x_3-5=0$$
+$$f_2=8x_2^2+4x_3^2-9=0$$
+$$f_3=8x_2x_3+4=0$$
+Jacobian Matrix
+$$J=\begin{pmatrix}10&1.0-4.0x_2&-2.0\\0.0&16.0x_2&8.0x_3\\0.0&8.0x_3&8.0x_2\end{pmatrix}$$
+Initial Guess
+$$x^{(0)}=(0,0,0)^t$$
+so the function values
+$$F^{(0)}=\begin{pmatrix}-37\\-5\\-3\end{pmatrix}$$
+Jacobian Matrix
+$$J^{(0)}=\begin{pmatrix}0&1&0\\1&0&0\\1&1&1\end{pmatrix}$$
+Solve the system of linear equations
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Problem 5
