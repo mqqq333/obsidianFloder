@@ -34,6 +34,7 @@ $g_3(x_1,x_2,x_3)=-{{1}\over{20}}e^{-x_1x_2}-{{10\pi-3}\over{60}}.$
 $x_1^{(k)} = {{1}\over{3}}cos(x_2^{(k-1)}x_3^{(k-1)})+{{1}\over{6}},$
 $x_2^{(k)}={{1}\over{9}}\sqrt{(x_1^{(k)})^2+sinx_3^{(k-1)}+1.06}-0.1,$
 $x_3^{(k)}=-{{1}\over{20}}e^{-x_1^{(k)}x_2^{(k)}}-{{10\pi-3}\over{60}}.$
+
 so $X^{(2)}=\begin{pmatrix}0.500167\\0.250804\\-0.517387\end{pmatrix}$
 **b.**
 $x_1=\sqrt{-x_2+37}$
@@ -45,6 +46,42 @@ $g_3(x_1,x_2,x_3)=-x_1-x_2+3$
 so $X^{(2)}=\begin{pmatrix}4.350877\\18.491228\\-19.842105\end{pmatrix}$
 ## Problem 4
 ![[Pasted image 20231010105658.png]]
+$$f_1=15x_1+x_2^2-4x_3-13=0$$
+$$f_2=x_1^2+10x_2-x_3-11=0$$
+$$f_3=x_2^3-25x_3+22=0;$$
+Jcaobian Matrix
+$$J=\begin{pmatrix}2.0x_1&1.0&0.0\\1.0&-2.0x_2&0.0\\1.0&1.0&1.0\end{pmatrix}$$
+Initial Guess
+$$x^{(0)}=(0,0,0)^t$$
+so the function values
+$$F^{(0)}=\begin{pmatrix}-37\\-5\\-3\end{pmatrix}$$
+Jacobian Matrix
+$$J^{(0)}=\begin{pmatrix}0&1&0\\1&0&0\\1&1&1\end{pmatrix}$$
+Solve the system of linear equations
+$$y^{(0)}=-[J^{(0)}]^{-1}F^{(0)}$$
+$$y^{(0)}=\begin{bmatrix}\begin{pmatrix}15&0&-4\\0&10&-1\\0&0&-25\end{pmatrix}\end{bmatrix}^{-1}\begin{pmatrix}-13\\-11\\22\end{pmatrix}$$
+$$y^{(0)}=\begin{pmatrix}1.1013\\1.188\\0.88\end{pmatrix}$$
+So, after the first iteration, the values are 
+$$x^{(1)}=x^{(0)}+y^{(0)}$$
+$$x^{(1)}=\begin{pmatrix}0\\0\\0\end{pmatrix}+\begin{pmatrix}1.1013\\1.188\\0.88\end{pmatrix}$$
+Iteration-2
+Second Guess
+$$x^{(1)}=\begin{pmatrix}1.1013\\1.188\\0.88\end{pmatrix}$$
+So, the function values
+$$F^{(1)}=\begin{pmatrix}1.4113\\1.2129\\1.6767\end{pmatrix}$$
+Jacobian Matrix
+$$J^{(1)}=\begin{pmatrix}15&2.367&-4\\2.2027&10&-1\\0&4.234&-25\end{pmatrix}$$
+Solve the system of linear equations
+$$y^{(1)}=-[J^{(1)}]^{-1}F^{(1)}$$
+$$y^{(1)}=\begin{bmatrix}\begin{pmatrix}15&2.376&-4\\2.2027&10&-1\\0&4.234&-25\end{pmatrix}\end{bmatrix}^{-1}\begin{pmatrix}1.4113\\1.2129\\1.6767\end{pmatrix}$$
+$$y^{(1)}=\begin{pmatrix}-0.064646\\-0.10208\\0.049779\end{pmatrix}$$
+So, after the second iteration, the values are 
+$$x^{(2)}=x^{(1)}+y^{(1)}$$
+$$x^{(2)}=\begin{pmatrix}-0.064646\\-0.10208\\0.049779\end{pmatrix}+\begin{pmatrix}1.1013\\1.188\\0.88\end{pmatrix}$$
+$$x^{(2)}=\begin{pmatrix}1.0367\\1.0859\\0.92978\end{pmatrix}$$
+After Two Iterations the solution is
+$$x^{(2)}=\begin{pmatrix}1.0367\\1.0859\\0.92978\end{pmatrix}$$
+
 
 ## Problem 5
 The nonlinear system

@@ -24,9 +24,12 @@
             "id": "5a88c47048db1b9e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "NumAnaly-hm2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -61,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "HM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,9 +207,9 @@
   },
   "active": "5a88c47048db1b9e",
   "lastOpenFiles": [
+    "cs-ai/数值分析方法/~$2023_2.docx",
     "cs-ai/数值分析方法/hw2023_3.pdf",
     "cs-ai/数值分析方法/hw2023_3.pdf.crdownload",
-    "cs-ai/数值分析方法/~$2023_2.docx",
     "NumAnaly-hm1.md",
     "NumAnaly-hm2.md",
     "ode-1.md",
