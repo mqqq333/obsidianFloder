@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "5a88c47048db1b9e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -190,7 +201,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "acabf7cfad31c77a",
+  "active": "5a88c47048db1b9e",
   "lastOpenFiles": [
     "cs-ai/数值分析方法/hw2023_3.pdf",
     "cs-ai/数值分析方法/hw2023_3.pdf.crdownload",
