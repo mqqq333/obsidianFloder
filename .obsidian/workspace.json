@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumAnaly-hw3.md",
+                "file": "心理测量文献简介.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumAnaly-hw3.md"
+                "file": "心理测量文献简介.md"
               }
             }
           }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumAnaly-hw3.md",
+                "file": "心理测量文献简介.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumAnaly-hw3.md",
+                "file": "心理测量文献简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,6 +192,8 @@
   },
   "active": "96ad1e64e46905f2",
   "lastOpenFiles": [
+    "cs-ai/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
+    "NumAnaly-hw3.md",
     "Pasted image 20231015180914.png",
     "Pasted image 20231015180615.png",
     "Pasted image 20231015180046.png",
@@ -199,7 +201,6 @@
     "Pasted image 20231015175421.png",
     "NumAnaly-hw2.md",
     "NumAnaly-hw1.md",
-    "NumAnaly-hw3.md",
     "cs-ai/cognitive/视觉搜索不对称/exp_data/data.csv",
     "cs-ai/数值分析方法/3210104896_Homework_2.pdf",
     "cs-ai/数值分析方法/~$2023_2.docx",
@@ -225,7 +226,6 @@
     "Pasted image 20231010105658.png",
     "Pasted image 20231010105652.png",
     "Pasted image 20231010105645.png",
-    "Pasted image 20231010105639.png",
     "未命名 6.md",
     "cs-ai-plan.md",
     "uthash-c.md",
