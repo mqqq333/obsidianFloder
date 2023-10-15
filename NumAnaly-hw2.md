@@ -1,4 +1,4 @@
-# HM2
+# HW2
 ## Problem 1
 ![[Pasted image 20231010105639.png]]
 *solution*
