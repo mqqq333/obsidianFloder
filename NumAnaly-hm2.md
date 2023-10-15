@@ -110,5 +110,29 @@ $D = {\{}(x_1,x_2)^t|0\le{x_1,x_2}\le1.5{\}}$
 (b)Let $x^{(0)}=[0,1]^t$, and perform two steps of the fixed point iteration to find $X^{(2)}$
 *solution*
 **(a)**
+Use the Theorem 10.6
+$x_1=g_1(x_1,x_2)={{x_1^2+x_2^2+8}\over{10}}$
+$x_2=g_2(x_1,x_2)={{x_1x_2^2+x_1+8}\over{10}}$
+${{\partial{g_1}}\over{\partial{x_1}}}={{x_1}\over{5}}$
+${{\partial{g_1}}\over{\partial{x_2}}}={{x_2}\over{5}}$
+${{\partial{g_2}}\over{\partial{x_1}}}={{1}\over{10}}(x_2^2+1)$
+${{\partial{g_2}}\over{\partial{x_2}}}={{x_2}\over{5}}$
 
+
+so in $D=\{(x_1,x_2)^t|0{\le}x_1,x_2{\le}1.5\}$
+${{\partial{g_1}}\over{\partial{x_1}}}={{x_1}\over{5}}\le{{0.6}\over{2}}$
+${{\partial{g_2}}\over{\partial{x_1}}}={{1}\over{10}}(x_2^2+1)\le{{0.65}\over{2}}$
+${{\partial{g_1}}\over{\partial{x_2}}}={{x_2}\over{5}}\le{{0.6}\over{2}}$
+${{\partial{g_2}}\over{\partial{x_2}}}={{x_2}\over{5}}\le{{0.6}\over{2}}$
+
+Therefore, in the domin $D=\{(x_1,x_2)^t|0{\le}x_1,x_2{\le}1.5\}$
+$$|{{{\partial}g_i}\over{{\partial}x_j}}|\le{{K}\over{2}};i,j=1,2$$
+Hence, the mapping $D{\subset}R^2\rightarrow{R^2}$ has a unique fixed point.
 **(b)**
+$$x_1^k={{1}\over{10}}\{(x_1^{k-1})^2+(x_2^{k-1})^2+8\}$$
+$$x_2^k={{1}\over{10}}\{(x_1^{k-1})^2+(x_2^{k-1})^2+8\}$$
+
+$$let X^{(0)}=[0,1]^t$$
+so $$k=0,x_1^k=1.0000,x_2^k=0.0000$$
+$$k=1,x_1^k=0.9000,x_2^k=0.8000$$
+$$k=2,x_1^k=0.9450,x_2^k=0.9476$$
