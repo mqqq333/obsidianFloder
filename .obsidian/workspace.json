@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "发展心理学.md",
+                "file": "vpn-notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "发展心理学.md"
+                "file": "vpn-notes.md"
               }
             }
           }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发展心理学.md",
+                "file": "vpn-notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发展心理学.md",
+                "file": "vpn-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,8 +206,17 @@
   },
   "active": "dfe48a4023cf89c6",
   "lastOpenFiles": [
-    "linear_algebra_review.md",
+    "Pasted image 20231021210031.png",
+    "Pasted image 20231021210006.png",
+    "Pasted image 20231021205934.png",
+    "Pasted image 20231021205720.png",
+    "Pasted image 20231021205320.png",
+    "Pasted image 20231021205215.png",
+    "Pasted image 20231021205146.png",
     "发展心理学.md",
+    "0de-2-7.jpg",
+    "vpn-notes.md",
+    "linear_algebra_review.md",
     "NumAnaly-hw3.md",
     "NumAnalyTest.md",
     "NumAnaly-hw1.md",
@@ -222,15 +231,8 @@
     "Pasted image 20231015231641.png",
     "Pasted image 20231015224128.png",
     "Pasted image 20231015224122.png",
-    "Pasted image 20231015222932.png",
     "未命名 3.md",
-    "Pasted image 20231015222454.png",
-    "Pasted image 20231015213712.png",
-    "Pasted image 20231015213653.png",
     "cs-ai/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
-    "Pasted image 20231015180914.png",
-    "Pasted image 20231015180615.png",
-    "Pasted image 20231015180046.png",
     "cs-ai/cognitive/视觉搜索不对称/exp_data/data.csv",
     "cs-ai/数值分析方法/3210104896_Homework_2.pdf",
     "cs-ai/数值分析方法/~$2023_2.docx",
@@ -250,8 +252,6 @@
     "cs-ai-plan.md",
     "uthash-c.md",
     "搜书网站集合.md",
-    "未命名 5.md",
-    "实践报告.md",
     "未命名.canvas"
   ]
 }
