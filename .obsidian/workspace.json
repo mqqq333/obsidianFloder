@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "776bf565025bcd5b",
+        "id": "033f7d1150f91d55",
         "type": "tabs",
         "children": [
           {
-            "id": "96ad1e64e46905f2",
+            "id": "31f6acee3a7d6955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stage2-原文翻译.md",
+                "file": "latex相关.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,20 +21,19 @@
             }
           },
           {
-            "id": "6ea10bdda759a854",
+            "id": "2ec556478aeaa329",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stage2-最终整理稿.md",
-                "mode": "source",
+                "file": "latex相关.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -64,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HM",
+                "query": "latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stage2-最终整理稿.md"
+                "file": "latex相关.md"
               }
             }
           }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stage2-最终整理稿.md",
+                "file": "latex相关.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stage2-最终整理稿.md",
+                "file": "latex相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,10 +204,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6ea10bdda759a854",
+  "active": "31f6acee3a7d6955",
   "lastOpenFiles": [
-    "stage2-原文翻译.md",
+    "latex相关.md",
     "stage2-最终整理稿.md",
+    "stage2-原文翻译.md",
     "Pasted image 20231015231641.png",
     "Pasted image 20231015224128.png",
     "Pasted image 20231015224122.png",
@@ -251,7 +252,6 @@
     "未命名 4.md",
     "JupyteHotKey.md",
     "NMA-CN.md",
-    "生理心理学.md",
     "未命名.canvas"
   ]
 }
