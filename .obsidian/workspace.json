@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumAnalyTest.md",
+                "file": "linear_algebra_review.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dfe48a4023cf89c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "发展心理学.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -130,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumAnalyTest.md"
+                "file": "发展心理学.md"
               }
             }
           }
@@ -147,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumAnalyTest.md",
+                "file": "发展心理学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumAnalyTest.md",
+                "file": "发展心理学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,12 +204,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "f554ee23c70442fb",
+  "active": "dfe48a4023cf89c6",
   "lastOpenFiles": [
-    "cs-ai/数值分析方法/NA-Summary.pdf",
-    "cs-ai/数值分析方法/未确认 816276.crdownload",
+    "linear_algebra_review.md",
+    "发展心理学.md",
     "NumAnaly-hw3.md",
     "NumAnalyTest.md",
+    "NumAnaly-hw1.md",
+    "NumAnaly-hw2.md",
+    "ode-1.md",
+    "ode-2.md",
+    "cs-ai/数值分析方法/NA-Summary.pdf",
+    "cs-ai/数值分析方法/未确认 816276.crdownload",
     "latex相关.md",
     "stage2-最终整理稿.md",
     "stage2-原文翻译.md",
@@ -211,18 +231,14 @@
     "Pasted image 20231015180914.png",
     "Pasted image 20231015180615.png",
     "Pasted image 20231015180046.png",
-    "NumAnaly-hw2.md",
-    "NumAnaly-hw1.md",
     "cs-ai/cognitive/视觉搜索不对称/exp_data/data.csv",
     "cs-ai/数值分析方法/3210104896_Homework_2.pdf",
     "cs-ai/数值分析方法/~$2023_2.docx",
     "cs-ai/数值分析方法/hw2023_3.pdf",
     "cs-ai/数值分析方法/hw2023_3.pdf.crdownload",
-    "ode-1.md",
     "cs-ai/王道25考研如何入门915.pdf",
     "cs-ai/cognitive/视觉搜索不对称/视觉搜索不对称实验/补充阅读材料/视觉搜索的非对称性研究综述.pdf",
     "未命名 8.md",
-    "cs-ai/cognitive/视觉搜索不对称/视觉搜索不对称实验/补充阅读材料/Pre-Attentive Processing.pdf",
     "SinalDetection.md",
     "Quest.md",
     "Physio-psychological.md",
@@ -236,8 +252,6 @@
     "搜书网站集合.md",
     "未命名 5.md",
     "实践报告.md",
-    "WorkflowConfig.md",
-    "未命名 4.md",
     "未命名.canvas"
   ]
 }
