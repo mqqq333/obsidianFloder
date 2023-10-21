@@ -8,26 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "31f6acee3a7d6955",
+            "id": "f554ee23c70442fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "latex相关.md",
+                "file": "NumAnalyTest.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2ec556478aeaa329",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "latex相关.md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -63,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "latex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "latex相关.md"
+                "file": "NumAnalyTest.md"
               }
             }
           }
@@ -161,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "latex相关.md",
+                "file": "NumAnalyTest.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "latex相关.md",
+                "file": "NumAnalyTest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,8 +190,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "31f6acee3a7d6955",
+  "active": "f554ee23c70442fb",
   "lastOpenFiles": [
+    "cs-ai/数值分析方法/NA-Summary.pdf",
+    "cs-ai/数值分析方法/未确认 816276.crdownload",
+    "NumAnaly-hw3.md",
+    "NumAnalyTest.md",
     "latex相关.md",
     "stage2-最终整理稿.md",
     "stage2-原文翻译.md",
@@ -218,7 +208,6 @@
     "Pasted image 20231015213712.png",
     "Pasted image 20231015213653.png",
     "cs-ai/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
-    "NumAnaly-hw3.md",
     "Pasted image 20231015180914.png",
     "Pasted image 20231015180615.png",
     "Pasted image 20231015180046.png",
@@ -234,7 +223,6 @@
     "cs-ai/cognitive/视觉搜索不对称/视觉搜索不对称实验/补充阅读材料/视觉搜索的非对称性研究综述.pdf",
     "未命名 8.md",
     "cs-ai/cognitive/视觉搜索不对称/视觉搜索不对称实验/补充阅读材料/Pre-Attentive Processing.pdf",
-    "cs-ai/数值分析方法/Numerical Analysis-Burden Faires 9th.pdf",
     "SinalDetection.md",
     "Quest.md",
     "Physio-psychological.md",
@@ -250,8 +238,6 @@
     "实践报告.md",
     "WorkflowConfig.md",
     "未命名 4.md",
-    "JupyteHotKey.md",
-    "NMA-CN.md",
     "未命名.canvas"
   ]
 }
