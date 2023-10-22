@@ -71,9 +71,13 @@ Implement the Jacobi iterative method and list the first three iteration results
 Use the Jacobi method and Gauss-Seidel method to solove the following linear systems, with TOL = 0.001 in the $L_{\infty}$ norm.
 ![[Pasted image 20231015180914.png]]
 *solution*
+starting with $x = (0, 0, 0, 0)^t$ and iterating until
+$$||x^{}||$$
 $x_1^{(k)}={1\over3}x_2^{(k-1)}-{1\over3}x_3^{(k-1)}+{1\over3}$
 $x_2^{(k)}=-{1\over2}x_1^{(k)}-{1\over3}x_3^{(k-1)}$
 $x_3^{(k)}=-{3\over7}x_1^{(k)}-{3\over7}x_2^{(k)}+{4\over7}$
+
+
 ## Problem6
 Prove: If $A$ is a matrix and $\rho_1,\rho_2,...,\rho_k$ are distinct eigenvalues of $A$ with associated eigenvectors $x_1,x_2,...,x_k$, then $\{x_1,x_2,...,x_k\}$ linearly independent set.
 *solution*
