@@ -68,8 +68,39 @@ Implement the Jacobi iterative method and list the first three iteration results
 
 ## Problem5
 Use the Jacobi method and Gauss-Seidel method to solove the following linear systems, with TOL = 0.001 in the $L_{\infty}$ norm.
-![[Pasted image 20231015180914.png]]
+![[Pasted image 20231015180914.png]]7 09
 ## Problem6
 Prove: If $A$ is a matrix and $\rho_1,\rho_2,...,\rho_k$ are distinct eigenvalues of $A$ with associated eigenvectors $x_1,x_2,...,x_k$, then $\{x_1,x_2,...,x_k\}$ linearly independent set.
+*solution*
+Assume that these eigenvectors are linearly dependent, exist n constants that are not all zero($c_i$):
+$$c_1x_1+c_2x_2+..+c_nx_n=0----(1)$$
+Using the matrix $A$ left-multiplication, according to $Ax_i=\rho_ix_i$
+$${c_1\rho_1x_1+c_2\rho_2x_2+...+c_n\rho_nx_n=0}----(2)$$
+Using (2) subtract $\rho_n\times(1)$:
+$$c_1(\rho_1-\rho_n)x_1+c_2(\rho_2-\rho_n)x_2+...+c_{n-1}(\rho_{n-1}-\rho_{n})x_{n-1}----(3)$$
+Now make substitution $d_i->c_i(\rho_i-\rho_n)$
+$$d_1x_1+d_2x_2+...+d_{n-1}x_{n-1}=0----(4)$$
+Perform the same treatment to (4):
+$$d_1(\rho_1-\rho_{n-1})x_1+d_2(\rho_2-\rho_{n-1})x_2+...+d_{n-2}(\rho_{n-2}-\rho_{n-1})x_{n-2}=0----(5)$$
+Perform the same thing $n-2$ times:
+$$m_1(\rho_1-\rho_2)x_1+m_2(\rho_2-\rho_3)x_2=0$$
+Make substitution, $n_1=m_1(\rho_1-\rho_3),n_2=m_2(\rho_2-\rho_3)$
+Perform the same thing last time:
+$$n_1(\rho_1-\rho_2)x_1=0$$
+So $n_1=0,m_1=0$
+Itreate to the last
+$$c_i=0 \\\ for\\\ i = 1,2,...,n$$
+So if $A$ is a matrix and $\rho_1,\rho_2,...,\rho_k$ are distinct eigenvalues of $A$ with associated eigenvectors $x_1,x_2,...,x_k$, then $\{x_1,x_2,...,x_k\}$ linearly independent set.
+
+
+
 ## Problem7
 Prove that a strictly diagonally dominant matrix is invertible.
+*solution*
+Suppose that $A$ isn't invertible, then we have that $det(A)=0$
+So $AX=0$ have non-zero solution, let $X=(x_1,x_2,...,x_n)^T,|x_k|=max\{|x_i|\}$
+Now we have that ${\sum_{j=1}^n}{a_{kj}}x_j=0$
+Hence $|a_{kk}||x_k|=|\sum_{j{\neq}k}a_{kj}x_j|----(1)$
+We have that $A$ a strictly diagonally dominant matrix
+$|a_{kk}||x_k|\geq|x_k|\sum_{j{\neq}k}|a_{kj}|>\sum_{j{\neq}k}|a_{kj}||x_j|\geq|\sum_{j{\neq}k}a_{kj}x_j|----(2)$
+Find the contradiction between (1) and (2) . Therefore, $A$ is reversible.
