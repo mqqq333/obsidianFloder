@@ -24,11 +24,22 @@ We also have:
 $$||x-\tilde{x}||_{\infty}=\left\|{\begin{bmatrix}0 \\ -7 \\ 5\end{bmatrix}}-{\begin{bmatrix}-0.33 \\ -7.9 \\ 5.8\end{bmatrix}}\right\|_{\infty}=0.9$$
 
 ## Problem2
-![[Pasted image 20231015175450.png]]
 *solution*
+![[Pasted image 20231015175450.png]]
+If $A$ is symmetric, so $A$ is a n $\times$ n matrix, and $A^T=A$
+We also have that ${\left\|A\right\|_2}=[\rho(A^TA)]^{1/2}=[\rho(A^2)]^{1/2}$
+Suppose $\lambda$ is the eigenvalue of $A$
+so $\lambda^2$ is the eigenvalue of $A^2$
+so,
+$${\left\|A\right\|_2}=[\rho(A^TA)]^{1/2}$$
+
+
 ## Problem3
 Implement the algorithm of Gaussian elimination with scaled partial pivoting, and solve the following linear systems.
 ![[Pasted image 20231015180046.png]]
+*solution*
+**a.**
+
 ## Problem4
 Implement the Jacobi iterative method and list the first three iteration results when solving the following linear systems, using $X^{(0)}=0$
 ![[Pasted image 20231015180615.png]]
