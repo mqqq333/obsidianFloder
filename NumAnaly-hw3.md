@@ -39,10 +39,33 @@ Implement the algorithm of Gaussian elimination with scaled partial pivoting, an
 ![[Pasted image 20231015180046.png]]
 *solution*
 **a.**
+The first pivot element, $a_{11}^{(1)}=0.03$
+$m_{21}={{5.31}\over{0.03}}=177$
+${\Longrightarrow}\left\{\begin{aligned}0.03x_1 +58.9x_2 & = & 59.2  \\-10431x_2 & = & 10431 \end{aligned}\right.$
+${\Longrightarrow}\left\{\begin{aligned}x_1  & = & 10  \\x_2 & = & 1 \end{aligned}\right.$
+
+**b.**
+We have a coefficient matrix：
+$$\begin{pmatrix}3.03&12.1&14&-119\\-3.03&12.1&-7&120\\6.11&-14.2&21&-139\end{pmatrix}$$
+Performing $E_2+E_1->E_2$
+$$\begin{pmatrix}3.03&12.1&14&-119\\0&0&7&1\\6.11&-14.2&21&-139\end{pmatrix}$$
+Performing $E_1-2{\times}E_2->E_1,E_3-3{\times}E_2->E_3$
+$$\begin{pmatrix}3.03&12.1&14&-121\\0&0&7&1\\6.11&-14.2&21&-142\end{pmatrix}$$
+
+The first pivot element, $a_{11}^{(1)}=3.03$
+$m_{31}={{6.11}\over{3.03}}=2$
+Performing $E_3-m_{31}E_1$
+${\Longrightarrow}\left\{\begin{aligned}3.03x_1 -12.1x_2 + 14x_3& = & -121  \\-28.2x_2-7x_3 & = & 282 \end{aligned}\right.$
+$$x_1=0,x_2=10,x_3={1\over7}$$
+
+
+
 
 ## Problem4
 Implement the Jacobi iterative method and list the first three iteration results when solving the following linear systems, using $X^{(0)}=0$
 ![[Pasted image 20231015180615.png]]
+*solution*
+
 ## Problem5
 Use the Jacobi method and Gauss-Seidel method to solove the following linear systems, with TOL = 0.001 in the $L_{\infty}$ norm.
 ![[Pasted image 20231015180914.png]]
