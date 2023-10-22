@@ -68,7 +68,7 @@ Implement the Jacobi iterative method and list the first three iteration results
 
 ## Problem5
 Use the Jacobi method and Gauss-Seidel method to solove the following linear systems, with TOL = 0.001 in the $L_{\infty}$ norm.
-![[Pasted image 20231015180914.png]]7 09
+![[Pasted image 20231015180914.png]]7 0980
 ## Problem6
 Prove: If $A$ is a matrix and $\rho_1,\rho_2,...,\rho_k$ are distinct eigenvalues of $A$ with associated eigenvectors $x_1,x_2,...,x_k$, then $\{x_1,x_2,...,x_k\}$ linearly independent set.
 *solution*
