@@ -1,8 +1,31 @@
 # HW3
 ## Problem1
 ![[Pasted image 20231015175421.png]]
+*solution*
+**a.**
+Let's first write our system of equations in the form $Ax=b$：
+$$\underbrace{\begin{bmatrix}1&2&3 \\ 2&3&4 \\ 3&4&6\end{bmatrix}}_{A}\underbrace{\begin{bmatrix}x_1 \\ x_2 \\ x_3\end{bmatrix}}_x=\underbrace{\begin{bmatrix}1 \\ -1 \\ 2\end{bmatrix}}_b$$
+Now,
+$$A\tilde{x}-b={\begin{bmatrix}1&2&3 \\ 2&3&4 \\ 3&4&6\end{bmatrix}}{\begin{bmatrix}-0.2 \\ -7.5 \\ 5.4\end{bmatrix}}-{\begin{bmatrix}1 \\ -1 \\ 2\end{bmatrix}}={\begin{bmatrix}0 \\ -0.3 \\ -0.2\end{bmatrix}}$$
+So
+$$||A\tilde{x}-b||_{\infty}=max\{|0|,|-0.3|,|-0.2|\}=0.3$$
+
+We also have:
+$$||x-\tilde{x}||_{\infty}=\left\|{\begin{bmatrix}0 \\ -7 \\ 5\end{bmatrix}}-{\begin{bmatrix}-0.2 \\ -7.5 \\ 5.4\end{bmatrix}}\right\|_{\infty}=0.5$$
+**a.**
+Let's first write our system of equations in the form $Ax=b$：
+$$\underbrace{\begin{bmatrix}1&2&3 \\ 2&3&4 \\ 3&4&6\end{bmatrix}}_{A}\underbrace{\begin{bmatrix}x_1 \\ x_2 \\ x_3\end{bmatrix}}_x=\underbrace{\begin{bmatrix}1 \\ -1 \\ 2\end{bmatrix}}_b$$
+Now,
+$$A\tilde{x}-b={\begin{bmatrix}1&2&3 \\ 2&3&4 \\ 3&4&6\end{bmatrix}}{\begin{bmatrix}-0.33 \\ -7.9 \\ 5.8\end{bmatrix}}-{\begin{bmatrix}1 \\ -1 \\ 2\end{bmatrix}}={\begin{bmatrix}0.27 \\ -0.16 \\ 0.21\end{bmatrix}}$$
+So
+$$||A\tilde{x}-b||_{\infty}=max\{|0.27|,|-0.16|,|0.21|\}=0.27$$
+
+We also have:
+$$||x-\tilde{x}||_{\infty}=\left\|{\begin{bmatrix}0 \\ -7 \\ 5\end{bmatrix}}-{\begin{bmatrix}-0.33 \\ -7.9 \\ 5.8\end{bmatrix}}\right\|_{\infty}=0.9$$
+
 ## Problem2
 ![[Pasted image 20231015175450.png]]
+*solution*
 ## Problem3
 Implement the algorithm of Gaussian elimination with scaled partial pivoting, and solve the following linear systems.
 ![[Pasted image 20231015180046.png]]

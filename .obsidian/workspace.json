@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linear_algebra_review.md",
-                "mode": "preview",
+                "file": "NumAnaly-hw3.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vpn-notes.md",
-                "mode": "source",
+                "file": "NumAnaly-hw3.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vpn-notes.md"
+                "file": "NumAnaly-hw3.md"
               }
             }
           }
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vpn-notes.md",
+                "file": "NumAnaly-hw3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vpn-notes.md",
+                "file": "NumAnaly-hw3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,8 +203,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "dfe48a4023cf89c6",
+  "active": "f554ee23c70442fb",
   "lastOpenFiles": [
+    "linear_algebra_review.md",
+    "NumAnaly-hw3.md",
+    "NumAnaly-hw2.md",
+    "vpn-notes.md",
     "Pasted image 20231021210031.png",
     "Pasted image 20231021210006.png",
     "Pasted image 20231021205934.png",
@@ -215,12 +218,8 @@
     "Pasted image 20231021205146.png",
     "发展心理学.md",
     "0de-2-7.jpg",
-    "vpn-notes.md",
-    "linear_algebra_review.md",
-    "NumAnaly-hw3.md",
     "NumAnalyTest.md",
     "NumAnaly-hw1.md",
-    "NumAnaly-hw2.md",
     "ode-1.md",
     "ode-2.md",
     "cs-ai/数值分析方法/NA-Summary.pdf",
@@ -230,7 +229,6 @@
     "stage2-原文翻译.md",
     "Pasted image 20231015231641.png",
     "Pasted image 20231015224128.png",
-    "Pasted image 20231015224122.png",
     "未命名 3.md",
     "cs-ai/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
     "cs-ai/cognitive/视觉搜索不对称/exp_data/data.csv",
