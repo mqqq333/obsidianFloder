@@ -66,6 +66,49 @@ Implement the Jacobi iterative method and list the first three iteration results
 ![[Pasted image 20231015180615.png]]
 *solution*
 **a.**
+First, let's express $x_1$ ​ in the first equation, $x_2$​ in the second equation, $x_3$​ in the third equation:
+$x_1=-{1\over4}x_2+{1\over4}x_3+{5\over4}$
+$x_2={1\over3}x_1-{1\over3}x_3-{4\over3}$
+$x_3=-{2\over5}x_1-{2\over5}x_2+{1\over5}$
+We have that $x^{(0)}=0$ so set $x_1^{(0)}=x_2^{(0)}=x_3^{(0)}=0$ and the iterations follow the formula
+$x_1^{(k)}=-{1\over4}x_2^{(k-1)}+{1\over4}x_3^{(k-1)}+{5\over4}$
+$x_2^{(k)}={1\over3}x_1^{(k-1)}-{1\over3}x_3^{(k-1)}-{4\over3}$
+$x_3^{(k)}=-{2\over5}x_1^{(k-1)}-{2\over5}x_2^{(k-1)}+{1\over5}$
+For the first iteration set $k=1$ :
+$x_1^{(1)}=-{1\over4}x_2^{(0)}+{1\over4}x_3^{(0)}+{5\over4}={5\over4}$
+$x_2^{(1)}={1\over3}x_1^{(0)}-{1\over3}x_3^{(0)}-{4\over3}=-{4\over3}$
+$x_3^{(1)}=-{2\over5}x_1^{(0)}-{2\over5}x_2^{(0)}+{1\over5}={1\over5}$
+For the second iteration set $k=2$ :
+$x_1^{(2)}=-{1\over4}x_2^{(1)}+{1\over4}x_3^{(1)}+{5\over4}={49\over30}$
+$x_2^{(2)}={1\over3}x_1^{(1)}-{1\over3}x_3^{(1)}-{4\over3}=-{59\over60}$
+$x_3^{(2)}=-{2\over5}x_1^{(1)}-{2\over5}x_2^{(1)}+{1\over5}={7\over30}$
+For the third iteration set $k=3$ :
+$x_1^{(3)}=-{1\over4}x_2^{(2)}+{1\over4}x_3^{(2)}+{5\over4}={373\over240}$
+$x_2^{(3)}={1\over3}x_1^{(2)}-{1\over3}x_3^{(2)}-{4\over3}=-{13\over15}$
+$x_3^{(3)}=-{2\over5}x_1^{(2)}-{2\over5}x_2^{(2)}+{1\over5}=-{3\over50}$
+
+**b.**
+First, let's express $x_1$ ​ in the first equation, $x_2$​ in the second equation, $x_3$​ in the third equation:
+$x_1={1\over2}x_2+{1\over4}x_3-2$
+$x_2={1\over2}x_1-{1\over4}x_3+2$
+$x_3=-{1\over2}x_2$
+We have that $x^{(0)}=0$ so set $x_1^{(0)}=x_2^{(0)}=x_3^{(0)}=0$ and the iterations follow the formula
+$x_1^{(k)}=-{1\over2}x_2^{(k-1)}+{1\over4}x_3^{(k-1)}-2$
+$x_2^{(k)}={1\over2}x_1^{(k-1)}-{1\over4}x_3^{(k-1)}+2$
+$x_3^{(k)}=-{1\over2}x_2^{(k-1)}$
+For the first iteration set $k=1$ :
+$x_1^{(1)}=-{1\over2}x_2^{(0)}+{1\over4}x_3^{(0)}-2=-2$
+$x_2^{(1)}={1\over2}x_1^{(0)}-{1\over4}x_3^{(0)}+2=2$
+$x_3^{(1)}=-{1\over2}x_2^{(0)}=0$
+For the second iteration set $k=2$ :
+$x_1^{(2)}=-{1\over2}x_2^{(1)}+{1\over4}x_3^{(1)}-2=-1$
+$x_2^{(2)}={1\over2}x_1^{(1)}-{1\over4}x_3^{(1)}+2=1$
+$x_3^{(2)}=-{1\over2}x_2^{(1)}=-1$
+For the third iteration set $k=3$ :
+$x_1^{(3)}=-{1\over2}x_2^{(2)}+{1\over4}x_3^{(2)}-2=-{9\over4}$
+$x_2^{(3)}={1\over2}x_1^{(2)}-{1\over4}x_3^{(2)}+2={7\over4}$
+$x_3^{(3)}=-{1\over2}x_2^{(2)}=-{1\over2}$
+
 
 ## Problem5
 Use the Jacobi method and Gauss-Seidel method to solove the following linear systems, with TOL = 0.001 in the $L_{\infty}$ norm.

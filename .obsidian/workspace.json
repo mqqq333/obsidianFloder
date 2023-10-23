@@ -27,7 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "NumAnaly-hw3.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "371c6e27066d2e21",
@@ -204,7 +205,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "876c4f5b215dbcb9",
+  "active": "c0448c9b787a237c",
   "lastOpenFiles": [
     "NumAnaly-hw3.md",
     "发展心理学整理-1.md",
