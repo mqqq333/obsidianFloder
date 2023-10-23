@@ -114,13 +114,70 @@ $x_3^{(3)}=-{1\over2}x_2^{(2)}=-{1\over2}$
 Use the Jacobi method and Gauss-Seidel method to solove the following linear systems, with TOL = 0.001 in the $L_{\infty}$ norm.
 ![[Pasted image 20231015180914.png]]
 *solution*
-starting with $x = (0, 0, 0, 0)^t$ and iterating until
-$$||x^{}||$$
-$x_1^{(k)}={1\over3}x_2^{(k-1)}-{1\over3}x_3^{(k-1)}+{1\over3}$
-$x_2^{(k)}=-{1\over2}x_1^{(k)}-{1\over3}x_3^{(k-1)}$
-$x_3^{(k)}=-{3\over7}x_1^{(k)}-{3\over7}x_2^{(k)}+{4\over7}$
+**a**
 
+|  k  |    x_1^k    |    x_2^k     |    x_3^k    |
+|:---:|:-----------:|:------------:|:-----------:|
+|  1  | 0.333333333 | -0.166666667 | 0.500000000 |
+|  2  | 0.111111111 | -0.222222222 | 0.619047619 |
+|  3  | 0.052910053 | -0.232804233 | 0.648526077 |
+|  4  | 0.039556563 | -0.235953641 | 0.655598747 |
+|  5  | 0.036149204 | -0.236607518 | 0.657339277 |
+|  6  | 0.035351068 | -0.236788627 | 0.657758954 |
 
+**b.**
+
+| k   | x_1^k        | x_2^k        | x_3^k        |
+|:-----:|:--------------:|:--------------:|:--------------:|
+| 1   | 0.900000000  | 0.790000000  | 0.758000000  |
+| 2   | 0.979000000  | 0.949500000  | 0.789900000  |
+| 3   | 0.994950000  | 0.957475000  | 0.791495000  |
+| 4   | 0.995747500  | 0.957873750  | 0.791574750  |
+
+**Reference Code**
+~~~matlab
+% Gauss-Seidel 
+clear;
+% 输入值
+A = [3, -1, 1; 3,6, 2; 3, 3, 7];
+b = [1; 0; 4];
+tol = 1e-3;
+N = 100;
+x = [0; 0; 0];
+x_backup = [0; 0; 0];   
+y = [0; 0; 0];
+%
+A_ = A;
+for i = 1 : length(A)
+    A_(i,i) = 0;
+end
+disp('Gauss_Seidel Methods')
+disp('---------------------------------------------------')
+disp(' k       x_1^k          x_2^k          x_3^k        ')
+disp('---------------------------------------------------')
+formatSpec = '%2d    %.9f    %.9f    %.9f    \n';
+for i = 0 : N
+    
+    for j = 1 : length(A)
+        y(j,1) = (b(j) - A_(j,:) * x) / A(j,j);
+        x_backup(j) = x(j);   % 备份“老值”
+        x(j) = y(j);     % “新值” 替换 “老值”
+        
+    end
+    fprintf(formatSpec,[i+1,y(1),y(2),y(3)]) % Printing output
+    
+    if (max(abs(x_backup - y)) < tol)
+        fprintf('迭代次数: %d\n', i);
+        fprintf('方程组的根: %10.8f\n', y);
+        
+        break;
+    end
+    
+end
+if i == N
+    fprintf('迭代方法失败\n');
+end
+~~~
 ## Problem6
 Prove: If $A$ is a matrix and $\rho_1,\rho_2,...,\rho_k$ are distinct eigenvalues of $A$ with associated eigenvectors $x_1,x_2,...,x_k$, then $\{x_1,x_2,...,x_k\}$ linearly independent set.
 *solution*
