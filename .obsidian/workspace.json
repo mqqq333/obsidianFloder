@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "371c6e27066d2e21",
@@ -206,9 +205,10 @@
   },
   "active": "48c139e1d4135918",
   "lastOpenFiles": [
+    "photo/Pasted image 20231023152522.png",
     "发展心理学整理-1.md",
     "plyyy.md",
-    "83e43c795c7cba79bf4b6a4a3cdfa0f3e52b5fd5.svg",
+    "photo/83e43c795c7cba79bf4b6a4a3cdfa0f3e52b5fd5.svg",
     "photo/Pasted image 20231010105707.png",
     "photo/Pasted image 20231010105658.png",
     "photo/Pasted image 20231010105652.png",
@@ -217,7 +217,6 @@
     "photo/Pasted image 20231007193253.png",
     "photo/Pasted image 20231007181457.png",
     "photo/Pasted image 20231007175207.png",
-    "photo/Pasted image 20231006235515.png",
     "photo",
     "新建文件夹",
     "NumAnaly-hw3.md",
@@ -251,7 +250,6 @@
     "T0_dolist.md",
     "未命名 7.md",
     "未命名 6.md",
-    "cs-ai-plan.md",
     "未命名.canvas"
   ]
 }
