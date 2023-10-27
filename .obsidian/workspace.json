@@ -4,36 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "ee413ddfe368d959",
+        "id": "6c3cc1e6d804f0d1",
         "type": "tabs",
         "children": [
           {
-            "id": "48c139e1d4135918",
+            "id": "ce88d5eff61939a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "发展心理学整理-1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "e2496bb835623828",
+            "id": "8a9b73cb4372ab9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "发展心理学整理-1.md",
-                "mode": "preview",
+                "file": "前端基础知识.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -143,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "发展心理学整理-1.md"
+                "file": "前端基础知识.md"
               }
             }
           }
@@ -160,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发展心理学整理-1.md",
+                "file": "前端基础知识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发展心理学整理-1.md",
+                "file": "前端基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -203,54 +199,54 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "48c139e1d4135918",
+  "active": "8a9b73cb4372ab9c",
   "lastOpenFiles": [
-    "cs-ai/cognitive/客体文件回溯实验/~WRL0005.tmp",
-    "cs-ai/cognitive/客体文件回溯实验/~WRD0004.tmp",
-    "cs-ai/cognitive/客体文件回溯实验/~WRL0003.tmp",
-    "cs-ai/cognitive/客体文件回溯实验/~WRD0002.tmp",
-    "cs-ai/cognitive/客体文件回溯实验/~$assicalObjectFileRep.docx",
-    "Pasted image 20231023192701.png",
-    "photo/Pasted image 20231023192505.png",
-    "photo/Pasted image 20231023192221.png",
-    "photo/Pasted image 20231023152522.png",
-    "发展心理学整理-1.md",
-    "plyyy.md",
-    "photo/83e43c795c7cba79bf4b6a4a3cdfa0f3e52b5fd5.svg",
-    "photo/Pasted image 20231010105707.png",
-    "photo/Pasted image 20231010105658.png",
-    "photo/Pasted image 20231010105652.png",
-    "photo/Pasted image 20231010105645.png",
-    "photo/Pasted image 20231010105639.png",
-    "photo",
-    "新建文件夹",
-    "NumAnaly-hw3.md",
-    "cs-ai/数值分析方法/3210104896_Homework_3.pdf",
-    "cs-ai/数值分析方法/NumAnaly-hw3.pdf",
-    "NumAnalyTest.md",
-    "NumAnaly-hw2.md",
-    "NewNote.md",
-    "latex相关.md",
-    "linear_algebra_review.md",
-    "vpn-notes.md",
-    "发展心理学.md",
-    "NumAnaly-hw1.md",
-    "ode-1.md",
-    "ode-2.md",
-    "cs-ai/数值分析方法/NA-Summary.pdf",
-    "cs-ai/数值分析方法/未确认 816276.crdownload",
-    "stage2-最终整理稿.md",
-    "stage2-原文翻译.md",
-    "未命名 3.md",
-    "未命名 8.md",
-    "SinalDetection.md",
-    "Quest.md",
-    "Physio-psychological.md",
-    "project_idea.md",
-    "ptaRecursion.md",
-    "T0_dolist.md",
-    "未命名 7.md",
-    "未命名 6.md",
+    "cs-ai/前端/ww/uploads/1-1F31G10320a2-lp.jpg",
+    "cs-ai/前端/ww/uploads/1-1F31G1005UW-lp.jpg",
+    "cs-ai/前端/ww/uploads/1-1F31G1005UW.jpg",
+    "cs-ai/前端/ww/uploads/1-1F31G05T30-L.png",
+    "cs-ai/前端/ww/uploads/1-1F31G05F1913-lp.jpg",
+    "cs-ai/前端/ww/uploads/1-1F31G05524557-lp.jpg",
+    "cs-ai/前端/ww/uploads/1-1F31G054451A-lp.jpg",
+    "cs-ai/前端/ww/uploads/1-1F31G05244325-lp.jpg",
+    "cs-ai/前端/ww/uploads/1-1F31G054123I-lp.jpg",
+    "cs-ai/前端/ww/uploads/1-1F31G05144R2-lp.jpg",
+    "cs-ai/前端/ww/uploads/1-1F31G05040124-lp.jpg",
+    "cs-ai/前端/ww/uploads",
+    "cs-ai/前端/ww/style/js/week_nav.js",
+    "cs-ai/前端/ww/style/js/tab.lib.js",
+    "cs-ai/前端/ww/style/js/scoll.js",
+    "cs-ai/前端/ww/style/js/pace.js",
+    "cs-ai/前端/ww/style/js/jquery.fullpage.min.js",
+    "cs-ai/前端/ww/style/js/discuz_tips.js",
+    "cs-ai/前端/ww/style/js/jquery-1.7.2.js",
+    "cs-ai/前端/ww/style/js/forum_viewthread.js",
+    "cs-ai/前端/ww/style/js/home.js",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/简洁html5手工工艺品展览网页模板_简洁 手工 艺术 工艺品 展览 整站 企业 菜单 简洁 clean 笔记本 互联网 软件开发 WEB DESIGN 广告设计 平面设计 404 twts bootstrap 响应式 手机 html5 css3 报价 扁平化/twts_162_airspace/plugins/magnific-popup/README.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/简洁html5手工工艺品展览网页模板_简洁 手工 艺术 工艺品 展览 整站 企业 菜单 简洁 clean 笔记本 互联网 软件开发 WEB DESIGN 广告设计 平面设计 404 twts bootstrap 响应式 手机 html5 css3 报价 扁平化/twts_162_airspace/plugins/jquery/README.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/ckeditor/skins/moono/readme.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/ckeditor/plugins/wsc/README.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/ckeditor/plugins/wsc/LICENSE.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/ckeditor/plugins/scayt/README.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/ckeditor/plugins/scayt/LICENSE.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/morris.js-0.4.3/README.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/jquery-easy-pie-chart/Readme.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/jquery-knob/README.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/ckeditor/README.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/ckeditor/LICENSE.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/ckeditor/CHANGES.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/chart-master/readme.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/chart-master/LICENSE.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/Flutte整洁大气平面设计广告公司Bootstarp网站模板_整洁 大气 Bootstarp模板 广告 传媒 自动翻页 跳转 平面设计 多页 Flutte wap菜单 类别 检索 平面/dgmg_18_Flattern/assets/vendor/owl.carousel/README.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/10/学校教育/Mentor简约创意导师教育bootstarp网站模板_简约 创意 导师 教育 网站设计 Mentor 文案写作 搜索引擎 bootstarp模板 响应式 网上课程/dgfp_45_Mentor/assets/vendor/owl.carousel/README.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/10/学校教育/it教育培训机构响应式模板_教育 培训 机构 响应式 引导页 bootstrap 手机 responsive 幻灯 服务 网站设计 设计公司 报价 律师 咨询 证券/tops_41_Metronic/assets/plugins/uniform/README.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/10/学校教育/it教育培训机构响应式模板_教育 培训 机构 响应式 引导页 bootstrap 手机 responsive 幻灯 服务 网站设计 设计公司 报价 律师 咨询 证券/tops_41_Metronic/assets/plugins/jquery-slimscroll/README.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/10/学校教育/it教育培训机构响应式模板_教育 培训 机构 响应式 引导页 bootstrap 手机 responsive 幻灯 服务 网站设计 设计公司 报价 律师 咨询 证券/tops_41_Metronic/assets/plugins/jquery-mixitup/README.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/10/学校教育/it教育培训机构响应式模板_教育 培训 机构 响应式 引导页 bootstrap 手机 responsive 幻灯 服务 网站设计 设计公司 报价 律师 咨询 证券/tops_41_Metronic/assets/plugins/gmaps/README.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/10/学校教育/it教育培训机构响应式模板_教育 培训 机构 响应式 引导页 bootstrap 手机 responsive 幻灯 服务 网站设计 设计公司 报价 律师 咨询 证券/tops_41_Metronic/assets/plugins/fancybox/README.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/10/学校教育/it教育培训机构响应式模板_教育 培训 机构 响应式 引导页 bootstrap 手机 responsive 幻灯 服务 网站设计 设计公司 报价 律师 咨询 证券/tops_41_Metronic/assets/plugins/fancybox/CHANGELOG.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/10/学校教育/it教育培训机构响应式模板_教育 培训 机构 响应式 引导页 bootstrap 手机 responsive 幻灯 服务 网站设计 设计公司 报价 律师 咨询 证券/tops_41_Metronic/assets/plugins/bootstrap-touchspin/README.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/10/学校教育/it教育培训机构响应式模板_教育 培训 机构 响应式 引导页 bootstrap 手机 responsive 幻灯 服务 网站设计 设计公司 报价 律师 咨询 证券/tops_41_Metronic/assets/plugins/bootstrap-touchspin/LICENSE.md",
     "未命名.canvas"
   ]
 }
