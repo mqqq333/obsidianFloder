@@ -21,6 +21,16 @@ Now determine $P_2(x)$as follows
 $$P_2(x)=L_0(x)f(x_0)+L_1(x)f(x_1)+L_2(x)f(x_2)$$
 $$=({{50}\over{9}}x^2-5x+1){\times}f(0)+(-{{100}\over{9}}x^2+{{20}\over{3}}x){\times}f(0.3)+({{50}\over{9}}x^2-{{5}\over{3}}x){\times}f(0.6)$$
 $$=-11.220177x^2+3.808211x+1$$
+According to Theorem 3.3, the absolute is
+$$|f(x)-P_n(x)|=|{{f^{(n+1)(\xi(x))}}\over{(n+1)!}}\prod_{k=0}^n(x-x_k)|$$
+where $\xi(x)\in[0,0.6].$when n=2, the absolute error is
+$$|f(x)-P_2(x)|=|{{f^{(3)(\xi(x))}}\over{(3)!}}\prod_{k=0}^2(x-x_k)|=|{{f^{(3)(\xi(x))}}\over{6}}(x-0)(x-0.3)(x-0.6)|$$
+The product $x(x-0.3)(x-0.6)$ is a third degree polynomial with extreme points $x_1 = 0.1268$ and $x_2 = 0.4732$which we find as follows.
+$$p(x)=x(x-0.3)(x-0.6)=x^3-0.9x^2+0.18x$$
+$$p'(x)=3x^2-1.8x+0.18$$
+$$p'(x)=0 {\quad\Longrightarrow}x_{1,2}={{1.8{\pm}\sqrt{1.8^2-4\times3\times0.18}}\over{2\times3}}$$
+Therefore, the extreme values of the product on $[0, 0.6]$ are $p(0.1268) = 0.01039$ and $(0.4732) = -0.01039$ hence the maximum absolute value of the product on that interval is 0.01039.
+The error $|f(x)-P_2(x)|$also depends on the third derivative of $f$. Let's find that derivate 
 
 ## Problem2
 ![[Pasted image 20231029194331.png]]
