@@ -71,16 +71,14 @@ $$p(x)=(x-2)(x-2.4)(x-2.6)=x^3-7x^2+16.24x-12.48$$
 $$p'(x)=3x^2-14x+16.24$$
 $$p'(x)=0 {\quad\Longrightarrow}x_{1,2}={{14{\pm}\sqrt{14^2-4\times3\times16.24}}\over{2\times3}}$$
 Therefore, the extreme values of the product on $[2, 2.6]$ are $p(2.5097) = -0.005$ and $p(2.1569) = 0.0169$ hence the maximum absolute value of the product on that interval is 0.0169.
-The error $|f(x)-P_2(x)|$also depends on the third derivative of $f$. Let's find that derivate 
-$$f(x)=  e^ {2x}\cos  3x$$
-$$f'(x)=  2e^ {2x}   \cos  3x-  e^ {2x}   \cdot   \sin  3x  \cdot  3=  e^ {2x}  (2  \cos  3x-3  \sin  3x)$$
-$$f″(x)=   2e^ {2x}  (2  \cos  3x-3  \sin  3x)+  e^ {2x}  (-6  \sin  3x-9  \cos  3x)=e^{2x}(-5cos3x-12sin3x)$$
+The error $|f(x)-  P_ {2}  (x)|$ also depends on the third derivative of $f$.Let's find that derivative.
+$$f(x)= \sin  (  \ln  x)$$
+$$f'(x)= \cos  (  \ln  x)  \cdot \frac {1}{x} $$ 
+ $$ f''(x)={{-sin(lnx){{1}\over{x}}x-cos(lnx)}\over{x^2}}={{-cos(lnx)-sin(lnx)}\over{x^2}}$$ 
+ $$f'''(x)={{(sin(lnx){{1}\over{x}}-cos(lnx){{1}\over{x}})x^2-(-cos(lnx)-sin(lnx))2x}\over{x^4}}={{3sin(lnx)+cos(lnx)}\over{x^3}}$$
+The plot below reveals that the maximum absolute value of the third derivative on $[2,2.6]$ is for $f'''(2) =0.335765$.Substitute the information we found into the error bound formula as shown below.
+$$|f(x)-  P_ {2}  (x)|=|  \frac {f^{(3)}(\zeta (x))}{6} (x-2)(x-2.4)(x-2.6)\leq{{0.335765}\over{6}}\times0.0169 =9.46\times10^{-4}$$
 
-$$f'''(x)=  2e^ {2x}  (-5  \cos  3x-12  \sin  3x)+  e^ {2x}  (15  \sin  3x-36  \cos  3x)
-=  e^ {2x}  (-46  \cos  3x-9  \sin  3x)$$
-
-The plot below reveals that the maximum absolute value of the third derivative on $[0,0.6]$ is for $f′′′(0.2604)=−65.6522$. Substitute the information we found into the error bound formula as shown below.
-$$|f(x)-P_2(x)|=|{{f^{(3)(\xi(x))}}\over{(3)!}}\prod_{k=0}^2(x-x_k)|=|{{f^{(3)(\xi(x))}}\over{6}}(x-0)(x-0.3)(x-0.6)|\leq{{65.6522}\over{6}}\times0.01039=0.11369$$
 
 ## Problem2
 ![[Pasted image 20231029194331.png]]
