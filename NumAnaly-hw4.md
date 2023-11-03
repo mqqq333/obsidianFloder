@@ -136,9 +136,19 @@ $$P_{0,1,2,3}(x)={{(x-x_0)P_{1,2,3}(x)}\over{x_3-x_0}}-{{x-x_3}\over{x_3-x_0}}\l
 $$={{(x-x_0)P_{1,2,3}(x)}\over{x_3-x_0}}-{{x-x_3}\over{x_3-x_0}}\left[{{(x-x_0)(x+1)-(x-x_2)(2x+1)}\over{x_2-x_0}}\right]$$
 Then,
 $$P_{0,1,2,3}(2.5)=2.9792$$
-
 ## Problem4
 ![[Pasted image 20231029194341.png]]
+The k-th divided difference relative to $x_0,x_1,...,x_k$ is definied as:
+$$f\left[x_0,x_1,...,x_k\right]={{f\left[x_1,x_2,...,x_k\right]-f\left[x_0,x_1,...,x_k-1\right]}\over{x_k-x_0}}----(1)k=0,1,...,n$$
+if $k=0,1,2$ we have the following divided differences:
+- Zero'th divided differences:
+$$f[x_k]=f(x_k)$$
+- First divied difference:
+$$f[x_0,x_1]={{f(x_1)-f(x_0)}\over{x_1-x_0}}$$
+$$f[x_1,x_2]={{f(x_2)-f(x_1)}\over{x_2-x_1}}$$
+- Second divided difference:
+$$f[x_0,x_1,x_2]={{f[x_1,x_2]-f[x_0,x_1]}\over{x_2-x_0}}$$
+
 ## Problem5
 ![[Pasted image 20231029194346.png]]
 ## Problem6
