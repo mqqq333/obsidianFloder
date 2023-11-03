@@ -158,6 +158,10 @@ $${{6-f(x_0)}\over{0.4-0.0}}=5{\Longrightarrow}f(x_0)=4$$
 
 ## Problem5
 ![[Pasted image 20231029194346.png]]
+*solution*
+**a**
+if $f$ is a function of the variable $x$ defined on the closed interval $[a,b]$,and we have a set of nodes $a=x_ {0}  < x_ {1}  <  \cdots  <  x_ {n}  =b$ $in[a,b]$,then a natural cubic spline interpolant $S(x)$ is a third order polynomial that satisfy the following conditions:
+
 ## Problem6
 ![[Pasted image 20231029194349.png]]
 ## Problem7
