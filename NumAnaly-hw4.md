@@ -110,6 +110,17 @@ $$P_3(0)=0,P_3(0.5)=4.25,P_3(1)=3,P_3(2)=2$$
 
 ## Problem3
 ![[Pasted image 20231029194334.png]]
+According to the Neville's method,
+$$P_{0,1,...,k}(x)={{(x-x_j)P_{0,1,...,j-1,j+1,...,k}(x)-(x-x_i)P_{0,1,...,i-1,i+1,...,k}(x)}\over{(x_i-x_j)}}$$
+We have nodes:
+$$f(x_0)=f(0)=P_0=1$$
+$$f(x_1)=f(0.5)=P_1=2$$
+$$f(x_2)=f(0.5)=P_2$$
+$$f(x_3)=f(0.75)=P_3=8$$
+$P_{2,3}$ can be constructed from $P_2$ and $P_3$ as:
+$$P_{2,3}={{(x-x_2)P_3-(x-x_3)P_2}\over{x_3-x_2}}$$
+Hence, substitute the data we have:
+$$P_2=4$$
 ![[Pasted image 20231029194338.png]]
 ## Problem4
 ![[Pasted image 20231029194341.png]]
