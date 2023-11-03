@@ -106,6 +106,7 @@ $${{8y-16}\over{3}}=6{\quad}{\Longrightarrow}{\quad}y=4.25$$
 Then, the polynomial becomes
 $$P_3(x)=6x^3-20x^2+17x$$
 So
+$$P_3(0)=0,P_3(0.5)=4.25,P_3(1)=3,P_3(2)=2$$
 
 ## Problem3
 ![[Pasted image 20231029194334.png]]
