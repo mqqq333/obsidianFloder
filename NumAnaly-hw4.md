@@ -82,6 +82,31 @@ $$|f(x)-  P_ {2}  (x)|=|  \frac {f^{(3)}(\zeta (x))}{6} (x-2)(x-2.4)(x-2.6)\leq{
 
 ## Problem2
 ![[Pasted image 20231029194331.png]]
+*Solution*
+$$P_3(x)=L_0(x)f(x_0)+L_1(x)f(x_1)+L_2(x)f(x_2)+L_3(x)f(x_3)$$
+when n = 3 as
+$$L_0(x)={{(x-x_1)(x-x_2)(x-x_3)}\over{(x_0-x_1)(x_0-x_2)(x_0-x_3)}}$$
+$$L_1(x)={{(x-x_0)(x-x_2)(x-x_3)}\over{(x_1-x_0)(x_1-x_2)(x_1-x_3)}}$$
+$$L_2(x)={{(x-x_0)(x-x_1)(x-x_3)}\over{(x_2-x_0)(x_2-x_1)(x_2-x_3)}}$$
+$$L_3(x)={{(x-x_0)(x-x_1)(x-x_2)}\over{(x_3-x_0)(x_3-x_1)(x_3-x_2)}}$$
+The nodes are $x_0=0,x_1=0.5,x_2=1,x3=2.$ Substitute into the expressions for $L_k$ above to obtain
+
+$$L_0(x)={{(x-0.5)(x-1)(x-2)}\over{(0-0.5)(0-1)(0-x_2)}}={{x^3-{{7}\over{2}}x^2+{{7}\over{2}}x-1}\over{-1}}={{-x^3+{{7}\over{2}}x^2-{{7}\over{2}}x+1}}$$
+$$L_1(x)={{(x-0)(x-1)(x-2)}\over{(0.5-0)(0.5-1)(0.5-2)}}$$
+$$L_2(x)={{(x-0)(x-0.5)(x-2)}\over{(1-0)(1-0.5)(1-2)}}$$
+$$L_3(x)={{(x-0)(x-0.5)(x-1)}\over{(2-0)(2-0.5)(2-1)}}$$
+
+We also need to evaluate $f(x_k)$ for $k =0,1,2$ as follows
+$$f(x_0)=f(2)=\sin(ln2)=0.63896127$$
+$$f(x_1)=f(2.4)=\sin(ln2.4)=0.76784388$$
+$$f(x_2)=f(2.6)=\sin(ln2.6)=0.81660905$$
+Now determine $P_2(x)$as follows
+$$ P_ {2}  (x)=  L_ {0}  (x)f(  x_ {0}  )+  L_ {1}  (x)f(  x_ {1}  )+  L_ {2}  (x)f(  x_ {2}  )$$
+$$=(  \frac {25}{6} x^ {2}  -  \frac {125}{6}  x+26)  \cdot  f(2)
++(-12.  5x^ {2}  +57.5x-65)  \cdot  f(2.4)
++(  \frac {25}{3}  x^ {2}  -  \frac {110}{3}  x+40)  \cdot  f(2.6)$$
+$$=-0.  130634x^ {2}  +0.896998x-0.632497$$
+
 ## Problem3
 ![[Pasted image 20231029194334.png]]
 ![[Pasted image 20231029194338.png]]
