@@ -142,12 +142,19 @@ The k-th divided difference relative to $x_0,x_1,...,x_k$ is definied as:
 $$f\left[x_0,x_1,...,x_k\right]={{f\left[x_1,x_2,...,x_k\right]-f\left[x_0,x_1,...,x_k-1\right]}\over{x_k-x_0}}----(1)k=0,1,...,n$$
 if $k=0,1,2$ we have the following divided differences:
 - Zero'th divided differences:
-$$f[x_k]=f(x_k)$$
+$$f[x_k]=f(x_k)----(2)$$
 - First divied difference:
-$$f[x_0,x_1]={{f(x_1)-f(x_0)}\over{x_1-x_0}}$$
-$$f[x_1,x_2]={{f(x_2)-f(x_1)}\over{x_2-x_1}}$$
+$$f[x_0,x_1]={{f(x_1)-f(x_0)}\over{x_1-x_0}}----(3)$$
+$$f[x_1,x_2]={{f(x_2)-f(x_1)}\over{x_2-x_1}}----(4)$$
 - Second divided difference:
-$$f[x_0,x_1,x_2]={{f[x_1,x_2]-f[x_0,x_1]}\over{x_2-x_0}}$$
+$$f[x_0,x_1,x_2]={{f[x_1,x_2]-f[x_0,x_1]}\over{x_2-x_0}}----(5)$$
+
+From equation (4),
+$${{6-f(x_1)}\over{0.7-0.4}}=10{\Longrightarrow}f(x_1)=3$$
+From equation (5),
+$${{10-f[x_0,x_1]}\over{0.7-0.0}}={{50}\over{7}}{\Longrightarrow}f[x_0,x_1]=5$$
+From equation (3),
+$${{6-f(x_0)}\over{0.4-0.0}}=5{\Longrightarrow}f(x_0)=4$$
 
 ## Problem5
 ![[Pasted image 20231029194346.png]]
