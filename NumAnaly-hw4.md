@@ -110,6 +110,7 @@ $$P_3(0)=0,P_3(0.5)=4.25,P_3(1)=3,P_3(2)=2$$
 
 ## Problem3
 ![[Pasted image 20231029194334.png]]
+*solution*
 According to the Neville's method,
 $$P_{0,1,...,k}(x)={{(x-x_j)P_{0,1,...,j-1,j+1,...,k}(x)-(x-x_i)P_{0,1,...,i-1,i+1,...,k}(x)}\over{(x_i-x_j)}}$$
 We have nodes:
@@ -122,6 +123,18 @@ $$P_{2,3}={{(x-x_2)P_3-(x-x_3)P_2}\over{x_3-x_2}}$$
 Hence, substitute the data we have:
 $$P_2=4$$
 ![[Pasted image 20231029194338.png]]
+*solution*
+According to the Neville's method,
+$$P_{0,1,...,k}(x)={{(x-x_j)P_{0,1,...,j-1,j+1,...,k}(x)-(x-x_i)P_{0,1,...,i-1,i+1,...,k}(x)}\over{(x_i-x_j)}}$$
+So we have:
+$$P_{0,1,2,3}(x)={{(x-x_0)P_{1,2,3}(x)-(x-x_3)P_{0,1,2}(x)}\over{x_3-x_0}}$$
+As we see from the equation, we need to know the value of the polynomial $P_{0,1,2}$
+So,
+$$P_{0,1,2}(x)={{(x-x_0)P_{1,2}(x)-(x-x_2)P_{0,1}(x)}\over{x_2-x_0}}$$
+So,
+$$P_{0,1,2,3}(x)={{(x-x_0)P_{1,2,3}(x)}\over{x_3-x_0}}-{{x-x_3}\over{x_3-x_0}}\left[{{(x-x_0)P_{1,2}(x)-(x-x_2)P_{0,1}(x)}\over{x_2-x_0}}\right]$$
+
+
 ## Problem4
 ![[Pasted image 20231029194341.png]]
 ## Problem5
