@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6c3cc1e6d804f0d1",
+        "id": "8fe2c1ad5de7152c",
         "type": "tabs",
         "children": [
           {
-            "id": "ce88d5eff61939a7",
+            "id": "3e697d203ef446dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "66d867156ac4617b",
+            "id": "bbeb2296994822cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -204,32 +203,34 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "66d867156ac4617b",
+  "active": "3e697d203ef446dc",
   "lastOpenFiles": [
-    "未命名 9.md",
+    "NumAnaly-hw5.md",
     "NumAnaly-hw4.md",
-    "NumAnaly-hw3.md",
+    "ML-ass1.md",
+    "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/assignment1 - Jupyter Notebook.pdf",
+    "Pasted image 20231104082452.png",
+    "心理测量推文.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/8/汽车_密码【www.mobancss.com】.zip",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/9/投资_密码【www.mobancss.com】.zip",
     "cs-ai/前端/更新5000套-厚朴网络淘宝店/9",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/7",
     "cs-ai/前端/更新5000套-厚朴网络淘宝店/8",
     "cs-ai/前端/更新5000套-厚朴网络淘宝店",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/7",
+    "未命名 9.md",
+    "NumAnaly-hw3.md",
     "cs-ai/前端/更新5000套-厚朴网络淘宝店/9/响应式_密码【www.mobancss.com】.zip",
     "cs-ai/前端/更新5000套-厚朴网络淘宝店/8/商务_密码【www.mobancss.com】.zip",
     "cs-ai/前端/更新5000套-厚朴网络淘宝店/8/摄影相册_密码【www.mobancss.com】.zip",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/8/体育运动_密码【www.mobancss.com】.zip",
-    "cs-ai/数值分析方法/NA project.pdf",
-    "cs-ai/数值分析方法/NA project.pdf.crdownload",
     "Pasted image 20231029194848.png",
     "Pasted image 20231029194844.png",
     "Pasted image 20231029194732.png",
     "Pasted image 20231029194726.png",
     "Pasted image 20231029194717.png",
-    "NumAnaly-hw5.md",
     "Pasted image 20231029194414.png",
     "Pasted image 20231029194354.png",
     "Pasted image 20231029194349.png",
     "Pasted image 20231029194346.png",
-    "Pasted image 20231029194341.png",
     "NumAnaly-hw2.md",
     "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/简洁html5手工工艺品展览网页模板_简洁 手工 艺术 工艺品 展览 整站 企业 菜单 简洁 clean 笔记本 互联网 软件开发 WEB DESIGN 广告设计 平面设计 404 twts bootstrap 响应式 手机 html5 css3 报价 扁平化/twts_162_airspace/plugins/magnific-popup/README.md",
     "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/简洁html5手工工艺品展览网页模板_简洁 手工 艺术 工艺品 展览 整站 企业 菜单 简洁 clean 笔记本 互联网 软件开发 WEB DESIGN 广告设计 平面设计 404 twts bootstrap 响应式 手机 html5 css3 报价 扁平化/twts_162_airspace/plugins/jquery/README.md",
@@ -249,9 +250,6 @@
     "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/Flutte整洁大气平面设计广告公司Bootstarp网站模板_整洁 大气 Bootstarp模板 广告 传媒 自动翻页 跳转 平面设计 多页 Flutte wap菜单 类别 检索 平面/dgmg_18_Flattern/assets/vendor/owl.carousel/README.md",
     "cs-ai/前端/更新5000套-厚朴网络淘宝店/10/学校教育/Mentor简约创意导师教育bootstarp网站模板_简约 创意 导师 教育 网站设计 Mentor 文案写作 搜索引擎 bootstarp模板 响应式 网上课程/dgfp_45_Mentor/assets/vendor/owl.carousel/README.md",
     "cs-ai/前端/更新5000套-厚朴网络淘宝店/10/学校教育/it教育培训机构响应式模板_教育 培训 机构 响应式 引导页 bootstrap 手机 responsive 幻灯 服务 网站设计 设计公司 报价 律师 咨询 证券/tops_41_Metronic/assets/plugins/uniform/README.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/10/学校教育/it教育培训机构响应式模板_教育 培训 机构 响应式 引导页 bootstrap 手机 responsive 幻灯 服务 网站设计 设计公司 报价 律师 咨询 证券/tops_41_Metronic/assets/plugins/jquery-slimscroll/README.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/10/学校教育/it教育培训机构响应式模板_教育 培训 机构 响应式 引导页 bootstrap 手机 responsive 幻灯 服务 网站设计 设计公司 报价 律师 咨询 证券/tops_41_Metronic/assets/plugins/jquery-mixitup/README.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/10/学校教育/it教育培训机构响应式模板_教育 培训 机构 响应式 引导页 bootstrap 手机 responsive 幻灯 服务 网站设计 设计公司 报价 律师 咨询 证券/tops_41_Metronic/assets/plugins/gmaps/README.md",
     "未命名.canvas"
   ]
 }

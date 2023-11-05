@@ -161,10 +161,160 @@ $${{6-f(x_0)}\over{0.4-0.0}}=5{\Longrightarrow}f(x_0)=4$$
 *solution*
 **a**
 if $f$ is a function of the variable $x$ defined on the closed interval $[a,b]$,and we have a set of nodes $a=x_ {0}  < x_ {1}  <  \cdots  <  x_ {n}  =b$ $in[a,b]$,then a natural cubic spline interpolant $S(x)$ is a third order polynomial that satisfy the following conditions:
-
+- $S_j(x)$, defined on the subinterval $[x_j,x_{j+1}]$ for each $j=0,1,...,n-1,$ have the general from:
+$$S_j​(x)=a_j​+b_j​(x−x_j​)+c_j​(x−x_j​)^2+d_j​(x−x_j​)^3$$
+- For each $j=0,1,...,n-1$ we have:
+$$S_j(x_j)=f(x_j)$$
+$$S_j(x_{j+1})=f(x_{j+1})$$
+- For each $j=0,1,...,n-2$ we have:
+$$S_{j+1}(x_{j+1})=S_j(x_{j+1})$$
+- For each $j=0,1,...,n-2$ we have:
+$$S'_{j+1}(x_{j+1})=S'_j(x_{j+1})$$
+$$S''_{j+1}(x_{j+1})=S''_j(x_{j+1})$$
+- Natural conditions:
+$$c_0=S''(x_0)=0$$
+$$c_n=S''(x_n)=0$$
+To find $S(x)$,we define $h_j=x_{j+1}-x_j$ and compute the coefficient $c_j$ by solving the matrix equation $Ax =b$, where the matrix $A$ is defined as:
+$$A=\begin{bmatrix}1&0&0&0&0\\ h_0&2(h_0+h_1))&h_1&0&0\\ 0&h_1& 2(h_1+h_2)h_2&0&0\\ 0&0&0&0&0\\ 0&0&h_{n-2}&2(h_{n-2}-h_{n-1})&h_{n-1}\\ 0&0&0&0&1 \end{bmatrix}$$
+The matrix $b$ is given by:
+$$b=\begin{bmatrix}0\\ {{3}\over{h_1}}(a_2-a_1)-{{3}\over{h_0}}(a_1-a_0)\\ \vdots \\ {{3}\over{h_{n-1}}}(a_n-a_{n-1})-{{3}\over{h_{n-2}}}(a_{n-1}-a_{n-2})\\ 0\end{bmatrix}$$
+and
+$$x=\begin{bmatrix}c_0\\ c_1\\ \vdots\\ c_n\end{bmatrix}$$
+Finally, the coefficients $a_j,b_j,d_j$ are given:
+$$a_j=f(x_j),{\quad} j=0,1,...,n$$
+$$b_j={{a_{j+1}-a_j}\over{h_j}}-{h_j{(c_{j+1}+2c_j)}\over{3}},{\quad} j=0,1,...,n-1$$
+$$a_j={{c_{j+1}-c_j}\over{3h_j}},{\quad} j=0,1,...,n-1$$
+we have:
+$$h_0=x_1-x_0=1,h_1=x_2-x_1=1$$
+So substitute the data into the equations:
+$$A=\begin{bmatrix}1&0&0\\ 1&4&1\\ 0&0&1\end{bmatrix}$$
+$$b=\begin{bmatrix}0\\ {{3}\over{h_1}}(a_2-a_1)-{{3}\over{h_0}}(a_1-a_0)\\ 0\end{bmatrix}$$
+From $Ax=b$:
+$$c_0=0$$
+$$c_0+4c_1+c_2={{3}\over{h_1}}(a_2-a_1)-{{3}\over{h_0}}(a_1-a_0)$$
+$$c_2=0$$
+To find $c_1$, we need to find $a_j$:
+$$a_0=f(0)=0,a_1=f(1)=1,a_2=f(2)=2 \Longrightarrow c_1=0$$
+Then :
+$$b_0=1,b_1=1,d_0=0,d_1=0$$
+Finally,
+$$S_0(x)=x,S_1(x)=x$$
+**b**
+The same as **a**
+we have:
+$$h_0=x_1-x_0=1,h_1=x_2-x_1=1$$
+So substitute the data into the equations:
+$$A=\begin{bmatrix}2&1&0\\ 1&4&1\\ 0&1&2\end{bmatrix}$$
+$$b=\begin{bmatrix}{{3}\over{h_0}}(a_1-a_0)-3f'(0)\\ {{3}\over{h_1}}(a_2-a_1)-{{3}\over{h_0}}(a_1-a_0)\\ 3f'(2)-{{3}\over{h_1}}(a_2-a_1)\end{bmatrix}$$
+From $Ax=b$:
+$$2c_0+c_1={{3}\over{h_0}}(a_1-a_0)-3f'(0)$$
+$$c_0+4c_1+c_2={{3}\over{h_1}}(a_2-a_1)-{{3}\over{h_0}}(a_1-a_0)$$
+$$c_1+2c_2=3f'(2)-{{3}\over{h_1}}(a_2-a_1)$$
+To find $c_1$, we need to find $a_j$:
+$$a_0=f(0)=0,a_1=f(1)=1,a_2=f(2)=2 \Longrightarrow c_0=c_1=c_2=0$$
+Then :
+$$b_0=1,b_1=1,d_0=0,d_1=0$$
+Finally,
+$$S_0(x)=x,S_1(x)=x$$
 ## Problem6
 ![[Pasted image 20231029194349.png]]
+Three-point endpoint formula allows us to compute $f'(x_0)$, where $x_0​$ is an endpoint of the interval $[x_0,x_2​]$ as:
+$$f'(  x_ {0}  )=  \frac {1}{2h}  [-3f(  x_ {0}  )+4f(  x_ {0}  +h)-f(  x_ {0}  +2h)]+E(f),----(1)
+$$
+where $x_ {1}  =  x_ {0}  +h,  x_ {2}  =  x_ {0}  +2h,$ and:
+$$h=  \frac {x_ {2}-x_ {0}}{2}  =  x_ {1}  -  x_ {0}  =  x_ {2}  -  x_ {1}  .
+$$
+In the above expression, $E(f)=O(h^2)$ is the error in the approximation.
+
+If $x_0$ is the right-endpoint of the interval $[x_0​−2h,x_0​]$, to find $f′(x_0​)$ we use Eq.(1)(1) with $−ℎ$ instead of $ℎ$.
+Also recall that, if $x_0$​ is the midpoint of the interval $[x_0−h,x_0​+h]$, we can approximate $f′(x_0​)$ by the three-poirt midpoint formula:
+$$f'(  x_ {0}  )=  \frac {1}{2h}  [f(  x_ {0}  +h)-f(  x_ {0}  -h)]-  E_ {M}  (f),E_M(f)=O(h^2)----(2)
+$$
+$\begin{aligned}
+&\text{To use Eq.}(1)\text{, we note the fact that }&&x_1=1.2\mathrm{~and~}x_2=1.3,\text{so:}  \\
+&&&h=x_1-x_0=x_2-x_1=0.1. \\
+&\text{Hence, Eq.}(1)\text{ gives for }f'\left(x_0\right)=f'(1.1){:} \\
+&&&\begin{aligned}f'(1.1)&=\frac{1}{2(0.1)}[-3f(1.1)+4f(1.2)-f(1.3)]\end{aligned} \\
+&&&=\frac1{0.2}[-3(9.025013)+4(11.02318)-13.46374] \\
+&&&=\frac1{0.2}(-27.075039+44.09272-13.46374) \\
+&&&=\frac{3.553941}{0.2} \\
+&&&=17.769705.
+\end{aligned}$
+
+Now consider the computation of $f^{\prime}(1,2).$ We see that we have two options for the calculation. The first is to consider the interval from $x_0=1.2$ to $x_2=1.4$, so that $x_0=1,2$ is the left-endpoint of this interval, and apply the three-point endpoint formula of Eq.(1), with $h=0.1.$
+
+The other option is to consider the interval from $x_0-h=x_0-0.1=1.1$ to $x_0+h=1.3$ so that $x_0=1.2$ isthe midpoint of this interval, and then use the three-point midpoint formula given in Eq.(2).
+
+As is discussed in the text, the second method is more accurate, because uses values of $f$ on both sides of $x_0$. So, in what follows we will use this method.
+
+Hence
+$$\begin{aligned}
+f(1.2)& =\frac1{2(0.1)}[f(1.3)-f(1.1)]  \\
+&=\frac1{0.2}(13.46374-9.025013) \\
+&=\frac{4.438727}{0.2} \\
+&=22.193635.
+\end{aligned}$$
+
+Similarly, to compute $f^{\prime}(1.3)$ we use the three-point midpoint formula because wé have the values of $f$ at $x_0-$ $h=1.2$ and $x_0+h=1.4.$
+
+$$
+\begin{aligned}
+f^{\prime}(1.3)& =\frac1{2(0.1)}[f(1.4)-f(1.2)]  \\
+&=\frac1{0.2}(16.44465-11.02318) \\
+&=\frac{5.42147}{0.2} \\
+&=27.107350.
+\end{aligned}
+$$
+
+Finally, to compute $f^{\prime}(1.4)$, we cannot use the three-point midpoint formula because this point is the right endpoint of the interval [1.2,1.4]. So, we must use the three-point endpoint formula, with $x_0=1.4,h=-h$, and$h=0.1$ (so $x_0-h=1.3$, and $x_0-2h=1.2$ ).
+$$
+\begin{aligned}
+f^{\prime}(1.4)& =\frac1{2(-h)}\left[-3f\left(x_0\right)+4f\left(x_0-h\right)-f\left(x_0-2h\right)\right]  \\
+&=\frac1{2(-0.1)}[-3f(1.4)+4f(1.3)-f(1.2)] \\
+&=-\frac1{0.2}[-3(16.44465)+4(13.46374)-11.02318] \\
+&=-\frac1{0.2}(-49.33395+53.85496-11.02318) \\
+&=\frac{6.50217}{0.2} \\
+&=32.510850.
+\end{aligned}
+$$
+Hence
+
+| $x$    | $f(x)$           | $f′(x)$            |
+| :------: | :----------------: | :------------------: |
+| 1.1 | 9.025013 | 17.769705 |
+| 1.2 | 11.02318 | 22.193635 |
+| 1.3 | 13.46374 | 27.107350 |
+| 1.4 | 16.44465 | 32.510850 |
+
+
 ## Problem7
 ![[Pasted image 20231029194354.png]]
+*solution*
+We have
+$$
+\begin{aligned}
+&\text{M} =N(h)+K_{1}h^{2}+K_{2}h^{4}+K_{3}h^{6}+\cdots \\
+&\text{M} =N(h/3)+K_{1}\frac{h^{2}}{9}+K_{2}\frac{h^{4}}{81}+K_{3}\frac{h^{6}}{729}+\cdots \\
+&\text{M} =N(h/9)+K_{1}\frac{h^{2}}{81}+K_{2}\frac{h^{4}}{6561}+K_{3}\frac{h^{6}}{531441}+\cdots 
+\end{aligned}
+$$
+Multiply the first equation by $A$, the second by $B$, and the third by $C$. Adding and canceling the $K_{1}$ and $K_2$ terms yields the equations
+
+$$
+\begin{aligned}A+\frac{B}{9}+\frac{C}{81}&=0\\A+\frac{B}{81}+\frac{C}{6561}&=0\end{aligned}
+$$
+
+Subtracting gives $\frac{8B}{81}+\frac{80C}{6561}=0.$ Multiply  by 6561, and we have $648B+ 80C= 0,$ or $81B+ 10C= 0$ Set $C= - 81, B= 10,$ and $A= - \frac 19.$ Therefore,
+
+$$
+\left(-\frac{1}{9}+10-81\right)M=-\frac{N(h)}{9}+10N(h/3)-81N(h/9)+O(h^{6}),
+$$
+
+or
+
+$$
+M=\frac{1}{640}\left(729N(h/9)-90N(h/3)+N(h)\right)+O(h^6).
+$$
+
 ## Problem8
 ![[Pasted image 20231029194414.png]]
