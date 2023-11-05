@@ -286,6 +286,94 @@ Hence
 | 1.3 | 13.46374 | 27.107350 |
 | 1.4 | 16.44465 | 32.510850 |
 
+**(b)**
+To approximate ${f^{\prime}(x)}$ at $x=8.1.$ Use Three-Point Endpoint Formula,
+
+$$
+f'\left(x_{0}\right)=\frac{1}{2h}\Big[-3f\left(x_{0}\right)+4f\left(x_{0}+h\right)-f\left(x_{0}+2h\right)\Big]
+$$
+ By taking ${x_0=8.1\quad\mathrm{and}\quad h=0.2}$, substitute the values
+
+$$
+f'\left(8.1\right)=\frac{1}{2\left(0.2\right)}\bigg[-3f\left(8.1\right)+4f\left(8.1+0.2\right)-f\left(8.1+2\left(0.2\right)\right)\bigg]
+$$
+
+$$
+=\frac{1}{0.4}\Big[-3f\left(8.1\right)+4f\left(8.3\right)-f\left(8.5\right)\Big]
+$$
+
+$$
+=\frac{1}{0.4}\Big[-3\Big(16.94410\Big)+4\Big(17.56492\Big)-18.19056\Big]
+$$
+ $$=\frac{1}{0.4}[1.23682] =3.092050$$
+
+
+To approximate ${f^{\prime}(x)}$ at $x=8.3$ use Three-Point Midpoint Formula
+
+$$
+f'\bigl(x_0\bigr)=\dfrac{1}{2h}\Bigl[f\bigl(x_0+h\bigr)-f\bigl(x_0-h\bigr)\Bigr]
+$$
+ By taking ${x_0=8.3\quad\mathrm{and}\quad h=0.2}$, substitute the values
+
+$$
+f'\left(8.3\right)=\frac{1}{2\left(0.2\right)}\Big[f\left(8.3+0.2\right)-f\left(8.3-0.2\right)\Big]
+$$
+ 
+
+$$
+=\dfrac{1}{0.4}\Big[f\big(8.5\big)-f\big(8.1\big)\Big]
+$$
+ $$=\frac{1}{0.4}[18.19056-16.94410]$$
+ $$ =\frac{1}{0.4}[1.24646] =3.116150$$
+
+To approximate ${f^{\prime}(x)}$ at $x=8.5$ use Three-Point Midpoint Formula
+
+$$
+f'\bigl(x_0\bigr)=\dfrac{1}{2h}\Bigl[f\bigl(x_0+h\bigr)-f\bigl(x_0-h\bigr)\Bigr]
+$$
+ By taking ${x_0=8.5\quad\mathrm{and}\quad h=0.2}$, substitute the values
+
+$$
+f'\left(8.5\right)=\frac{1}{2\left(0.2\right)}\Big[f\left(8.5+0.2\right)-f\left(8.5-0.2\right)\Big]
+$$
+
+
+$$
+=\dfrac{1}{0.4}\Big[f\big(8.7\big)-f\big(8.3\big)\Big]
+$$
+ $$=\frac{1}{0.4}[18.82091-17.56492]$$
+ $$=\frac{1}{0.4}[1.25599]=3.139975$$
+
+
+To approximate $^{f^{\prime}(x)}$ at $x=8.7$ use Three-Point Endpoint Formula
+
+$$
+f'\left(x_0\right)=\dfrac{1}{2h}\Big[-3f\left(x_0\right)+4f\left(x_0+h\right)-f\left(x_0+2h\right)\Big]
+$$
+
+By taking $x_{0}= 8.7\quad and\quad h= - 0.2,$substitute the values
+
+$$
+\begin{aligned}
+&\mathrm{}\:f^{\prime}\left(8.7\right)=\frac{1}{2\left(-0.2\right)}\bigg[-3f\left(8.7\right)+4f\left(8.7+\left(-0.2\right)\right)-f\left(8.7+2\left(-0.2\right)\right)\bigg] \\
+&=\frac{1}{-0.4}\Big[-3f\left(8.7\right)+4f\left(8.5\right)-f\left(8.7-0.4\right)\Big] \\
+&=-\frac{1}{0.4}\Big[-3f\left(8.7\right)+4f\left(8.5\right)-f\left(8.3\right)\Big] \\
+&=-\frac{1}{0.4}\Big[-3\Big(18.82091\Big)+4\big(18.19056\big)-17.56492\Big] \\
+&\text{=3.163525}
+\end{aligned}
+$$
+
+| $x$    | $f(x)$           | $f′(x)$            |
+| :------: | :----------------: | :------------------: |
+| 8.1 | 16.94410 | 3.092050 |
+| 8.3 | 17.56492 | 3.116150 |
+| 8.5 | 18.19056 | 3.139975 |
+| 8.7 | 18.82091 | 3.163525 |
+
+ 
+
+
+
 
 ## Problem7
 ![[Pasted image 20231029194354.png]]
@@ -318,3 +406,20 @@ $$
 
 ## Problem8
 ![[Pasted image 20231029194414.png]]
+
+$$
+a_0=\frac{\sum_{i=1}^4x_i^2\sum_{i=1}^4y_i-\sum_{i=1}^4x_iy_i\sum_{i=1}^4x_i}{4(\sum_{i=1}^4x_i^2)-(\sum_{i=1}^4x_i)^2}
+$$
+ $$={{45*48-172*11}\over{4*45-11^2}}=4.5423728813559325
+$$
+
+$$a_1={{4\sum_{i=1}^4x_iy_i-\sum_{i=1}^4x_i\sum_{i=1}^4y_i}\over{4(\sum_{i=1}^4x_i^2)-(\sum_{i=1}^4x_i)^2}}$$ 
+$$={{4*172-11*48}\over{4*45-11^{2}}}=2.711864406779661$$
+
+
+So
+$$y=2.711864406779661x+4.5423728813559325$$
+
+$$
+E=\sum_{i=1}^m[y_i-(a_1x_i+a_0)]^2=11.525423728813566
+$$
