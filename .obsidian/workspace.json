@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumAnaly-hw4.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bbeb2296994822cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumAnaly-hw4.md",
+                "file": "cs-ai/cognitive/文献报告.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -143,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NumAnaly-hw4.md"
+                "file": "cs-ai/cognitive/文献报告.md"
               }
             }
           }
@@ -160,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NumAnaly-hw4.md",
+                "file": "cs-ai/cognitive/文献报告.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NumAnaly-hw4.md",
+                "file": "cs-ai/cognitive/文献报告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,6 +192,12 @@
   },
   "active": "3e697d203ef446dc",
   "lastOpenFiles": [
+    "NumAnaly-hw4.md",
+    "cs-ai/cognitive/文献报告.md",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/7/培训_密码【www.mobancss.com】.zip.baiduyun.p.downloading",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/9",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店/7",
+    "cs-ai/前端/更新5000套-厚朴网络淘宝店",
     "cs-ai/cognitive/优秀读书报告4.pdf",
     "cs-ai/cognitive/优秀读书报告3.pdf",
     "cs-ai/cognitive/优秀读书报告2.pdf",
@@ -212,15 +205,9 @@
     "cs-ai/cognitive/优秀读书报告5.pdf",
     "cs-ai/数值分析方法/3210104896_Homework_4.pdf",
     "NumAnaly-hw5.md",
-    "NumAnaly-hw4.md",
     "ML-ass1.md",
-    "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/assignment1 - Jupyter Notebook.pdf",
     "Pasted image 20231104082452.png",
     "心理测量推文.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/8/汽车_密码【www.mobancss.com】.zip",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/9/投资_密码【www.mobancss.com】.zip",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/9",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/7",
     "未命名 9.md",
     "NumAnaly-hw3.md",
     "Pasted image 20231029194848.png",
