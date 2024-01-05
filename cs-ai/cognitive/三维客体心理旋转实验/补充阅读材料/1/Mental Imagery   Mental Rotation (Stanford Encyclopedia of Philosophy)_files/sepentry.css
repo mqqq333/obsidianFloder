@@ -1,0 +1,30 @@
+/* GENERAL STYLE ELEMENTS USED BY DEFAULT */
+@import "sep.css";
+
+/* ADD ENTRY SPECIFIC STUFF HERE */
+
+
+div#foot {
+  border-top: 1px solid #663300;
+  border-bottom: 4px solid #663300;
+/*  background: #ccbbaa; */
+  background: #ffffff;
+  margin-left: -15px;
+  margin-right: -25px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+  text-align: center;
+  color: black;
+/*  font-size: 12pt; */
+  font-size: 13pt;
+  font-family: CopperPlate, Tahoma, Lucida, Arial, sans-serif;
+/*  font-weight: normal; */
+  font-weight: bold;
+  padding: 0px 15px;
+}
+
+h1 {
+ margin-bottom: 2px;
+}
+
+

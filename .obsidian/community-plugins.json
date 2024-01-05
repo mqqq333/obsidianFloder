@@ -11,5 +11,6 @@
   "obsidian-annotator",
   "obsidian-linter",
   "remotely-save",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-version-history-diff"
 ]

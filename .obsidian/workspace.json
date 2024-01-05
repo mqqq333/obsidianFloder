@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "8fe2c1ad5de7152c",
+        "id": "69a23151bf7df41e",
         "type": "tabs",
         "children": [
           {
-            "id": "3e697d203ef446dc",
+            "id": "35c0310722bee732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs-ai/cognitive/文献报告.md",
+                "file": "机器学习.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9d7c54f227f6772f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -104,8 +118,13 @@
             "id": "a391d204c25a48ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "杨辉三角.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           },
           {
@@ -130,12 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs-ai/cognitive/文献报告.md"
+                "file": "test.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "0401f5e0dbb87aac",
@@ -147,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs-ai/cognitive/文献报告.md",
+                "file": "test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs-ai/cognitive/文献报告.md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,58 +204,59 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "smart-random-note:Open Random Note from Search": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3e697d203ef446dc",
+  "active": "9d7c54f227f6772f",
   "lastOpenFiles": [
-    "NumAnaly-hw4.md",
-    "cs-ai/cognitive/文献报告.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/7/培训_密码【www.mobancss.com】.zip.baiduyun.p.downloading",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/9",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/7",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店",
-    "cs-ai/cognitive/优秀读书报告4.pdf",
-    "cs-ai/cognitive/优秀读书报告3.pdf",
-    "cs-ai/cognitive/优秀读书报告2.pdf",
-    "cs-ai/cognitive/优秀读书报告1.pdf",
-    "cs-ai/cognitive/优秀读书报告5.pdf",
-    "cs-ai/数值分析方法/3210104896_Homework_4.pdf",
-    "NumAnaly-hw5.md",
-    "ML-ass1.md",
-    "Pasted image 20231104082452.png",
-    "心理测量推文.md",
-    "未命名 9.md",
-    "NumAnaly-hw3.md",
-    "Pasted image 20231029194848.png",
-    "Pasted image 20231029194844.png",
-    "Pasted image 20231029194732.png",
-    "Pasted image 20231029194726.png",
-    "Pasted image 20231029194717.png",
-    "Pasted image 20231029194414.png",
-    "Pasted image 20231029194354.png",
-    "Pasted image 20231029194349.png",
-    "Pasted image 20231029194346.png",
-    "NumAnaly-hw2.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/简洁html5手工工艺品展览网页模板_简洁 手工 艺术 工艺品 展览 整站 企业 菜单 简洁 clean 笔记本 互联网 软件开发 WEB DESIGN 广告设计 平面设计 404 twts bootstrap 响应式 手机 html5 css3 报价 扁平化/twts_162_airspace/plugins/magnific-popup/README.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/简洁html5手工工艺品展览网页模板_简洁 手工 艺术 工艺品 展览 整站 企业 菜单 简洁 clean 笔记本 互联网 软件开发 WEB DESIGN 广告设计 平面设计 404 twts bootstrap 响应式 手机 html5 css3 报价 扁平化/twts_162_airspace/plugins/jquery/README.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/ckeditor/skins/moono/readme.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/ckeditor/plugins/wsc/README.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/ckeditor/plugins/wsc/LICENSE.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/ckeditor/plugins/scayt/README.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/ckeditor/plugins/scayt/LICENSE.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/morris.js-0.4.3/README.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/jquery-easy-pie-chart/Readme.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/jquery-knob/README.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/ckeditor/README.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/ckeditor/LICENSE.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/ckeditor/CHANGES.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/chart-master/readme.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/创意广告公司ui功能管理员响应式网站模板_创意 广告 广告公司 公司 功能 管理 管理员 仪表板 小部件 图标 分析图 平面设计 数据 ui设计/dgfp_46_Admin/assets/chart-master/LICENSE.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/4/广告/Flutte整洁大气平面设计广告公司Bootstarp网站模板_整洁 大气 Bootstarp模板 广告 传媒 自动翻页 跳转 平面设计 多页 Flutte wap菜单 类别 检索 平面/dgmg_18_Flattern/assets/vendor/owl.carousel/README.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/10/学校教育/Mentor简约创意导师教育bootstarp网站模板_简约 创意 导师 教育 网站设计 Mentor 文案写作 搜索引擎 bootstarp模板 响应式 网上课程/dgfp_45_Mentor/assets/vendor/owl.carousel/README.md",
-    "cs-ai/前端/更新5000套-厚朴网络淘宝店/10/学校教育/it教育培训机构响应式模板_教育 培训 机构 响应式 引导页 bootstrap 手机 responsive 幻灯 服务 网站设计 设计公司 报价 律师 咨询 证券/tops_41_Metronic/assets/plugins/uniform/README.md",
-    "未命名.canvas"
+    "机器学习.md",
+    "test.md",
+    "科普推文.md",
+    "房树人分析.md",
+    "photo/0OC%C673@U8]5IKS2D8OH~0.png",
+    "Pasted image 20240102200707.png",
+    "Pasted image 20240102194259.png",
+    "Pasted image 20240102194222.png",
+    "Pasted image 20240102194018.png",
+    "Pasted image 20240102194051.png",
+    "Pasted image 20240102192737.png",
+    "Pasted image 20240102192453.png",
+    "Pasted image 20240102195856.png",
+    "Pasted image 20240102193112.png",
+    "未命名 1.canvas",
+    "2024-01-05.md",
+    "未命名.canvas",
+    "心理测量期末汇报.md",
+    "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/机器学习.pdf",
+    "发展心理学整理4.md",
+    "发展心理学整理3.md",
+    "week4.md",
+    "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/week4.pdf",
+    "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/2023fall/week1/~$introductiontomachinelearning.pptx",
+    "游戏倦怠.md",
+    "前端基础知识.md",
+    "心理测量选题.md",
+    "心统Ⅱ展示.md",
+    "发展心理学整理2.md",
+    "递归函数.md",
+    "2023-W14.md",
+    "2023-03-16.md",
+    "2023-03-15.md",
+    "两数之和.md",
+    "assignment3.md",
+    "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/tutorial6.pdf",
+    "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/Naive Bayes.ipynb",
+    "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/week10.pdf",
+    "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/Week6.pdf",
+    "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/Week3.pdf",
+    "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/0-overview.pdf",
+    "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/Correlation Coefficient.ipynb",
+    "发展心理学.md",
+    "。.md",
+    "stage2-原文翻译.md",
+    "stage2-最终整理稿.md",
+    "引言讲稿.md",
+    "leetcode.md"
   ]
 }

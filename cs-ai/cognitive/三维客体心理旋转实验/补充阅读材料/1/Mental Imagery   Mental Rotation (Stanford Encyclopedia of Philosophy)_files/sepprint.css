@@ -1,0 +1,256 @@
+/* GENERAL STYLE ELEMENTS USED BY DEFAULT */
+
+body {
+  background-color:  white;
+}
+
+.center {text-align: center}
+.small {font-size: small}
+.xsmall {font-size: x-small}
+
+th { text-align: center }
+
+
+h1 {
+ margin-bottom: 2px;
+ line-height: 110%;
+}
+
+#wrapper {
+  text-align: left;
+  margin: 0 auto;
+  width: 750px;
+}
+
+img {
+   border: 0px;
+}
+
+img.floatLeft {
+    float: left; 
+    margin: 4px; 
+}
+
+table.whitebox { background: white; color: black; margin: 10px; border: 1px; }
+table.brownbox { border: 1px dotted black; width: 100% }
+
+td.brownbox { background: #fafbdd; color: gray; font-size: x-small; text-align: center}
+
+td.whitebox { background: #ffffff; color: black; font-size: small; text-align: center}
+.note {color: gray; font-size:small}
+
+.sepname {
+ font-family: Lucida, Arial, sans-serif;
+ font-size: 14pt;
+ padding: 3px 3px 3px 3px;
+}
+
+div.pagetitle {
+   border: 0px dashed blue;
+   font-family: Lucida, Arial, sans-serif;
+   font-size: 14pt;
+   color: #663322;
+   font-weight: bold;
+   text-align: center;
+}
+
+.title {
+ background-color: #fafbdd;
+ text-align: left;
+ font-family: Lucida, Arial, sans-serif;
+ font-size: 12pt;
+ font-weight: bold;
+}
+
+table.center {margin-left: auto; margin-right: auto}
+
+A:link {text-decoration: none; color: #444444;}
+A:visited {text-decoration: none; color: #444444;}
+A:active {text-decoration: none; color: #444444;}
+
+A.plain:link {text-decoration: none; color: #444444;}
+A.plain:visited {text-decoration: none; color: #444444;}
+A.plain:active {text-decoration: none; color: #444444;}
+
+
+/* LEFT MENU-NAVIGATION ELEMENTS */
+
+#navtitle {
+  background-color: white;
+  font-size: 14pt;
+  text-align: center;
+/*  font-family: Lucida, Arial, sans-serif; */
+  line-height: 140%;
+  margin-left: 40px; 
+  margin-right: 40px;
+}
+
+#navmenu {
+  visibility: hidden;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 0;
+  background-color: white;
+  padding: 0px;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+.menuheading {
+  text-align: left;
+  font-family: Lucida, Arial, sans-serif;
+  font-size: 10pt;
+  font-weight: bold;
+  padding: 0px 0px 0px 5px;
+}
+
+.menuitem {
+  text-align: left;
+  font-family: Lucida, Arial, sans-serif; 
+  font-size: 8pt;
+  padding: 0px 0px 0px 10px;
+}
+
+.navpanel {
+  font-size: 10pt;
+  font-family: Lucidatypewriter, monospace;
+  text-align: center;
+}
+	
+.copyright {
+  font-size: 9pt;
+  font-style: italic;
+  /*font-family: Lucida, Arial, sans-serif; */
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* MAIN CONTENT ELEMENTS ON RIGHT */
+
+div#rightcol {
+  left: 0px;
+}
+
+div#pagetopright {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  padding: 5px;
+  margin-left: 0px;
+  margin-top: 0px;
+  height: 57px;
+  text-align: center;
+  font-family: "Lucida", Arial, sans-serif;
+  font-size: 18pt;
+}
+
+div#maintitle {
+  background-color: white;
+  font-size: 18pt;
+  line-height: 140%;
+  margin-left: 40px; 
+  margin-right: 40px;
+  font-family: Lucida, Arial, sans-serif;
+  text-align: center;
+}
+
+#content {
+  background-color: white;
+  font-size: 13pt; 
+  line-height: 125%;
+/*  font-family: Lucida, Arial, sans-serif; */
+/*  line-height: 140%; */
+  margin-left: 40px; 
+  margin-right: 40px;
+}
+
+div#foot {
+/*  width: 500px;  */
+  border-top: 1px solid #663322;
+  border-bottom: 4px solid #663322;
+  text-align: center;
+  background: #ccbbaa; /* yellow */
+  margin-left: -15px;
+  margin-right: -25px;
+  margin-bottom: 5px; 
+  margin-top: 10px; 
+  color: black;
+  font-size: 12pt;
+/*  font-family: CopperPlate, Tahoma, Lucida, Arial, sans-serif; */
+  font-weight: normal;
+  padding: 0px;
+}
+
+div#foot ul {
+  list-style:none;
+  margin: 0px 0px 0px 15px;
+  padding: 0px;
+}
+
+#content SUB, #content SUP { line-height: 0px; }
+
+/* BRANDING BANNER ELEMENTS */
+
+A.banner:link {color: #ee0000; text-decoration: none; }
+A.banner:visited {color: #ee0000; text-decoration: none;}
+A.banner:active {color: #ee0000; text-decoration: none;}
+
+#message {
+/*  visibility: hidden; */
+/*  height: 0;    */
+  margin-left: auto; margin-right: auto;
+  text-align: center;
+  color: black;
+  font-size: 11pt;
+  font-family: CopperPlate, Tahoma, Lucida, Arial, sans-serif;
+  font-weight: normal;
+  padding: 0px;
+
+}
+
+#message2 {
+/*  visibility: hidden; */
+/*  height: 0;    */
+  margin-left: auto; margin-right: auto;
+  text-align: center;
+  color: black;
+  font-size: 9pt;
+  font-family: CopperPlate, Tahoma, Lucida, Arial, sans-serif;
+  font-weight: normal;
+  padding: 0px;
+
+}
+
+#archivebanner {
+  margin-left: auto; margin-right: auto;
+  text-align: center;
+  color: black;
+  font-size: 9pt;
+  font-family: CopperPlate, Tahoma, Lucida, Arial, sans-serif;
+  font-weight: normal;
+  padding: 0px;
+}
+
+/* MISCELLANEOUS STUFF */
+
+.yellowbox {
+  background-color: #fafbdd;
+}
+
+#linklist {
+  visibility: hidden;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 0;
+  background-color: white;
+  padding: 0px;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+
+table.smalltable {
+font-size: 9pt;
+line-height: 1.2em;
+}

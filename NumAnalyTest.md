@@ -1,3 +1,29 @@
+## lecture1
+![[Pasted image 20231108220928.png]]
+## lecture2
+![[Pasted image 20231108224848.png]]
+## lecture3
+![[Pasted image 20231108224901.png]]
+## lecture4
+![[Pasted image 20231108225049.png]]
+## lecture5
+![[Pasted image 20231108225040.png]]
+## lecture6
+![[Pasted image 20231108224956.png]]
+## lecture7
+![[Pasted image 20231108225057.png]]
+## lecture8
+![[Pasted image 20231108225003.png]]
+## lecture9
+![[Pasted image 20231108225009.png]]
+## lecture10
+![[Pasted image 20231108225015.png]]
+## lecture11
+![[Pasted image 20231108225021.png]]
+## lecture12
+![[Pasted image 20231108225027.png]]
+## lecture13
+![[Pasted image 20231108225033.png]]
 ## 2021秋
 ### 填空题
 自由样条内插、
