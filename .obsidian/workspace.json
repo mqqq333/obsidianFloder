@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "认知心理学期末.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "追踪报告.md"
+                "file": "认知心理学期末.md"
               }
             }
           }
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "追踪报告.md",
+                "file": "认知心理学期末.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "追踪报告.md",
+                "file": "认知心理学期末.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,8 +207,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "631a5d810b2793d2",
+  "active": "a75a26b665e3942c",
   "lastOpenFiles": [
+    "追踪报告.md",
     "cs-ai/cognitive/Chap10_ProblemSolving_20231211113301.pdf",
     "cs-ai/cognitive/chapter10_language_2023.pdf",
     "cs-ai/cognitive/visual_representation_of_knowledge_2023.pdf",
@@ -220,8 +220,7 @@
     "cs-ai/cognitive/Chap4_Attention_I(1) (1).pdf",
     "cs-ai/cognitive/chapter5_consciousness_2022_partI (1).pdf",
     "cs-ai/cognitive/Chapter2_cognitive_neuroscience (1).pdf",
-    "test.md",
-    "追踪报告.md",
+    "认知心理学期末.md",
     "杨辉三角.md",
     "机器学习.md",
     "科普推文.md",
@@ -240,7 +239,6 @@
     "2024-01-05.md",
     "未命名.canvas",
     "心理测量期末汇报.md",
-    "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/机器学习.pdf",
     "发展心理学整理4.md",
     "发展心理学整理3.md",
     "week4.md",
