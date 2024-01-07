@@ -8,45 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a75a26b665e3942c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "认知心理学期末.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ba3439fee107a4d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "心理测量.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1d3dda2f106cff3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "发展心理学期末.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "631a5d810b2793d2",
             "type": "leaf",
             "state": {
@@ -60,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -175,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "发展心理学期末.md"
+                "file": "追踪报告.md"
               }
             }
           }
@@ -192,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发展心理学期末.md",
+                "file": "追踪报告.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发展心理学期末.md",
+                "file": "追踪报告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -234,10 +194,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d3dda2f106cff3a",
+  "active": "631a5d810b2793d2",
   "lastOpenFiles": [
-    "心理测量.md",
     "发展心理学期末.md",
+    "心理测量.md",
     "认知心理学期末.md",
     "Pasted image 20240107154429.png",
     "Pasted image 20240107154418.png",
