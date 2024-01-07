@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "631a5d810b2793d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "追踪报告.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "追踪报告.md"
               }
             }
           }
@@ -152,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "追踪报告.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "追踪报告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,11 +208,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a75a26b665e3942c",
+  "active": "631a5d810b2793d2",
   "lastOpenFiles": [
+    "test.md",
+    "追踪报告.md",
     "杨辉三角.md",
     "机器学习.md",
-    "test.md",
     "科普推文.md",
     "房树人分析.md",
     "photo/0OC%C673@U8]5IKS2D8OH~0.png",
@@ -242,7 +257,6 @@
     "发展心理学.md",
     "。.md",
     "stage2-原文翻译.md",
-    "stage2-最终整理稿.md",
-    "引言讲稿.md"
+    "stage2-最终整理稿.md"
   ]
 }
