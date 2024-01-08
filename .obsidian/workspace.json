@@ -4,36 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "4b87808b46f9c6af",
+        "id": "b405e05d5cb492a3",
         "type": "tabs",
         "children": [
           {
-            "id": "27edb8fd514192c7",
+            "id": "14054b0da0e28a02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "发展心理学PPT1.md",
-                "mode": "preview",
+                "file": "发展心理学PPT2.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           },
           {
-            "id": "91622e8c60ca4bdc",
+            "id": "3b5ac0d3fa78f6ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "发展心理学PPT1.md",
+                "file": "发展心理学PPT3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "009635f420542a6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "发展心理学4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2801f8adb5dd29be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "发展心理学PPT5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "732d17969f0bfec7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -92,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "371c6e27066d2e21",
@@ -149,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "发展心理学PPT1.md"
+                "file": "发展心理学PPT5.md"
               }
             }
           }
@@ -166,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发展心理学PPT1.md",
+                "file": "发展心理学PPT5.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发展心理学PPT1.md",
+                "file": "发展心理学PPT5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -209,19 +243,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "27edb8fd514192c7",
+  "active": "2801f8adb5dd29be",
   "lastOpenFiles": [
+    "136 3.jpg",
+    "135 3.jpg",
+    "134 3.jpg",
+    "133 3.jpg",
+    "132 3.jpg",
+    "131 3.jpg",
+    "130 3.jpg",
+    "129 3.jpg",
+    "128 3.jpg",
+    "127 3.jpg",
+    "126 3.jpg",
+    "发展心理学4.md",
+    "发展心理学PPT5.md",
+    "发展心理学PPT3.md",
+    "发展心理学PPT2.md",
     "发展心理学PPT1.md",
-    "163.jpg",
-    "162.jpg",
-    "161.jpg",
-    "160.jpg",
-    "159.jpg",
-    "158.jpg",
-    "157.jpg",
-    "156.jpg",
-    "155.jpg",
-    "154.jpg",
     "发展心理学期末.md",
     "发展心理学.md",
     "发心-整理.md",
@@ -253,10 +292,6 @@
     "游戏倦怠.md",
     "前端基础知识.md",
     "心理测量选题.md",
-    "心统Ⅱ展示.md",
-    "发展心理学整理2.md",
-    "递归函数.md",
-    "2023-W14.md",
-    "2023-03-16.md"
+    "心统Ⅱ展示.md"
   ]
 }
