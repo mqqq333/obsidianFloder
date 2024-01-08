@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实验心理学.md",
+                "file": "发展心理学期末.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实验心理学.md"
+                "file": "发展心理学期末.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实验心理学.md",
+                "file": "发展心理学期末.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实验心理学.md",
+                "file": "发展心理学期末.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,11 +205,11 @@
   },
   "active": "de54e0780616e512",
   "lastOpenFiles": [
+    "实验心理学.md",
     "实验心理学慕课.md",
     "模块化程序设计.md",
     "前端基础知识.md",
     "认知心理学期末.md",
-    "实验心理学.md",
     "生理心理学10.md",
     "生理心理学.md",
     "心理测量选题.md",
