@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de54e0780616e512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "发展心理学PPT1.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "732d17969f0bfec7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "发展心理学PPT1.md",
+                "file": "发展心理学PPT2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -92,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "371c6e27066d2e21",
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "发展心理学PPT1.md"
+                "file": "发展心理学PPT2.md"
               }
             }
           }
@@ -165,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发展心理学PPT1.md",
+                "file": "发展心理学PPT2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发展心理学PPT1.md",
+                "file": "发展心理学PPT2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,8 +195,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de54e0780616e512",
+  "active": "732d17969f0bfec7",
   "lastOpenFiles": [
+    "196 2.jpg",
+    "195 2.jpg",
+    "194 2.jpg",
+    "193 2.jpg",
+    "192 2.jpg",
+    "191 2.jpg",
+    "190 2.jpg",
+    "189 2.jpg",
+    "188 2.jpg",
+    "187 2.jpg",
+    "186 2.jpg",
     "发展心理学PPT1.md",
     "发展心理学整理-1.md",
     "发展心理学期末.md",
@@ -232,20 +230,9 @@
     "发展心理学PPT5.md",
     "发展心理学PPT4.md",
     "发展心理学PPT3.md",
-    "046 5.jpg",
-    "045 5.jpg",
-    "044 5.jpg",
-    "043 5.jpg",
-    "042 5.jpg",
-    "041 5.jpg",
-    "040 5.jpg",
-    "134 4.jpg",
-    "039 5.jpg",
-    "133 4.jpg",
     "发展心理学PPT2.md",
     "发展心理学.md",
     "发心-整理.md",
-    "发心-翻译.md",
     "cs-ai/cognitive/Chap10_ProblemSolving_20231211113301.pdf",
     "cs-ai/cognitive/chapter10_language_2023.pdf",
     "cs-ai/cognitive/visual_representation_of_knowledge_2023.pdf",
