@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "发炸心理学PPT6.md",
+                "file": "实验心理学.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "发炸心理学PPT6.md"
+                "file": "实验心理学.md"
               }
             }
           }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发炸心理学PPT6.md",
+                "file": "实验心理学.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发炸心理学PPT6.md",
+                "file": "实验心理学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -205,6 +205,22 @@
   },
   "active": "de54e0780616e512",
   "lastOpenFiles": [
+    "实验心理学慕课.md",
+    "模块化程序设计.md",
+    "前端基础知识.md",
+    "认知心理学期末.md",
+    "实验心理学.md",
+    "生理心理学10.md",
+    "生理心理学.md",
+    "心理测量选题.md",
+    "心理测量期末汇报.md",
+    "信号检测实验.md",
+    "游戏倦怠与自我效能.md",
+    "预处理命令.md",
+    "指针进阶.md",
+    "assignment2.md",
+    "追踪报告.md",
+    "发炸心理学PPT6.md",
     "发展心理学PPT5.md",
     "发展心理学PPT4.md",
     "发展心理学PPT3.md",
@@ -218,16 +234,13 @@
     "134 4.jpg",
     "039 5.jpg",
     "133 4.jpg",
-    "发炸心理学PPT6.md",
     "发展心理学PPT2.md",
     "发展心理学PPT1.md",
     "发展心理学期末.md",
     "发展心理学.md",
     "发心-整理.md",
     "发心-翻译.md",
-    "追踪报告.md",
     "心理测量.md",
-    "认知心理学期末.md",
     "cs-ai/cognitive/Chap10_ProblemSolving_20231211113301.pdf",
     "cs-ai/cognitive/chapter10_language_2023.pdf",
     "cs-ai/cognitive/visual_representation_of_knowledge_2023.pdf",
@@ -238,19 +251,7 @@
     "cs-ai/cognitive/Chap4_Attention_I(1) (1).pdf",
     "cs-ai/cognitive/chapter5_consciousness_2022_partI (1).pdf",
     "cs-ai/cognitive/Chapter2_cognitive_neuroscience (1).pdf",
-    "杨辉三角.md",
-    "机器学习.md",
-    "科普推文.md",
-    "房树人分析.md",
     "未命名 1.canvas",
-    "2024-01-05.md",
-    "未命名.canvas",
-    "心理测量期末汇报.md",
-    "发展心理学整理4.md",
-    "发展心理学整理3.md",
-    "week4.md",
-    "游戏倦怠.md",
-    "前端基础知识.md",
-    "心理测量选题.md"
+    "未命名.canvas"
   ]
 }
