@@ -24,9 +24,12 @@
             "id": "d5dc054e32eb62a4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/tutorial6.pdf"
+                "file": "发展心理学期末.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -146,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/tutorial6.pdf"
+                "file": "发展心理学期末.md"
               }
             }
           }
@@ -163,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/tutorial6.pdf",
+                "file": "发展心理学期末.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/tutorial6.pdf",
+                "file": "发展心理学期末.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -208,6 +211,7 @@
   },
   "active": "d5dc054e32eb62a4",
   "lastOpenFiles": [
+    "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/tutorial6.pdf",
     "心理测量.md",
     "心理测量期末汇报.md",
     "心理测量推文.md",
@@ -245,7 +249,6 @@
     "发展心理学PPT5.md",
     "发展心理学PPT4.md",
     "发展心理学PPT3.md",
-    "发展心理学.md",
     "cs-ai/cognitive/Chap10_ProblemSolving_20231211113301.pdf",
     "cs-ai/cognitive/chapter10_language_2023.pdf",
     "cs-ai/cognitive/visual_representation_of_knowledge_2023.pdf",
