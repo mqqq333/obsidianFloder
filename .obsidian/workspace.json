@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b405e05d5cb492a3",
+        "id": "217fcff372c55deb",
         "type": "tabs",
         "children": [
           {
-            "id": "732d17969f0bfec7",
+            "id": "f2efc5e93134ffc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "发展心理学PPT2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -134,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "发展心理学PPT2.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -152,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发展心理学PPT2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发展心理学PPT2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,8 +186,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "732d17969f0bfec7",
+  "active": "f2efc5e93134ffc1",
   "lastOpenFiles": [
+    "发展心理学PPT2.md",
     "cs-ai/cognitive/chapter11_individual_differences22.pdf",
     "cs-ai/cognitive/Finals-期末答疑_2023_20240108195052.pdf",
     "196 2.jpg",
@@ -231,7 +223,6 @@
     "发展心理学PPT5.md",
     "发展心理学PPT4.md",
     "发展心理学PPT3.md",
-    "发展心理学PPT2.md",
     "发展心理学.md",
     "发心-整理.md",
     "cs-ai/cognitive/Chap10_ProblemSolving_20231211113301.pdf",
@@ -242,7 +233,6 @@
     "cs-ai/cognitive/Chap6_Memory_I(1) (1).pdf",
     "cs-ai/cognitive/Chap4_Attention_II(1) (1).pdf",
     "cs-ai/cognitive/Chap4_Attention_I(1) (1).pdf",
-    "cs-ai/cognitive/chapter5_consciousness_2022_partI (1).pdf",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
