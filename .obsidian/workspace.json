@@ -11,9 +11,12 @@
             "id": "f2efc5e93134ffc1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "001 5.jpg"
+                "file": "心理测量.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 5.jpg"
+                "file": "心理测量.md"
               }
             }
           }
@@ -162,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 5.jpg",
+                "file": "心理测量.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 5.jpg",
+                "file": "心理测量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -207,6 +210,17 @@
   },
   "active": "f2efc5e93134ffc1",
   "lastOpenFiles": [
+    "photo/060 2.jpg",
+    "photo/060 1.jpg",
+    "photo/059.jpg",
+    "photo/059 5.jpg",
+    "photo/059 4.jpg",
+    "photo/059 3.jpg",
+    "photo/059 2.jpg",
+    "photo/059 1.jpg",
+    "photo/058.jpg",
+    "photo/058 5.jpg",
+    "photo/058 4.jpg",
     "心理测量.md",
     "发展心理学期末.md",
     "cs-ai/cognitive/Chap3_Perception_II(1) (1).pdf",
@@ -218,16 +232,6 @@
     "发展心理学PPT2.md",
     "cs-ai/cognitive/chapter11_individual_differences22.pdf",
     "cs-ai/cognitive/Finals-期末答疑_2023_20240108195052.pdf",
-    "196 2.jpg",
-    "195 2.jpg",
-    "194 2.jpg",
-    "193 2.jpg",
-    "192 2.jpg",
-    "191 2.jpg",
-    "190 2.jpg",
-    "189 2.jpg",
-    "188 2.jpg",
-    "187 2.jpg",
     "发展心理学PPT1.md",
     "发展心理学整理-1.md",
     "实验心理学.md",
