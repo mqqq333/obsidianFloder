@@ -11,12 +11,9 @@
             "id": "f2efc5e93134ffc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "心理测量.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "file": "001 5.jpg"
               }
             }
           },
@@ -34,7 +31,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -93,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 293.5
   },
   "right": {
     "id": "371c6e27066d2e21",
@@ -149,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "发展心理学期末.md"
+                "file": "001 5.jpg"
               }
             }
           }
@@ -166,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "发展心理学期末.md",
+                "file": "001 5.jpg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "发展心理学期末.md",
+                "file": "001 5.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -209,13 +205,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5dc054e32eb62a4",
+  "active": "f2efc5e93134ffc1",
   "lastOpenFiles": [
+    "心理测量.md",
+    "发展心理学期末.md",
     "cs-ai/cognitive/Chap3_Perception_II(1) (1).pdf",
     "cs-ai/cognitive/Chap3_Perception_I(1) (1).pdf",
     "cs-ai/cognitive/Chapter2_cognitive_neuroscience(1).pdf",
     "cs-ai/《人工智能、机器学习与数据挖掘的基础应用实训》预习资料/tutorial6.pdf",
-    "心理测量.md",
     "心理测量期末汇报.md",
     "心理测量推文.md",
     "发展心理学PPT2.md",
@@ -233,7 +230,6 @@
     "187 2.jpg",
     "发展心理学PPT1.md",
     "发展心理学整理-1.md",
-    "发展心理学期末.md",
     "实验心理学.md",
     "实验心理学慕课.md",
     "模块化程序设计.md",
@@ -256,7 +252,6 @@
     "cs-ai/cognitive/chapter10_language_2023.pdf",
     "cs-ai/cognitive/visual_representation_of_knowledge_2023.pdf",
     "cs-ai/cognitive/knowledge_representation_2023.pdf",
-    "cs-ai/cognitive/Chap6_Memory_II_20231127132119 (1).pdf",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
