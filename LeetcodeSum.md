@@ -63,6 +63,9 @@ class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
     nums.sort()
     ans = []
-    n = len
+    n = len(nums)
+    for i in range(n-2):
+	    x = nums[i]
+	    if i > 0 and x == nums[i-1]
        
 ~~~
