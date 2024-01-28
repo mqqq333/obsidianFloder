@@ -58,5 +58,11 @@ class Solution:
 
 ## 15.三数之和
 ~~~ python
+class Solution:
 
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+    nums.sort()
+    ans = []
+    n = len
+       
 ~~~
