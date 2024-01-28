@@ -23,8 +23,12 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
 		{
 			right = right - 1;
 		}
-		if
-	} 
-
+		else
+		{
+			left = left + 1;
+		}
+	}
+	*returnSize = 0; 
+	return NULL;
 }
 ~~~
