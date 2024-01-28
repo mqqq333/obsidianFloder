@@ -36,6 +36,7 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
 ~~~python
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
+    # Time C 
         left = 0
         right = len(numbers) - 1
 
