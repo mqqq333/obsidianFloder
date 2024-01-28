@@ -66,6 +66,7 @@ class Solution:
     n = len(nums)
     for i in range(n-2):
 	    x = nums[i]
-	    if i > 0 and x == nums[i-1]
+	    if i > 0 and x == nums[i-1]:
+		    continue
        
 ~~~
