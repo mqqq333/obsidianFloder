@@ -77,7 +77,9 @@ class Solution:
 			elif s < 0:
 				j = j + 1
 			else:
-				ans.app
+				ans.append([x, nums[j], nums[k]])
+				j = j + 1
+				while j < k and nums[j] == nums[j-1]
 		
        
 ~~~
