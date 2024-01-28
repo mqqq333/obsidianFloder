@@ -71,7 +71,13 @@ class Solution:
 		j = i + 1
 		k = n - 1
 		while j < k:
-			s = x + nums[j] + nums
+			s = x + nums[j] + nums[k]
+			if s > 0:
+				k = k - 1
+			elif s < 0:
+				j = j + 1
+			else:
+				ans.app
 		
        
 ~~~
