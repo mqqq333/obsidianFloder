@@ -36,7 +36,8 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
 ~~~python
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-    # Time C 
+    # Time Complexity O(n)
+    # Space Complexity O(1) 
         left = 0
         right = len(numbers) - 1
 
@@ -54,3 +55,5 @@ class Solution:
 
                 right = right - 1
 ~~~
+
+## LCR 006. 两数之和 II - 输入有序数组
