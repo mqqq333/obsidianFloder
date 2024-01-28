@@ -16,8 +16,14 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
 		{
 			ret[0] = left;
 			ret[1] = right;
-			
+			*returnSize = 2;
+			return ret;
 		}
+		if(nums[left] + nums[right] > target)
+		{
+			right = right - 1;
+		}
+		if
 	} 
 
 }
