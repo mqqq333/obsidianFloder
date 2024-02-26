@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "10efd0dd782a5509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 14.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cslearing.md"
+                "file": "未命名 14.md"
               }
             }
           }
@@ -179,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cslearing.md",
+                "file": "未命名 14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cslearing.md",
+                "file": "未命名 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -222,8 +235,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7313e02454915c40",
+  "active": "10efd0dd782a5509",
   "lastOpenFiles": [
+    "未命名 14.md",
     "虚拟定位.md",
     "cslearing.md",
     "LeetcodeSum.md",
@@ -269,7 +283,6 @@
     "预处理命令.md",
     "指针进阶.md",
     "assignment2.md",
-    "追踪报告.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
