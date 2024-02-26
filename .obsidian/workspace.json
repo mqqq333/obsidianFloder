@@ -16,7 +16,7 @@
                 "file": "LeetcodeSum.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           },
@@ -29,7 +29,7 @@
                 "file": "虚拟定位.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           },
@@ -42,7 +42,7 @@
                 "file": "cslearing.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           },
@@ -55,7 +55,7 @@
                 "file": "英一.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
