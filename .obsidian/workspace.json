@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c0cd6ade34ee86d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "虚拟定位.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetcodeSum.md"
+                "file": "虚拟定位.md"
               }
             }
           }
@@ -152,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetcodeSum.md",
+                "file": "虚拟定位.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetcodeSum.md",
+                "file": "虚拟定位.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,10 +209,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcb812949b80527f",
+  "active": "2c0cd6ade34ee86d",
   "lastOpenFiles": [
-    "注意引导对无意识知觉的影响.md",
     "LeetcodeSum.md",
+    "虚拟定位.md",
+    "注意引导对无意识知觉的影响.md",
     "cs-ai/cognitive/~WRL0001.tmp",
     "cs-ai/cognitive/~WRD0000.tmp",
     "cs-ai/cognitive/~$consciousnessProposal.docx",
@@ -242,7 +257,6 @@
     "assignment2.md",
     "追踪报告.md",
     "发炸心理学PPT6.md",
-    "发展心理学PPT5.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
