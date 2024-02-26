@@ -58,6 +58,16 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "ea1e23b24a47ca6d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
         "currentTab": 3,
