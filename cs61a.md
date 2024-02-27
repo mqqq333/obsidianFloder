@@ -13,3 +13,4 @@
 `cd`改变文件夹
 `mkdir`创建文件夹
 `pwd`当前文件夹
+`sudo rm -rf`
