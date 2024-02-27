@@ -4,55 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0a046c505a3637a",
+        "id": "94172217f518a799",
         "type": "tabs",
         "children": [
           {
-            "id": "dcb812949b80527f",
+            "id": "941ae4798b74133d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetcodeSum.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2c0cd6ade34ee86d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "虚拟定位.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7313e02454915c40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cslearing.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "10efd0dd782a5509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英一.md",
+                "file": "cs61a.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -60,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -175,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "虚拟定位.md"
+                "file": "cs61a.md"
               }
             }
           }
@@ -192,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "虚拟定位.md",
+                "file": "cs61a.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "虚拟定位.md",
+                "file": "cs61a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -235,11 +195,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c0cd6ade34ee86d",
+  "active": "941ae4798b74133d",
   "lastOpenFiles": [
+    "cs61a.md",
+    "英一.md",
     "cslearing.md",
     "虚拟定位.md",
-    "英一.md",
     "LeetcodeSum.md",
     "注意引导对无意识知觉的影响.md",
     "cs-ai/cognitive/~WRL0001.tmp",
@@ -282,7 +243,6 @@
     "游戏倦怠与自我效能.md",
     "预处理命令.md",
     "指针进阶.md",
-    "assignment2.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
