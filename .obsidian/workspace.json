@@ -58,19 +58,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ea1e23b24a47ca6d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
         ],
-        "currentTab": 3,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -185,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英一.md"
+                "file": "虚拟定位.md"
               }
             }
           }
@@ -202,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "英一.md",
+                "file": "虚拟定位.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "英一.md",
+                "file": "虚拟定位.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -245,11 +235,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10efd0dd782a5509",
+  "active": "2c0cd6ade34ee86d",
   "lastOpenFiles": [
-    "英一.md",
-    "虚拟定位.md",
     "cslearing.md",
+    "虚拟定位.md",
+    "英一.md",
     "LeetcodeSum.md",
     "注意引导对无意识知觉的影响.md",
     "cs-ai/cognitive/~WRL0001.tmp",
