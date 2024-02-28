@@ -15,3 +15,4 @@
 `pwd`当前文件夹
 `sudo rm -rf` 删除
 `mv ~/Downloads/lab00 ~/Desktop/cs61a/lab` 移动
+`python -i` 交互式逐条运行
