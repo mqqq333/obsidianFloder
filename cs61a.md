@@ -13,4 +13,5 @@
 `cd`改变文件夹
 `mkdir`创建文件夹
 `pwd`当前文件夹
-`sudo rm -rf`
+`sudo rm -rf` 删除
+`mv ~/Downloads/lab00 ~/Desktop/cs61a/lab` 移动
