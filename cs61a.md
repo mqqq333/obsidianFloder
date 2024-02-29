@@ -17,4 +17,3 @@
 `mv ~/Downloads/lab00 ~/Desktop/cs61a/lab` 移动
 `python -i` 交互式逐条运行
 
-[Olsen et al](https://www.pnas.org/doi/full/10.1073/pnas.2022340118)[，](https://www.pnas.org/doi/full/10.1073/pnas.2022340118)[2020](https://www.pnas.org/doi/full/10.1073/pnas.2022340118)
