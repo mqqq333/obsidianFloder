@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "cs61a.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -198,6 +198,7 @@
   },
   "active": "941ae4798b74133d",
   "lastOpenFiles": [
+    "cs-ai/信号与认知系统/olson-et-al-2021-naming-unrelated-words-predicts-creativity.pdf",
     "cs-ai/cs61a/README.md",
     "cs-ai/cs61a/新建 文本文档.txt",
     "cs-ai/cs61a/新建文件夹",
