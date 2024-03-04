@@ -17,4 +17,10 @@
 `mv ~/Downloads/lab00 ~/Desktop/cs61a/lab` 移动
 `python -i` 交互式逐条运行
 
-## python assime
+## python assiment
+~~~python
+a = 1
+b = 2
+a, b = a + b, b
+# a = 3, b = 2
+~~~
