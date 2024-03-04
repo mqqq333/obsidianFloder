@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "堆排序.md",
+                "file": "cs61a.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cs61a",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,12 +75,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "371c6e27066d2e21",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "堆排序.md"
+                "file": "cs61a.md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "堆排序.md",
+                "file": "cs61a.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "堆排序.md",
+                "file": "cs61a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
