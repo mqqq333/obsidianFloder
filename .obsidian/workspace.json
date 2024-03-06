@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4809440782c773d2",
+            "id": "7720f6a4a9524997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs61a.md",
+                "file": "设计心理学读书报告.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cs61a",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs61a.md"
+                "file": "设计心理学读书报告.md"
               }
             }
           }
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs61a.md",
+                "file": "设计心理学读书报告.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs61a.md",
+                "file": "设计心理学读书报告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,10 +195,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4809440782c773d2",
+  "active": "7720f6a4a9524997",
   "lastOpenFiles": [
-    "堆排序.md",
+    "设计心理学读书报告.md",
     "cs61a.md",
+    "堆排序.md",
     "cs-ai/工程心理学/设计心理学 03-唐纳德诺曼.pdf",
     "cs-ai/工程心理学/设计心理学 01-唐纳德诺曼.pdf",
     "cs-ai/工程心理学",
@@ -243,7 +243,6 @@
     "生理心理学.md",
     "心理测量选题.md",
     "信号检测实验.md",
-    "游戏倦怠与自我效能.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
