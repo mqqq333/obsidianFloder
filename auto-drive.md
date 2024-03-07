@@ -1,0 +1,1 @@
+Xu, W., & **Gao, Z**. (2024). Applying HCAI in Developing Effective Human-AI Teaming: A Perspective from Human-AI Joint Cognitive Systems. _Interaction__._ 31(1):32–37
