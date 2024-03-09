@@ -8,28 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "628c712839b0e306",
+            "id": "f41bfd721d9507ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "auto-drive.md",
+                "file": "1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
-          },
-          {
-            "id": "f41bfd721d9507ac",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -143,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.md"
+              }
             }
           }
         ],
@@ -159,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -202,6 +197,7 @@
   },
   "active": "f41bfd721d9507ac",
   "lastOpenFiles": [
+    "1.md",
     "auto-drive.md",
     "cs-ai/NMAcademy/~$project presentation.pptx",
     "cs-ai/NMAcademy/~$P working memory project .docx",
