@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.md",
-                "mode": "source",
+                "file": "GithubHomepage.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.md"
+                "file": "GithubHomepage.md"
               }
             }
           }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.md",
+                "file": "GithubHomepage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.md",
+                "file": "GithubHomepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,7 +197,7 @@
   },
   "active": "f41bfd721d9507ac",
   "lastOpenFiles": [
-    "1.md",
+    "GithubHomepage.md",
     "auto-drive.md",
     "cs-ai/NMAcademy/~$project presentation.pptx",
     "cs-ai/NMAcademy/~$P working memory project .docx",
