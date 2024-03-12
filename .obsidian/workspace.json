@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GithubHomepage.md",
-                "mode": "preview",
+                "file": "。.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GithubHomepage.md"
+                "file": "。.md"
               }
             }
           }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GithubHomepage.md",
+                "file": "。.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GithubHomepage.md",
+                "file": "。.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,8 +195,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f41bfd721d9507ac",
+  "active": "c0448c9b787a237c",
   "lastOpenFiles": [
+    "实验心理学慕课.md",
+    "搜书网站集合.md",
+    "算法分析基础.md",
+    "未命名 1.canvas",
     "GithubHomepage.md",
     "auto-drive.md",
     "cs-ai/NMAcademy/~$project presentation.pptx",
@@ -238,12 +242,8 @@
     "发展心理学PPT1.md",
     "发展心理学整理-1.md",
     "实验心理学.md",
-    "实验心理学慕课.md",
     "模块化程序设计.md",
     "前端基础知识.md",
-    "生理心理学10.md",
-    "生理心理学.md",
-    "未命名 1.canvas",
     "未命名.canvas"
   ]
 }
