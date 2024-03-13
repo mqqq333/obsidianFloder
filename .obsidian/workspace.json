@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vpn-notes.md",
-                "mode": "preview",
+                "file": "设计心理学1、3读书报告.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "fc4da4169d119546",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -134,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "vpn-notes.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -152,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vpn-notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +175,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vpn-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,8 +200,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d84d40059d0e94fc",
+  "active": "fc4da4169d119546",
   "lastOpenFiles": [
+    "设计心理学1、3读书报告.md",
+    "认知心理学期末.md",
+    "认知实验文献总结.md",
+    "vpn-notes.md",
     "未命名 14.md",
     "。.md",
     "实验心理学慕课.md",
@@ -215,7 +224,6 @@
     "cs-ai/auto-drive/07-1506825938-711583.pdf.crdownload",
     "cs-ai/auto-drive/07-1451474753-693290.pdf",
     "cs-ai/auto-drive/07-1451474753-693290.pdf.crdownload",
-    "设计心理学读书报告.md",
     "cs61a.md",
     "堆排序.md",
     "cs-ai/cs61a/README.md",
@@ -235,15 +243,12 @@
     "cs-ai/cognitive/cognitive-proposal/assets/images/abc.jpg",
     "cs-ai/cognitive/cognitive-proposal/README.md",
     "cs-ai/cognitive/cognitive-proposal/HTML/assets/images/work.jpg",
-    "认知心理学期末.md",
     "心理测量.md",
     "发展心理学期末.md",
     "心理测量期末汇报.md",
     "心理测量推文.md",
     "发展心理学PPT2.md",
     "发展心理学PPT1.md",
-    "发展心理学整理-1.md",
-    "实验心理学.md",
     "未命名.canvas"
   ]
 }
