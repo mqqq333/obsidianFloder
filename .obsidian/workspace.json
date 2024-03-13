@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f41bfd721d9507ac",
+            "id": "d84d40059d0e94fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "。.md",
-                "mode": "source",
+                "file": "vpn-notes.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "。.md"
+                "file": "vpn-notes.md"
               }
             }
           }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "。.md",
+                "file": "vpn-notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "。.md",
+                "file": "vpn-notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,8 +195,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0448c9b787a237c",
+  "active": "d84d40059d0e94fc",
   "lastOpenFiles": [
+    "未命名 14.md",
+    "。.md",
     "实验心理学慕课.md",
     "搜书网站集合.md",
     "算法分析基础.md",
@@ -242,8 +244,6 @@
     "发展心理学PPT1.md",
     "发展心理学整理-1.md",
     "实验心理学.md",
-    "模块化程序设计.md",
-    "前端基础知识.md",
     "未命名.canvas"
   ]
 }
