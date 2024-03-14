@@ -14,6 +14,19 @@
               "type": "markdown",
               "state": {
                 "file": "贝叶斯统计作业1.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3803589e04c18149",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "贝叶斯统计作业1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -21,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -195,10 +209,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a4039caab65a19e",
+  "active": "3803589e04c18149",
   "lastOpenFiles": [
-    "cs-ai/信号与认知系统/SinalDetectionRep.docx",
     "贝叶斯统计作业1.md",
+    "cs-ai/信号与认知系统/SinalDetectionRep.docx",
     "设计心理学2、4读书报告.md",
     "cs-ai/工程心理学/设计心理学2、4读书报告.pdf",
     "设计心理学1、3读书报告.md",
@@ -221,7 +235,6 @@
     "cs-ai/新建文件夹",
     "cs-ai/auto-drive/07-1506825938-711583.pdf",
     "cs-ai/auto-drive/07-1506825938-711583.pdf.crdownload",
-    "cs-ai/auto-drive/07-1451474753-693290.pdf",
     "cs61a.md",
     "堆排序.md",
     "cs-ai/cs61a/README.md",
