@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c2e0df569db6a30b",
+        "id": "0886a6023a9b9373",
         "type": "tabs",
         "children": [
           {
-            "id": "fc4da4169d119546",
+            "id": "7a4039caab65a19e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设计心理学2、4读书报告.md",
+                "file": "贝叶斯统计作业1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "设计心理学2、4读书报告.md"
+                "file": "贝叶斯统计作业1.md"
               }
             }
           }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "设计心理学2、4读书报告.md",
+                "file": "贝叶斯统计作业1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "设计心理学2、4读书报告.md",
+                "file": "贝叶斯统计作业1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -195,11 +195,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc4da4169d119546",
+  "active": "7a4039caab65a19e",
   "lastOpenFiles": [
+    "cs-ai/信号与认知系统/SinalDetectionRep.docx",
+    "贝叶斯统计作业1.md",
+    "设计心理学2、4读书报告.md",
     "cs-ai/工程心理学/设计心理学2、4读书报告.pdf",
     "设计心理学1、3读书报告.md",
-    "设计心理学2、4读书报告.md",
     "认知心理学期末.md",
     "认知实验文献总结.md",
     "vpn-notes.md",
@@ -220,7 +222,6 @@
     "cs-ai/auto-drive/07-1506825938-711583.pdf",
     "cs-ai/auto-drive/07-1506825938-711583.pdf.crdownload",
     "cs-ai/auto-drive/07-1451474753-693290.pdf",
-    "cs-ai/auto-drive/07-1451474753-693290.pdf.crdownload",
     "cs61a.md",
     "堆排序.md",
     "cs-ai/cs61a/README.md",
@@ -243,7 +244,6 @@
     "心理测量.md",
     "发展心理学期末.md",
     "心理测量期末汇报.md",
-    "心理测量推文.md",
     "未命名.canvas"
   ]
 }
