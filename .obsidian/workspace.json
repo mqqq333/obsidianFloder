@@ -4,29 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0886a6023a9b9373",
+        "id": "de2a8ce7286eb285",
         "type": "tabs",
         "children": [
           {
-            "id": "7a4039caab65a19e",
+            "id": "e8de6c0f69e6b1ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "贝叶斯统计作业1.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "3803589e04c18149",
+            "id": "1ce7c81a1b29bd34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "贝叶斯统计作业1.md",
+                "file": "可用性测试.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -34,6 +29,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -92,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "371c6e27066d2e21",
@@ -149,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "贝叶斯统计作业1.md"
+                "file": "可用性测试.md"
               }
             }
           }
@@ -166,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "贝叶斯统计作业1.md",
+                "file": "可用性测试.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "贝叶斯统计作业1.md",
+                "file": "可用性测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -209,15 +204,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a4039caab65a19e",
+  "active": "1ce7c81a1b29bd34",
   "lastOpenFiles": [
+    "可用性测试.md",
+    "贝叶斯统计作业1.md",
     "cs-ai/工程心理学/~$qq空间直播可用性测试_腾讯版.pptx",
     "cs-ai/工程心理学/qq空间直播可用性测试_腾讯版.pptx",
     "cs-ai/工程心理学/qq空间直播可用性测试_腾讯版.pptx.crdownload",
     "cs-ai/贝叶斯统计/贝叶斯统计作业1.pdf",
     "cs-ai/贝叶斯统计",
     "cs-ai/新建文件夹 (2)",
-    "贝叶斯统计作业1.md",
     "cs-ai/信号与认知系统/SinalDetectionRep.docx",
     "设计心理学2、4读书报告.md",
     "cs-ai/工程心理学/设计心理学2、4读书报告.pdf",
@@ -235,7 +231,6 @@
     "auto-drive.md",
     "cs-ai/NMAcademy/~$project presentation.pptx",
     "cs-ai/NMAcademy/~$P working memory project .docx",
-    "cs-ai/NMAcademy/project presentation.pptx",
     "cs61a.md",
     "堆排序.md",
     "cs-ai/cs61a/README.md",
