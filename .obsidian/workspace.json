@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "de2a8ce7286eb285",
+        "id": "df5172b44e75498e",
         "type": "tabs",
         "children": [
           {
-            "id": "1ce7c81a1b29bd34",
+            "id": "4a54d896b85a2350",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240320211653.png"
+                "file": "未命名 15.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -132,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240320211653.png"
+                "file": "未命名 15.md"
               }
             }
           }
@@ -149,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240320211653.png",
+                "file": "未命名 15.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240320211653.png",
+                "file": "未命名 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -192,10 +195,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ce7c81a1b29bd34",
+  "active": "4a54d896b85a2350",
   "lastOpenFiles": [
-    "可用性测试.md",
     "Pasted image 20240320211653.png",
+    "未命名 15.md",
+    "可用性测试.md",
     "贝叶斯统计作业1.md",
     "cs-ai/工程心理学/~$qq空间直播可用性测试_腾讯版.pptx",
     "cs-ai/工程心理学/qq空间直播可用性测试_腾讯版.pptx",
@@ -239,7 +243,6 @@
     "cs-ai/cognitive/cognitive-proposal/assets/images/abc.jpg",
     "cs-ai/cognitive/cognitive-proposal/README.md",
     "心理测量.md",
-    "发展心理学期末.md",
     "未命名.canvas"
   ]
 }
