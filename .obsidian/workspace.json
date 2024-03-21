@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 15.md",
-                "mode": "preview",
+                "file": "maqi_3210104896_4.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 15.md"
+                "file": "maqi_3210104896_4.md"
               }
             }
           }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 15.md",
+                "file": "maqi_3210104896_4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 15.md",
+                "file": "maqi_3210104896_4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,6 +210,9 @@
   },
   "active": "4a54d896b85a2350",
   "lastOpenFiles": [
+    "maqi_3210104896_4.pdf",
+    "ML-ass1.md",
+    "My_CS_LearningSchedule.md",
     "未命名 15.md",
     "Pasted image 20240320211653.png",
     "可用性测试.md",
@@ -254,8 +257,6 @@
     "cs-ai/cognitive/cognitive-proposal/assets/images/face.jpg",
     "cs-ai/cognitive/cognitive-proposal/assets/images/about.jpg",
     "cs-ai/cognitive/cognitive-proposal/assets/images/abc.jpg",
-    "cs-ai/cognitive/cognitive-proposal/README.md",
-    "心理测量.md",
     "未命名.canvas"
   ]
 }
