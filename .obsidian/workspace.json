@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maqi_3210104896_4.md",
+                "file": "可用性测试.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "maqi_3210104896_4.md"
+                "file": "可用性测试.md"
               }
             }
           }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maqi_3210104896_4.md",
+                "file": "可用性测试.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "maqi_3210104896_4.md",
+                "file": "可用性测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,6 +210,7 @@
   },
   "active": "4a54d896b85a2350",
   "lastOpenFiles": [
+    "maqi_3210104896_4.md",
     "cs-ai/mqqq333/assets/github-contribution-grid-snake.svg",
     "cs-ai/mqqq333/assets/github-contribution-grid-snake.gif",
     "cs-ai/mqqq333/assets",
@@ -256,7 +257,6 @@
     "cs-ai/cognitive/cognitive-proposal/assets/images/logo.png",
     "cs-ai/cognitive/cognitive-proposal/assets/images/home.jpg",
     "cs-ai/cognitive/cognitive-proposal/assets/images/face.jpg",
-    "cs-ai/cognitive/cognitive-proposal/assets/images/about.jpg",
     "未命名.canvas"
   ]
 }
