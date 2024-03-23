@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 17.md",
+                "file": "贝叶斯统计作业2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 17.md"
+                "file": "贝叶斯统计作业2.md"
               }
             }
           }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 17.md",
+                "file": "贝叶斯统计作业2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 17.md",
+                "file": "贝叶斯统计作业2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -211,8 +211,8 @@
   },
   "active": "a50e753d6826017b",
   "lastOpenFiles": [
-    "贝叶斯统计作业2.md",
     "未命名 17.md",
+    "贝叶斯统计作业2.md",
     "未命名 15.md",
     "贝叶斯统计作业1.md",
     "可用性测试.md",
