@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "贝叶斯统计作业2.md",
+                "file": "可用性测试.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -34,7 +34,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "贝叶斯统计作业2.md"
+                "file": "可用性测试.md"
               }
             }
           }
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "贝叶斯统计作业2.md",
+                "file": "可用性测试.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "贝叶斯统计作业2.md",
+                "file": "可用性测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -209,10 +208,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a50e753d6826017b",
+  "active": "6eb113a679079bb9",
   "lastOpenFiles": [
-    "贝叶斯统计作业1.md",
+    "cs-ai/工程心理学/可用性测试.pdf",
     "贝叶斯统计作业2.md",
+    "贝叶斯统计作业1.md",
     "未命名 17.md",
     "未命名 15.md",
     "可用性测试.md",
@@ -250,7 +250,6 @@
     "cs61a.md",
     "堆排序.md",
     "cs-ai/cs61a/README.md",
-    "英一.md",
     "cs-ai/cognitive/cognitive-proposal/assets/fonts/fontawesome-webfont.svg",
     "cs-ai/cognitive/cognitive-proposal/assets/images/work.jpg",
     "cs-ai/cognitive/cognitive-proposal/assets/images/qualtrics.png",
