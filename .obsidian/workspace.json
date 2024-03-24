@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "可用性测试.md",
+                "file": "贝叶斯统计作业2.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "可用性测试.md"
+                "file": "贝叶斯统计作业2.md"
               }
             }
           }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "可用性测试.md",
+                "file": "贝叶斯统计作业2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "可用性测试.md",
+                "file": "贝叶斯统计作业2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,12 +210,12 @@
   },
   "active": "6eb113a679079bb9",
   "lastOpenFiles": [
-    "cs-ai/工程心理学/可用性测试.pdf",
-    "贝叶斯统计作业2.md",
     "贝叶斯统计作业1.md",
+    "贝叶斯统计作业2.md",
+    "可用性测试.md",
+    "cs-ai/工程心理学/可用性测试.pdf",
     "未命名 17.md",
     "未命名 15.md",
-    "可用性测试.md",
     "maqi_3210104896_4.md",
     "cs-ai/mqqq333/assets/github-contribution-grid-snake.svg",
     "cs-ai/mqqq333/assets/github-contribution-grid-snake.gif",
@@ -230,7 +230,6 @@
     "cs-ai/新建文件夹 (2)",
     "cs-ai/Images/blob/main/banner.jfif",
     "cs-ai/Images/blob/main",
-    "cs-ai/Images/blob/新建文件夹",
     "ML-ass1.md",
     "My_CS_LearningSchedule.md",
     "Pasted image 20240320211653.png",
