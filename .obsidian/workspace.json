@@ -34,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -208,8 +209,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6eb113a679079bb9",
+  "active": "a50e753d6826017b",
   "lastOpenFiles": [
+    "cs-ai/贝叶斯统计/贝叶斯统计作业2.pdf",
     "贝叶斯统计作业1.md",
     "贝叶斯统计作业2.md",
     "可用性测试.md",
