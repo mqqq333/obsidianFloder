@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "6bc5b2b7c611f266",
+            "id": "985b9a010e7ee913",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 16.md",
+                "file": "工心推文1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 16.md"
+                "file": "工心推文1.md"
               }
             }
           }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 16.md",
+                "file": "工心推文1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 16.md",
+                "file": "工心推文1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -209,10 +209,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6bc5b2b7c611f266",
+  "active": "985b9a010e7ee913",
   "lastOpenFiles": [
-    "未命名 16.md",
+    "Pasted image 20240325202332.png",
     "工心推文1.md",
+    "未命名 16.md",
     "Pasted image 20240325202239.png",
     "贝叶斯统计作业2.md",
     "cs-ai/贝叶斯统计/贝叶斯统计作业2.pdf",
@@ -251,7 +252,6 @@
     "GithubHomepage.md",
     "auto-drive.md",
     "cs61a.md",
-    "堆排序.md",
     "cs-ai/cognitive/cognitive-proposal/assets/fonts/fontawesome-webfont.svg",
     "cs-ai/cognitive/cognitive-proposal/assets/images/work.jpg",
     "cs-ai/cognitive/cognitive-proposal/assets/images/qualtrics.png",
