@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98f00280e2e61b79",
+            "id": "a756ef9c96a706de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工心推文1.md",
+                "file": "可用性测试总结.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "985b9a010e7ee913",
+            "id": "e184f71b3a5b3b2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工心推文1.md",
+                "file": "可用性测试总结.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "371c6e27066d2e21",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工心推文1.md"
+                "file": "可用性测试总结.md"
               }
             }
           }
@@ -166,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工心推文1.md",
+                "file": "可用性测试总结.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工心推文1.md",
+                "file": "可用性测试总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -209,11 +210,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "985b9a010e7ee913",
+  "active": "e184f71b3a5b3b2f",
   "lastOpenFiles": [
+    "Pasted image 20240325233405.png",
+    "Pasted image 20240325233353.png",
+    "Pasted image 20240325233236.png",
+    "QQ2024325-215252.mp4",
+    "可用性测试总结.md",
+    "ee5bfc6221ac2815db5886ec4f12451.jpg",
+    "工心推文1.md",
+    "cs-ai/工程心理学/~$qq空间直播可用性测试_腾讯版.pptx",
     "Pasted image 20240325205221.png",
     "Pasted image 20240325202332.png",
-    "工心推文1.md",
     "未命名 16.md",
     "Pasted image 20240325202239.png",
     "贝叶斯统计作业2.md",
@@ -234,8 +242,6 @@
     "cs-ai/mqqq333",
     "cs-ai/新建 文本文档.txt",
     "cs-ai/README.md",
-    "cs-ai/新建文件夹 (2)",
-    "cs-ai/Images/blob/main/banner.jfif",
     "ML-ass1.md",
     "My_CS_LearningSchedule.md",
     "Pasted image 20240320211653.png",
@@ -252,12 +258,7 @@
     "未命名 1.canvas",
     "GithubHomepage.md",
     "auto-drive.md",
-    "cs61a.md",
     "cs-ai/cognitive/cognitive-proposal/assets/fonts/fontawesome-webfont.svg",
-    "cs-ai/cognitive/cognitive-proposal/assets/images/work.jpg",
-    "cs-ai/cognitive/cognitive-proposal/assets/images/qualtrics.png",
-    "cs-ai/cognitive/cognitive-proposal/assets/images/Posner.jpg",
-    "cs-ai/cognitive/cognitive-proposal/assets/images/logo.png",
     "未命名.canvas"
   ]
 }
