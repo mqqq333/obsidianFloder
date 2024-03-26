@@ -14,6 +14,19 @@
               "type": "markdown",
               "state": {
                 "file": "工心推文1.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e0756fd5fdb83da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工心推文1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -197,6 +210,7 @@
   },
   "active": "ea299b840d83dbad",
   "lastOpenFiles": [
+    "工心推文1.md",
     "可用性测试总结.md",
     "cs-ai/工程心理学/可用性测试总结.pdf",
     "Pasted image 20240326083907.png",
@@ -210,7 +224,6 @@
     "Pasted image 20240325233353.png",
     "Pasted image 20240325233236.png",
     "QQ2024325-215252.mp4",
-    "工心推文1.md",
     "cs-ai/工程心理学/~$qq空间直播可用性测试_腾讯版.pptx",
     "未命名 16.md",
     "贝叶斯统计作业2.md",
