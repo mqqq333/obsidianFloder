@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0cd38d81d2ca1c3",
+        "id": "c889a5660ccb1097",
         "type": "tabs",
         "children": [
           {
-            "id": "a756ef9c96a706de",
+            "id": "ea299b840d83dbad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "可用性测试总结.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e184f71b3a5b3b2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "可用性测试总结.md",
+                "file": "工心推文1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -93,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "371c6e27066d2e21",
@@ -150,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "可用性测试总结.md"
+                "file": "工心推文1.md"
               }
             }
           }
@@ -167,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "可用性测试总结.md",
+                "file": "工心推文1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "可用性测试总结.md",
+                "file": "工心推文1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -210,8 +195,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e184f71b3a5b3b2f",
+  "active": "ea299b840d83dbad",
   "lastOpenFiles": [
+    "可用性测试总结.md",
     "cs-ai/工程心理学/可用性测试总结.pdf",
     "Pasted image 20240326083907.png",
     "Pasted image 20240326083744.png",
@@ -224,7 +210,6 @@
     "Pasted image 20240325233353.png",
     "Pasted image 20240325233236.png",
     "QQ2024325-215252.mp4",
-    "可用性测试总结.md",
     "工心推文1.md",
     "cs-ai/工程心理学/~$qq空间直播可用性测试_腾讯版.pptx",
     "未命名 16.md",
@@ -242,7 +227,6 @@
     "cs-ai/mqqq333/新建 文本文档.txt",
     "cs-ai/mqqq333/README.md",
     "cs-ai/mqqq333",
-    "cs-ai/新建 文本文档.txt",
     "cs-ai/README.md",
     "ML-ass1.md",
     "My_CS_LearningSchedule.md",
