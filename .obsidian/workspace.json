@@ -11,9 +11,12 @@
             "id": "ea299b840d83dbad",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240327091921.png"
+                "file": "工心推文1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -132,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240327091921.png"
+                "file": "工心推文1.md"
               }
             }
           }
@@ -149,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240327091921.png",
+                "file": "工心推文1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240327091921.png",
+                "file": "工心推文1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,6 +197,9 @@
   },
   "active": "ea299b840d83dbad",
   "lastOpenFiles": [
+    "Pasted image 20240327091921.png",
+    "cs-ai/工程心理学/~WRL2472.tmp",
+    "cs-ai/工程心理学/~WRD2464.tmp",
     "工心推文1.md",
     "Pasted image 20240327091912.png",
     "Pasted image 20240325205221.png",
@@ -206,7 +212,6 @@
     "cs-ai/工程心理学/新建 Microsoft Word 文档.docx",
     "Pasted image 20240327091947.png",
     "Pasted image 20240327091937.png",
-    "Pasted image 20240327091921.png",
     "可用性测试总结.md",
     "cs-ai/工程心理学/可用性测试总结.pdf",
     "Pasted image 20240326083907.png",
@@ -222,8 +227,6 @@
     "未命名 17.md",
     "未命名 15.md",
     "maqi_3210104896_4.md",
-    "cs-ai/mqqq333/assets",
-    "cs-ai/mqqq333/新建 文本文档 (2).txt",
     "cs-ai/mqqq333/README.md",
     "cs-ai/README.md",
     "ML-ass1.md",
