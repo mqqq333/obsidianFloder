@@ -11,12 +11,9 @@
             "id": "ea299b840d83dbad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "工心推文1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
+                "file": "Pasted image 20240327091921.png"
               }
             }
           }
@@ -135,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工心推文1.md"
+                "file": "Pasted image 20240327091921.png"
               }
             }
           }
@@ -152,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工心推文1.md",
+                "file": "Pasted image 20240327091921.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工心推文1.md",
+                "file": "Pasted image 20240327091921.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -197,8 +194,8 @@
   },
   "active": "ea299b840d83dbad",
   "lastOpenFiles": [
-    "Pasted image 20240327091912.png",
     "工心推文1.md",
+    "Pasted image 20240327091912.png",
     "Pasted image 20240325205221.png",
     "Pasted image 20240325202332.png",
     "机器学习.md",
