@@ -34,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -208,8 +209,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ea299b840d83dbad",
+  "active": "e0756fd5fdb83da3",
   "lastOpenFiles": [
+    "Pasted image 20240327091746.png",
     "工心推文1.md",
     "可用性测试总结.md",
     "cs-ai/工程心理学/可用性测试总结.pdf",
